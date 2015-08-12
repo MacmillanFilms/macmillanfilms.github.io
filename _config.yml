@@ -1,6 +1,7 @@
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.macmillanfilms.com" # the base hostname & protocol for your site
+enforce_ssl: www.macmillanfilms.com
 
 # Build settings
 markdown: kramdown
