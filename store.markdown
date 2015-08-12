@@ -1,19 +1,7 @@
 ---
 layout: page
-status: publish
 permalink: /store/
-published: true
 title: Easy Ways to Purchase DVDs
-author:
-  display_name: admin
-  login: admin
-  email: james@macmillanfilms.com
-  url: http://macmillanfilms.com
-author_login: admin
-author_email: james@macmillanfilms.com
-author_url: http://macmillanfilms.com
-wordpress_id: 93
-wordpress_url: http://macmillanfilms.com/newsite/?page_id=93
 date: '2013-08-20 19:45:21 -0400'
 date_gmt: '2013-08-20 23:45:21 -0400'
 categories: []
