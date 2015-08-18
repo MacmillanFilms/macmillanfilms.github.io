@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<span hidden>
+<span>
 	<div itemscope itemtype="http://schema.org/Product">
 	  <span itemprop="brand">Macmillan Films</span>
 	  <span itemprop="name">{{ page.title }}</span>
