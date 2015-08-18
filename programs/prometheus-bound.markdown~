@@ -1,12 +1,19 @@
 ---
 layout: product
 status: publish
-price: 100
-image: https://macmillancdn.appspot.com/wp-content/uploads/2015/04/Prometheus-Bound-Staging-DVD.jpg
 sidetxt: Buy Now for $100
 paypall-id: E2QDGNU8P6LG6
 published: true
 title: Prometheus Bound
+author:
+  display_name: admin
+  login: admin
+  email: james@macmillanfilms.com
+  url: http://macmillanfilms.com
+author_login: admin
+author_email: james@macmillanfilms.com
+author_url: http://macmillanfilms.com
+wordpress_id: 297
 permalink: /programs/prometheus-bound/
 wordpress_url: http://www.macmillanfilms.com/?page_id=297
 date: '2015-04-18 20:29:35 -0400'
