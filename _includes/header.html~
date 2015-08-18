@@ -1,14 +1,8 @@
-<div itemscope itemtype="http://schema.org/LocalBusiness" id="page" class="hfeed site">
 <header id="masthead" class="site-header" role="banner" style="background-size: 1600px auto;">
-<a class="home-link" href="/" title="Macmillan Films" rel="home">
-<h1 itemprop="name" class="site-title">Macmillan Films</h1>
-<h2 class="site-description">
-<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-<span itemprop="streetAddress">P.O Box 224</span><br/>
-<span itemprop="addressLocality">Old Greenwich</span>, 
-<span itemprop="addressRegion">CT</span> 
-<span itemprop="postalCode">06870</span></span><br/>
-<span itemprop="telephone">(917) 664-0507</span></h2>
+
+	<a class="home-link" href="{{ site.baseurl }}/" title="Macmillan Films" rel="home">
+		<h1 class="site-title">Macmillan Films</h1>
+		<h2 class="site-description">P.O Box 224<br>Old Greenwich, CT 06870<br>(917) 664-0507</h2>
 	</a>
 	<div id="navbar" class="navbar">
 		<nav id="site-navigation" class="navigation main-navigation" role="navigation">
