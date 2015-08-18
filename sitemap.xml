@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://www.macmillanfilms.com/</loc>
+  <lastmod>2015-08-18T18:59:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.macmillanfilms.com/programs/lysistrata-documentary/</loc>
+  <lastmod>2015-08-18T18:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.macmillanfilms.com/programs/lysistrata-feature-film/</loc>
+  <lastmod>2015-08-18T18:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.macmillanfilms.com/programs/lysistrata-staging/</loc>
+  <lastmod>2015-08-18T18:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.macmillanfilms.com/programs/prometheus-bound/</loc>
+  <lastmod>2015-08-18T18:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.macmillanfilms.com/programs/the-bacchae/</loc>
+  <lastmod>2015-08-18T18:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.macmillanfilms.com/programs/the-oresteia/</loc>
+  <lastmod>2015-08-18T18:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.macmillanfilms.com/programs/western-philosophy/</loc>
+  <lastmod>2015-08-18T18:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.macmillanfilms.com/programs/antigone/</loc>
+  <lastmod>2015-08-18T18:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.macmillanfilms.com/programs/cyclops/</loc>
+  <lastmod>2015-08-18T18:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.macmillanfilms.com/educational-mission/</loc>
+  <lastmod>2015-08-18T18:59:31+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://www.macmillanfilms.com/store/</loc>
+  <lastmod>2015-08-18T18:59:31+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+</urlset>
