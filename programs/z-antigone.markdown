@@ -24,5 +24,6 @@ categories: []
 tags: []
 ---
 <a href="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/3DAntigone.jpg"><img class="alignnone  wp-image-152" src="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/3DAntigone-872x1024.jpg" alt="3DAntigone" width="605" height="710" /></a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PIjsdS49agI" frameborder="0" allowfullscreen></iframe>
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/PIjsdS49agI" frameborder="0" allowfullscreen></iframe></p>
 
