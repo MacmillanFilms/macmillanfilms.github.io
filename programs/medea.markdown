@@ -16,8 +16,7 @@ author_login: admin
 author_email: james@macmillanfilms.com
 author_url: http://macmillanfilms.com
 wordpress_id: 39
-permalink: /programs/lysistrata-documentary/
-wordpress_url: http://macmillanfilms.com/newsite/?page_id=39
+permalink: /programs/medea/
 date: '2016-06-01 15:11:10 -0400'
 date_gmt: '2016-06-01 19:11:10 -0400'
 categories: []
