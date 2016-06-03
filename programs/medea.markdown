@@ -2,7 +2,7 @@
 layout: product
 status: publish
 price: 100
-image: https://macmillancdn.appspot.com/images/3DLysistrataDocwithRearSm.jpg
+image: /image/3DMedeaFrontandBackcropped.jpg
 sidetxt: Olivia Sutherland delivers an inspired performance as Medea in this complete staging of Euripides’ masterpiece.  Experience the full complexity and poetic impact of the rarely-staged original Medea in Peter Arnott’s powerful translation. The Olivia Sutherland Medea Includes the romantic scenes with Aegis, all the poetic choral odes and the triumphant ending. Price $100
 paypall-id: 
 published: true
