@@ -22,7 +22,5 @@ date_gmt: '2016-06-01 19:11:10 -0400'
 categories: []
 tags: []
 ---
-<p><img class="  aligncenter" src="/image/3DMedeaFrontandBackcropped.jpg" alt="" width="631" /></p>
-<p><img class="  aligncenter" src="/image/Medea_Staging_MacMillan_Films_Staring_Olivia_Sutherland.jpg" alt="" width="631" /></p>
-
-
+![Medea Box](/image/3DMedeaFrontandBackcropped.jpg)
+![Medea on Chariot](/image/Medea_Staging_MacMillan_Films_Staring_Olivia_Sutherland.jpg)
