@@ -57,4 +57,6 @@ Matt Thomas | Boy Warrior
 Chris Thomas | Child 
 Sarah Jean Conway | Female Soldier 
 
-<iframe id="ytplayer" src="https://www.youtube.com/embed/hOOJ1Emr0LI?rel=0&amp;modestbranding=1&amp;autohide=1" width="640" height="390" frameborder="0"></iframe>
+
+<iframe src="//www.youtube.com/embed/hOOJ1Emr0LI?rel=0&amp;modestbranding=1&amp;autohide=1" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
