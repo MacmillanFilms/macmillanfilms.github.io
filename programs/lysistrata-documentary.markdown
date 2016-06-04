@@ -29,6 +29,7 @@ As Hillary Clinton’s campaign pushes boundaries on female leadership, this doc
 
 ___
 **FEATURING:**
+
 Interviewees include the Dean of Hofstra Drama James Kalb, Greek drama scholar Victor Bers from Yale, Elizabeth Scharffenberger from Columbia, Mary English from Monclair State (on the role of women), Jeffrey Hurwitt (on Greek forms in modern architecture) and many contemporary female leaders including Norma Kamali, Jane Fonda, Katrina vanden Heuvel, Carol Jenkins, NY State Senator Liz Krueger, Katha Pollitt and many others.
 
 Jane Fonda - actress, writer and antiwar activist. She rose to fame in the 1960s with films such as Barbarella and won Academy Awards for Klute and Coming Home, the story of a Vietnam War veteran. Recent work includes Monster in Law (2005) and Georgia Rule (2007). Fonda has served as a forceful opponent to the Vietnam War and more recently to the Iraq War.
