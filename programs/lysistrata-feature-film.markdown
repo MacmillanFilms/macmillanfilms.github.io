@@ -12,9 +12,7 @@ date_gmt: '2014-01-02 16:27:29 -0500'
 categories: []
 tags: []
 ---
-<center> 
-  ![Box Art](https://macmillancdn.appspot.com/wp-content/uploads/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE.jpg) 
-</center>
+![Box Art](https://macmillancdn.appspot.com/wp-content/uploads/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE.jpg) 
 
 Available on DVD - NTSC - 1 hr  24 min
 
