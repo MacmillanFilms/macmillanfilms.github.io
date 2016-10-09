@@ -24,18 +24,11 @@ categories: []
 tags: []
 ---
 <p><img class="aligncenter" style="border: 0px;" title="The PBS Documentary on Western Philosophy" src="https://macmillancdn.appspot.com/images/3DWisdomwithRearSm.jpg" alt="Western Philosophy DVD - an intorduction" width="648" height="452" border="0" /></p>
-<div align="left">This program on Western Philosophy, was produced in response to the 9/11 terror attacks, and makes the case for the West - and in particular the West's pluralistic approach to reasoning and morality.  Interviews with nine clear thinkers give an introduction to Western Philosophy.  Subjects introduced include building up a moral system, the golden rule, the basics of logic (premise and inference) and pluralism.  The ideals of Plato, Aristotle, Otto Neurath,  <span class="st">Kierkegaard</span> , Wittenstein and John Rawls are also discussed.</div>
-<div align="left"></div>
-<div align="left"></div>
-<div align="left"></div>
-<div align="left">
+<div align="left">This program on Western Philosophy, was produced in response to the 9/11 terror attacks, and makes the case for the West - and in particular the West's pluralistic approach to reasoning and morality.  Interviews with nine clear thinkers give an introduction to Western Philosophy.  Subjects introduced include building up a moral system, the golden rule, the basics of logic (premise and inference) and pluralism.  The ideals of Plato, Aristotle, Otto Neurath,  <span class="st">Kierkegaard</span> , Wittenstein and John Rawls are also discussed.
 <p>FEATURING: Akeel Bilgrami, Taylor Carman, Arthur Danto, Virginia Held, Diana Meyers, Susan Neiman, Bernard Reginster, Richard Rorty &amp; Achille Varzi</p>
-</div>
-<div align="left">
 <p> The below section from this PBS documentary features Richard Rorty and Susan Neiman</p>
-<p>[embed]https://youtu.be/LY7JonOQJio?list=PLm2zChNEamqx4Xl5eNwZvsJDhUBGJchrZ[/embed]</p>
-<p>&nbsp;</p>
 </div>
-<div align="left"></div>
-<div align="left"></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LY7JonOQJio?list=PLm2zChNEamqx4Xl5eNwZvsJDhUBGJchrZ" frameborder="0" allowfullscreen></iframe>
+
 <div align="left"><img style="border: 0px;" src="https://macmillancdn.appspot.com/images/9PhilosophersBand.jpg" alt="" border="0" /></div>
