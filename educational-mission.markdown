@@ -7,7 +7,9 @@ date_gmt: '2013-08-20 23:37:30 -0400'
 categories: []
 tags: []
 ---
-<p>MacMillan Films is dedicated to producing thoughtful educational programing that instructs and inspires.  Our mission is to produce programs that "preserves Western civilization" and communicate the benefits of a pluralist society.  Many of our titles are Greek dramas and documentaries about philosophy and democracy. Our focus on the ancient Greeks comes from the fact that so many of the current rivers of thought and art lead back and converge there.</p>
-<p>If you have a suggestion for programming that you think we should consider - or are looking for a content producer ,  please send us an e-mail or <strong>call (917) 664-0507</strong>.</p>
-<p><a href="https://www.macmillancdn.appspot.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-25-at-3.16.52-PM.png"><img class="alignnone size-large wp-image-162" src="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-25-at-3.16.52-PM-1024x570.png" alt="Screen Shot 2014-04-25 at 3.16.52 PM" width="604" height="336" /></a></p>
-<p><a href="{{ site.baseurl }}/programs/lysistrata-documentary/"><img class="alignnone size-large wp-image-155" src="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/3DLysistrataDocwithRearLarge-1024x714.jpg" alt="3DLysistrataDocwithRearLarge" width="604" height="421" /></a></p>
+MacMillan Films is dedicated to producing thoughtful educational programing that instructs and inspires.  Our mission is to produce programs that "preserves Western civilization" and communicate the benefits of a pluralist society.  Many of our titles are Greek dramas and documentaries about philosophy and democracy. Our focus on the ancient Greeks comes from the fact that so many of the current rivers of thought and art lead back and converge there.
+
+If you have a suggestion for programming that you think we should consider - or are looking for a content producer ,  please send us an e-mail or **call (917) 664-0507**.
+![](https://macmillancdn.appspot.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-25-at-3.16.52-PM-1024x570.png)
+
+[![3DLysistrataDocwithRearLarge](https://macmillancdn.appspot.com/wp-content/uploads/2014/04/3DLysistrataDocwithRearLarge-1024x714.jpg)]({{ site.baseurl }}/programs/lysistrata-documentary/)
