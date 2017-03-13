@@ -8,7 +8,7 @@ layout: default
 	  <img itemprop="image" src="{{ page.image }}" alt="{{ page.title }} Box" />
 	  <span itemprop="description">{{ page.sidetxt }}
 	  </span>
-	
+
 	  <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 	    <meta itemprop="priceCurrency" content="USD" />
 	    $<span itemprop="price">{{ page.price }}</span>
@@ -24,7 +24,7 @@ layout: default
 	<div hidden class="author vcard"><a class="fn">Macmillan Films</a></div>
 	<div hidden class="updated"> {{ site.time }} </div>
 	<header class="entry-header">
-		
+
 		<h1 class="entry-title">{{ page.title }}</h1>
 	</header><!-- .entry-header -->
 
@@ -46,14 +46,14 @@ layout: default
 		<h3 class="widget-title">About This Program</h3>
 		{{ page.sidetxt }}
 
-<div style="text-align:center"> 
+<div style="text-align:center">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="{{ page.paypall-id }}">
-<input type="image" src="https://macmillancdn.appspot.com/images/buynow2.png" width="224" height="74" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="image" src="image/buynow.svg" width="224" height="74" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-</div>	</div>				
+</div>	</div>
 		</aside>			</div><!-- .widget-area -->
 		</div><!-- .sidebar-inner -->
 	</div><!-- #tertiary -->
