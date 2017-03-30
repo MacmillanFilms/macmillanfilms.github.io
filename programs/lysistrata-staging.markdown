@@ -3,7 +3,7 @@ layout: product
 status: publish
 price: 100
 image: https://macmillancdn.appspot.com/wp-content/uploads/2013/08/LYSISTRATAcompSM.jpg
-sidetxt: The complete complete staging of Aristophanes’ masterpiece is available on DVD - $100.
+sidetxt: The complete staging of Aristophanes’ masterpiece is available on DVD - $100.
 paypall-id: R5HDRKDH7TNH8
 published: true
 title: Lysistrata Staging
