@@ -4,7 +4,7 @@ status: publish
 price: 100
 image: https://macmillancdn.appspot.com/wp-content/uploads/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg
 published: true
-sidetxt: Join us for a staging of the only complete Satyr play to survive antiquity. Translated by Peter D. Arnott into English from the original Greek,  Euripides ludicrous comedy is brought to life with marionettes that preserve the effect of classical masks. $100
+sidetxt:  $100
 paypall-id: WJLTWK5NN2NBC
 title: Cyclops
 author:
@@ -23,8 +23,12 @@ date_gmt: '2014-04-25 19:32:06 -0400'
 categories: []
 tags: []
 ---
+
 <a href="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/3DCyclops.jpg"><img class="alignnone size-large wp-image-154" src="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/3DCyclops-872x1024.jpg" alt=" Cyclops" width="604" height="709" /></a>
 ![Cyclops Greek Drama](/image/Cyclops_Greek_Drama_Cast.jpg)
+
 <p><a href="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/CYCLOPS_DVD-rear-art.jpg"><img class="alignnone size-large wp-image-333" src="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg" alt="CYCLOPS_DVD rear art" width="604" height="867" /></a></p>
+
+Join us for a staging of the only complete Satyr play to survive antiquity. Translated by Peter D. Arnott into English from the original Greek,  Euripides ludicrous comedy is brought to life with marionettes that preserve the effect of classical masks.
+
 <p><iframe src="//www.youtube.com/embed/NUMJQ9ILtr4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-<p>&nbsp;</p>
