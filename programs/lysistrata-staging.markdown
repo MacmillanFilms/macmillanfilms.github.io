@@ -3,7 +3,7 @@ layout: product
 status: publish
 price: 100
 image: https://macmillancdn.appspot.com/wp-content/uploads/2013/08/LYSISTRATAcompSM.jpg
-sidetxt: As part of our documentary on Female Leadership and Democracy we have staged a complete production of Aristophanes’ masterpiece, LYSISTRATA which is being distributed through Insight Media or just click on the link below. COST OF COMPLETE STAGING - $100.
+sidetxt: The complete complete staging of Aristophanes’ masterpiece is available for - $100.
 paypall-id: R5HDRKDH7TNH8
 published: true
 title: Lysistrata Staging
