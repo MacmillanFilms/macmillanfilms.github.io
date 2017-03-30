@@ -15,4 +15,8 @@ tags: []
 <p style="text-align: center;"><a title="WISDOM FOR LIFE" href="/programs/western-philosophy/">"Wisdom for Life"</a><span style="color: #000000;"> the indispensable PBS introduction to Western Philosophy</span></p>
 
 <p><a title="Western Philosophy" href="/programs/western-philosophy/"><img class="aligncenter" src="https://macmillancdn.appspot.com/images/3DWisdomwithRearSm.jpg" alt="" width="648" height="452" border="0" /></a><a href="{{ site.baseurl }}/programs/the-bacchae/"><img class="aligncenter" src="https://macmillancdn.appspot.com/images/3DBacchaewithRearSm.jpg" alt="" width="648" height="452" border="0" /></a></p>
-![DVD of Medea Staging](/image/Medea_Staging_MacMillan_Films_Staring_Olivia_Sutherland.jpg)
+
+
+[![DVD of Medea Staging](/image/Medea_Staging_MacMillan_Films_Staring_Olivia_Sutherland.jpg)](/programs/medea/)
+
+<p style="text-align: center;">Medea -- our latest production -- is now available on DVD.</p>
