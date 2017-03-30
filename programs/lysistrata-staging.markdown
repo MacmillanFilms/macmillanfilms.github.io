@@ -3,7 +3,7 @@ layout: product
 status: publish
 price: 100
 image: https://macmillancdn.appspot.com/wp-content/uploads/2013/08/LYSISTRATAcompSM.jpg
-sidetxt: The complete complete staging of Aristophanes’ masterpiece is available for - $100.
+sidetxt: The complete complete staging of Aristophanes’ masterpiece is available on DVD - $100.
 paypall-id: R5HDRKDH7TNH8
 published: true
 title: Lysistrata Staging
@@ -27,7 +27,7 @@ tags: []
 
 This is the popular complete staging of Aristophanes shocking comic masterpiece featureing Iris McQuillan-Grace in the title role and a talented ensemble cast.  Come see why sexual politics are timelessly funny. Remastered in HD in 2016.
 
-![Lysistrata Staging](/images/Lysistrata_Staging.jpg)
+![Lysistrata Staging](/image/Lysistrata_Staging.jpg)
 
 Lysistrata is an absurdest comedy about the war-weary women of Athens who band together in a sex strike to end the Peloponnesian war – is the first time the West hit upon many new ideas. One idea – the “crazy” notion that woman can participate in political life -- was to be picked up by Plato and would reverberate in the West from that time onwards. It is an idea that only today holds the promise of delivering sustained benefit to civilization. Will woman be allowed to participate in political life without being vilified as Medusa? Will woman be allowed to create their own path without following in aggressive male models? Or will we continue to demonized powerful woman in all the scared male projections found in our Greek cultural inheritance?  As the election with Hillary Clinton shows, the jury is still out. 
 
