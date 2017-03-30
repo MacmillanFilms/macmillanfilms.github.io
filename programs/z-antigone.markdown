@@ -8,9 +8,6 @@ title: Antigone
 sidetxt: <p>DVD feature $100 </p>
 paypall-id: 484MJUHTYDRWS
 
-Join us for a staging of Peter Artnott's translation of Sophocles' Antigone - staged with marionettes.  This DVD features the remastered audio of Peter Arnott and the voice of Kelly Addyman as Antigone. Peter's translations benefited from years of live performances,  which is why they are regarded so highly as the perfect blend of scholarship and fun.
-
-
 author:
   display_name: admin
   login: admin
@@ -26,6 +23,9 @@ date: '2014-04-25 14:53:31 -0400'
 date_gmt: '2014-04-25 18:53:31 -0400'
 categories: []
 tags: []
+
+Join us for a staging of Peter Artnott's translation of Sophocles' Antigone - staged with marionettes.  This DVD features the remastered audio of Peter Arnott and the voice of Kelly Addyman as Antigone. Peter's translations benefited from years of live performances,  which is why they are regarded so highly as the perfect blend of scholarship and fun.
+
 ---
 <a href="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/3DAntigone.jpg"><img class="alignnone  wp-image-152" src="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/3DAntigone-872x1024.jpg" alt="3DAntigone" width="605" height="710" /></a>
 
