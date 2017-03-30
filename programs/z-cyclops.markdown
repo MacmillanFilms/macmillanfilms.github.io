@@ -4,7 +4,7 @@ status: publish
 price: 100
 image: https://macmillancdn.appspot.com/wp-content/uploads/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg
 published: true
-sidetxt: $100
+sidetxt: Join us for a staging of the only complete Satyr play to survive antiquity. Translated by Peter D. Arnott into English from the original Greek,  Euripides ludicrous comedy is brought to life with marionette that preserves the effect of classical masks. $100
 paypall-id: WJLTWK5NN2NBC
 title: Cyclops
 author:
