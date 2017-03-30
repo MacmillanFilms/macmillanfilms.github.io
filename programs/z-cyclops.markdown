@@ -4,7 +4,7 @@ status: publish
 price: 100
 image: https://macmillancdn.appspot.com/wp-content/uploads/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg
 published: true
-sidetxt:  $100
+sidetxt: DVD Available for $100
 paypall-id: WJLTWK5NN2NBC
 title: Cyclops
 author:
@@ -29,6 +29,6 @@ tags: []
 
 <p><a href="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/CYCLOPS_DVD-rear-art.jpg"><img class="alignnone size-large wp-image-333" src="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg" alt="CYCLOPS_DVD rear art" width="604" height="867" /></a></p>
 
-Join us for a staging of the only complete Satyr play to survive antiquity. Translated by Peter D. Arnott into English from the original Greek,  Euripides ludicrous comedy is brought to life with marionettes that preserve the effect of classical masks.
+Join us for a staging of the only complete Satyr play to survive antiquity. Translated by Peter D. Arnott into English from the original Greek,  Euripides ludicrous comedy is brought to life with marionettes which preserve the effect of classical masks.
 
 <p><iframe src="//www.youtube.com/embed/NUMJQ9ILtr4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
