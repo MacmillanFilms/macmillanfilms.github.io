@@ -2,6 +2,26 @@
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.macmillanfilms.com" # the base hostname & protocol for your site
 enforce_ssl: www.macmillanfilms.com
+description: Educational Programming Studio
+image: \\www.macmillanfilms.com/images/logo.svg
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-octicons
+  - jekyll-sitemap
+
+jekyll-mentions:
+    base_url: https://github.com
+
+compress_html:
+    ignore:
+        envs:
+        - development
+        - stage
+
+sass:
+    style: compressed
+
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "FAQ.md", "econ-ipsum*","01projects.md"]

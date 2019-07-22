@@ -2,7 +2,7 @@
 layout: product
 status: publish
 price: 100
-image: https://macmillancdn.appspot.com/wp-content/uploads/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg
+image: \\www.macmillanfilms.com/images/content/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg
 published: true
 sidetxt: DVD Available for $100
 paypall-id: WJLTWK5NN2NBC
@@ -24,11 +24,12 @@ categories: []
 tags: []
 ---
 
-<a href="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/3DCyclops.jpg"><img class="alignnone size-large wp-image-154" src="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/3DCyclops-872x1024.jpg" alt=" Cyclops" width="604" height="709" /></a>
-![Cyclops Greek Drama](/image/Cyclops_Greek_Drama_Cast.jpg)
+[![ Cyclops]({{ site.baseurl }}/images/content/2014/04/3DCyclops-872x1024.jpg)]({{ site.baseurl }}/images/content/2014/04/3DCyclops.jpg)
 
-<p><a href="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/CYCLOPS_DVD-rear-art.jpg"><img class="alignnone size-large wp-image-333" src="https://macmillancdn.appspot.com/wp-content/uploads/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg" alt="CYCLOPS_DVD rear art" width="604" height="867" /></a></p>
+![Cyclops Greek Drama](/images/content/Cyclops_Greek_Drama_Cast.jpg)
 
-Join us for a staging of the only complete Satyr play to survive antiquity. Translated by Peter D. Arnott into English from the original Greek,  Euripides ludicrous comedy is brought to life with marionettes which preserve the effect of classical masks.
+[![CYCLOPS_DVD rear art]({{ site.baseurl }}/images/content/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg)]({{ site.baseurl }}/images/content/2014/04/CYCLOPS_DVD-rear-art.jpg)
 
-<p><iframe src="//www.youtube.com/embed/NUMJQ9ILtr4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+Join us for a staging of the only complete Satyr play to survive antiquity. Translated by Peter D. Arnott into English from the original Greek, Euripides ludicrous comedy is brought to life with marionettes which preserve the effect of classical masks.
+
+<iframe src="//www.youtube.com/embed/NUMJQ9ILtr4?rel=0&amp;modestbranding=1&amp;autohide=1" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
