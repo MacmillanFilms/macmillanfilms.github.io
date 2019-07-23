@@ -1,50 +1,52 @@
 <script>
-	(function () {
-		var cx = '017390942883608981040:p8am1fc1d9c';
-		var gcse = document.createElement('script');
-		gcse.type = 'text/javascript';
-		gcse.async = true;
-		gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-			'//cse.google.com/cse.js?cx=' + cx;
-		var s = document.getElementsByTagName('script')[0];
-		s.parentNode.insertBefore(gcse, s);
-	})();
+	if (/\?q=/i.test(window.location.href)) {
+		(function () {
+			var cx = '017390942883608981040:p8am1fc1d9c';
+			var gcse = document.createElement('script');
+			gcse.type = 'text/javascript';
+			gcse.async = true;
+			gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+				'//cse.google.com/cse.js?cx=' + cx;
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(gcse, s);
+		})();
+	}
 </script>
 <div itemscope itemtype="http://schema.org/LocalBusiness" id="page" class="hfeed site">
 	<header id="masthead" class="site-header" role="banner" style="background-size: 1600px auto;">
 		<a class="home-link" href="/" title="Macmillan Films" rel="home">
-			<h2 itemprop="name" class="site-title">Macmillan Films</h2>
+			<h1 itemprop="name" class="site-title">Macmillan Films</h1>
 			<h2 class="site-description">
-				Educational Programming Studio</br>
-				Phone: <span itemprop="telephone">(917) 664-0507</span></h2>
+				Educational Programming Studio
+			</h2>
+			<h3 class="site-description">
+				Phone: <span itemprop="telephone">(917) 664-0507</span>
+			</h3>
 		</a>
 		<div id="navbar" class="navbar">
 			<nav id="site-navigation" class="navigation main-navigation" role="navigation">
 				<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
 				<div class="menu-container">
-					<li>
-						<input id="check01" type="checkbox" name="menu" />
-						<label for="check01" class="menu-toggle">Menu {% octicon triangle-down %}</label>
-						<ul class="nav-menu">
-							<li class="menu-item menu-item-home"><a href="{{ site.baseurl }}/">Home</a>
-							</li>
-							<li class="menu-item menu-item-has-children"><a>Programs</a>
-								<ul class="sub-menu">
-									{% for page in site.pages %}
-									{% if page.layout == 'product' %}
-									<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-											href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-									{% endif %}
-									{% endfor %}
-								</ul>
-							</li>
-							<li id="menu-item-mission" class="menu-item menu-item-type-post_type menu-item-object-page">
-								<a href="{{ site.baseurl }}/educational-mission/">Educational Mission</a></li>
-							<li id="menu-item-buyoptions"
-								class="menu-item menu-item-type-post_type menu-item-object-page">
-								<a href="{{ site.baseurl }}/store/">Buying Options</a></li>
-						</ul>
-					</li>
+					<input id="check01" type="checkbox" name="menu" />
+					<label for="check01" class="menu-toggle">Menu {% octicon triangle-down %}</label>
+					<ul class="nav-menu">
+						<li class="menu-item menu-item-home"><a href="{{ site.baseurl }}/">Home</a>
+						</li>
+						<li class="menu-item menu-item-has-children"><a>Programs</a>
+							<ul class="sub-menu">
+								{% for page in site.pages %}
+								{% if page.layout == 'product' %}
+								<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
+										href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+								{% endif %}
+								{% endfor %}
+							</ul>
+						</li>
+						<li id="menu-item-mission" class="menu-item menu-item-type-post_type menu-item-object-page">
+							<a href="{{ site.baseurl }}/educational-mission/">Educational Mission</a></li>
+						<li id="menu-item-buyoptions" class="menu-item menu-item-type-post_type menu-item-object-page">
+							<a href="{{ site.baseurl }}/store/">Buying Options</a></li>
+					</ul>
 				</div>
 				<form role="search" method="get" class="search-form" action="">
 					<label>

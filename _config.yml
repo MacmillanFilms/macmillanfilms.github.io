@@ -2,7 +2,7 @@
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.macmillanfilms.com" # the base hostname & protocol for your site
 enforce_ssl: www.macmillanfilms.com
-description: Educational Programming Studio
+description: A film studio which makes eductional movies for broadcast, institutional, and home use.
 image: \\www.macmillanfilms.com/images/logo.svg
 
 # Build settings

@@ -2893,6 +2893,7 @@ footer.entry-meta {
 @media (max-width: 767px) {
 	.site-header .home-link {
 		min-height: 0;
+		padding-bottom: 10px;
 	}
 	.site-title {
 		font-size: 36px;
@@ -2922,6 +2923,10 @@ footer.entry-meta {
 
 .menu-container input {
 	display:none;
+}
+
+.menu-container > li {
+	display:block; // fix for Chrome
 }
 
 @media (max-width: 643px) {
@@ -3116,9 +3121,10 @@ footer.entry-meta {
 }
 
 /* Mobile devices */
-@media (max-width: 359px) {
+@media (max-width: 395px) {
 	.site-title {
 		font-weight: normal;
+		padding-bottom: 0px;
 	}
 	.site-description {
 	    clip: rect(1px, 1px, 1px, 1px);

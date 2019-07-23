@@ -6,6 +6,8 @@ date_gmt: '2013-08-20 18:15:58 -0400'
 categories: []
 tags: []
 ---
+Macmillan Films is a film studio which makes eductional movies for broadcast, institutional, and home use. We also do web videos, broadcast television, and product shots for clients through our subsidiary [BrandApplause](//brandapplause.com).
+
 <div style="text-align: center;" markdown="1">
 
 [![Prometheus Bound Staging DVD]({{ site.baseurl }}/images/content/2015/04/Prometheus-Bound-Staging-DVD-1024x732.jpg)]({{ site.baseurl }}/programs/prometheus-bound/)
