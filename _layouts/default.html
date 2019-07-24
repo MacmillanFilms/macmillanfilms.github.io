@@ -14,26 +14,18 @@ layout: compress
 
 {% include head.html %}
 
-<body class="page page-template-default single-author sidebar">
+<body class="sidebar">
 
 	{% include header.html %}
 
-	<div id="main" class="site-main">
+	<div id="content" class="site-main">
 
-		<div id="primary" class="content-area">
-			<div id="content" class="site-content" role="main">
+		{{ content }}
 
+	</div><!-- #content -->
 
-				{{ content }}
-
-
-				<div id="comments" class="comments-area">
-
-				</div><!-- #comments -->
-			</div><!-- #content -->
-		</div><!-- #primary -->
-	</div><!-- #main -->
 	{% include footer.html %}
+
 </body>
 
 </html>

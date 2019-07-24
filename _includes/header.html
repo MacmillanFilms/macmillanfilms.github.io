@@ -13,48 +13,57 @@
 	}
 </script>
 <div itemscope itemtype="http://schema.org/LocalBusiness" id="page" class="hfeed site">
-	<header id="masthead" class="site-header" role="banner" style="background-size: 1600px auto;">
+	<meta itemprop="image" content="{{ site.image }}" />
+	<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+		<meta itemprop="addressLocality" content="Old Greenwich" />
+		<meta itemprop="addressRegion" content="CT" />
+		<meta itemprop="postalCode" content="06870" />
+	</div>
+	<meta itemprop="priceRange" content="$" />
+	<header id="masthead" class="site-header" style="background-size: 1600px auto;">
 		<a class="home-link" href="/" title="Macmillan Films" rel="home">
-			<h1 itemprop="name" class="site-title">Macmillan Films</h1>
-			<h2 class="site-description">
-				Educational Programming Studio
-			</h2>
-			<h3 class="site-description">
-				Phone: <span itemprop="telephone">(917) 664-0507</span>
-			</h3>
+			<h2 itemprop="name" class="site-title">Macmillan Films</h2>
+				<h2 class="site-description">
+					Educational Programming Studio
+				</h2>
+				<h3 class="site-description">
+					Phone: <span itemprop="telephone">(917) 664-0507</span>
+				</h3>
 		</a>
 		<div id="navbar" class="navbar">
-			<nav id="site-navigation" class="navigation main-navigation" role="navigation">
+			<nav id="site-navigation" class="main-navigation">
 				<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
 				<div class="menu-container">
-					<input id="check01" type="checkbox" name="menu" />
-					<label for="check01" class="menu-toggle">Menu {% octicon triangle-down %}</label>
+					<input id="home-dropdown" type="checkbox" name="menu" />
+					<label for="home-dropdown" class="menu-toggle">Menu {% octicon triangle-down %}</label>
 					<ul class="nav-menu">
-						<li class="menu-item menu-item-home"><a href="{{ site.baseurl }}/">Home</a>
+						<li class="menu-item menu-item-home">
+							<a href="{{ site.baseurl }}/">Home</a>
 						</li>
 						<li class="menu-item menu-item-has-children"><a>Programs</a>
 							<ul class="sub-menu">
 								{% for page in site.pages %}
 								{% if page.layout == 'product' %}
-								<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-										href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+								<li>
+									<a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+								</li>
 								{% endif %}
 								{% endfor %}
 							</ul>
 						</li>
-						<li id="menu-item-mission" class="menu-item menu-item-type-post_type menu-item-object-page">
+						<li id="menu-item-mission">
 							<a href="{{ site.baseurl }}/educational-mission/">Educational Mission</a></li>
-						<li id="menu-item-buyoptions" class="menu-item menu-item-type-post_type menu-item-object-page">
+						<li id="menu-item-buyoptions">
 							<a href="{{ site.baseurl }}/store/">Buying Options</a></li>
 					</ul>
 				</div>
-				<form role="search" method="get" class="search-form" action="">
+				<form method="get" class="search-form" action="{{ page.url }}">
 					<label>
 						<span class="screen-reader-text">Search for:</span>
 						<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="q"
 							title="Search for:" />
 					</label>
-					<input type="submit" target="_blank" class="search-submit" value="Search" />
+					<input type="submit" class="search-submit" value="Search" />
 				</form>
 			</nav><!-- #site-navigation -->
 		</div><!-- #navbar -->

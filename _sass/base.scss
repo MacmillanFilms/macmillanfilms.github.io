@@ -953,6 +953,7 @@ ul.nav-menu .focus > ul,
 
 .site-header .search-field:focus {
 	background-color: #fff;
+	background-image: url(/images/search-icon-b.png);
 	border: 2px solid #c3c0ab;
 	cursor: text;
 	outline: 0;
@@ -2486,7 +2487,7 @@ footer.entry-meta {
 	-ms-hyphens:     auto;
 	hyphens:         auto;
 	margin: 0 0 24px;
-	padding: 20px;
+	padding: 30px;
 	word-wrap: break-word;
 }
 

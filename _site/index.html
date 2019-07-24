@@ -32,12 +32,13 @@
 	<!--[if lt IE 9]>
 	<script src="/js/html5.js"></script>
 	<![endif]-->
-	<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i&display=swap" rel="stylesheet">
-	<link rel='stylesheet' id='twentythirteen-style-css' href='/css/main.css' type='text/css' media='all' />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i" >
+	<link rel="preconnect" href="https://www.paypal.com/cgi-bin/webscr" crossorigin>
+	<link rel="stylesheet" href="/css/main.css" type="text/css" media="all">
 	<!--[if lt IE 9]>
-	<link rel='stylesheet' id='twentythirteen-ie-css'  href='/css/ie.css' type='text/css' media='all' />
+	<link rel="stylesheet" href="/css/ie.css" type="text/css" media="all" />
 	<![endif]-->
-	<style type="text/css" id="twentythirteen-header-css">
+	<style type="text/css">
 		.site-header {
 			background: url(/images/content/2017/03/cropped-TANYA_CLYTEMNESTRA_dark.png) no-repeat scroll top;
 			background-size: 1600px auto;
@@ -62,7 +63,7 @@
 	</style>
 </head>
 
-<body class="page page-template-default single-author sidebar">
+<body class="sidebar">
 
 	<script>
 	if (/\?q=/i.test(window.location.href)) {
@@ -79,24 +80,32 @@
 	}
 </script>
 <div itemscope itemtype="http://schema.org/LocalBusiness" id="page" class="hfeed site">
-	<header id="masthead" class="site-header" role="banner" style="background-size: 1600px auto;">
+	<meta itemprop="image" content="\\www.macmillanfilms.com/images/logo.svg" />
+	<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+		<meta itemprop="addressLocality" content="Old Greenwich" />
+		<meta itemprop="addressRegion" content="CT" />
+		<meta itemprop="postalCode" content="06870" />
+	</div>
+	<meta itemprop="priceRange" content="$" />
+	<header id="masthead" class="site-header" style="background-size: 1600px auto;">
 		<a class="home-link" href="/" title="Macmillan Films" rel="home">
-			<h1 itemprop="name" class="site-title">Macmillan Films</h1>
-			<h2 class="site-description">
-				Educational Programming Studio
-			</h2>
-			<h3 class="site-description">
-				Phone: <span itemprop="telephone">(917) 664-0507</span>
-			</h3>
+			<h2 itemprop="name" class="site-title">Macmillan Films</h2>
+				<h2 class="site-description">
+					Educational Programming Studio
+				</h2>
+				<h3 class="site-description">
+					Phone: <span itemprop="telephone">(917) 664-0507</span>
+				</h3>
 		</a>
 		<div id="navbar" class="navbar">
-			<nav id="site-navigation" class="navigation main-navigation" role="navigation">
+			<nav id="site-navigation" class="main-navigation">
 				<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
 				<div class="menu-container">
-					<input id="check01" type="checkbox" name="menu" />
-					<label for="check01" class="menu-toggle">Menu <svg class="octicon octicon-triangle-down" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 5l6 6 6-6H0z"/></svg></label>
+					<input id="home-dropdown" type="checkbox" name="menu" />
+					<label for="home-dropdown" class="menu-toggle">Menu <svg class="octicon octicon-triangle-down" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 5l6 6 6-6H0z"/></svg></label>
 					<ul class="nav-menu">
-						<li class="menu-item menu-item-home"><a href="/">Home</a>
+						<li class="menu-item menu-item-home">
+							<a href="/">Home</a>
 						</li>
 						<li class="menu-item menu-item-has-children"><a>Programs</a>
 							<ul class="sub-menu">
@@ -106,57 +115,67 @@
 								
 								
 								
-								<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-										href="/programs/lysistrata-documentary/">Lysistrata Documentary</a></li>
+								<li>
+									<a href="/programs/lysistrata-documentary/">Lysistrata Documentary</a>
+								</li>
 								
 								
 								
-								<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-										href="/programs/lysistrata-feature-film/">Lysistrata Feature Film</a></li>
+								<li>
+									<a href="/programs/lysistrata-feature-film/">Lysistrata Feature Film</a>
+								</li>
 								
 								
 								
-								<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-										href="/programs/lysistrata-staging/">Lysistrata Staging</a></li>
-								
-								
-								
-								
-								
-								<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-										href="/programs/medea/">Medea</a></li>
-								
-								
-								
-								<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-										href="/programs/prometheus-bound/">Prometheus Bound</a></li>
+								<li>
+									<a href="/programs/lysistrata-staging/">Lysistrata Staging</a>
+								</li>
 								
 								
 								
 								
 								
-								<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-										href="/programs/the-bacchae/">The Bacchae</a></li>
+								<li>
+									<a href="/programs/medea/">Medea</a>
+								</li>
 								
 								
 								
-								<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-										href="/programs/the-oresteia/">The Oresteia</a></li>
+								<li>
+									<a href="/programs/prometheus-bound/">Prometheus Bound</a>
+								</li>
 								
 								
 								
-								<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-										href="/programs/western-philosophy/">Western Philosophy</a></li>
+								
+								
+								<li>
+									<a href="/programs/the-bacchae/">The Bacchae</a>
+								</li>
 								
 								
 								
-								<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-										href="/programs/antigone/">Antigone</a></li>
+								<li>
+									<a href="/programs/the-oresteia/">The Oresteia</a>
+								</li>
 								
 								
 								
-								<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-										href="/programs/cyclops/">Cyclops</a></li>
+								<li>
+									<a href="/programs/western-philosophy/">Western Philosophy</a>
+								</li>
+								
+								
+								
+								<li>
+									<a href="/programs/antigone/">Antigone</a>
+								</li>
+								
+								
+								
+								<li>
+									<a href="/programs/cyclops/">Cyclops</a>
+								</li>
 								
 								
 								
@@ -165,36 +184,65 @@
 								
 							</ul>
 						</li>
-						<li id="menu-item-mission" class="menu-item menu-item-type-post_type menu-item-object-page">
+						<li id="menu-item-mission">
 							<a href="/educational-mission/">Educational Mission</a></li>
-						<li id="menu-item-buyoptions" class="menu-item menu-item-type-post_type menu-item-object-page">
+						<li id="menu-item-buyoptions">
 							<a href="/store/">Buying Options</a></li>
 					</ul>
 				</div>
-				<form role="search" method="get" class="search-form" action="">
+				<form method="get" class="search-form" action="/">
 					<label>
 						<span class="screen-reader-text">Search for:</span>
 						<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="q"
 							title="Search for:" />
 					</label>
-					<input type="submit" target="_blank" class="search-submit" value="Search" />
+					<input type="submit" class="search-submit" value="Search" />
 				</form>
 			</nav><!-- #site-navigation -->
 		</div><!-- #navbar -->
 	</header><!-- #masthead -->
 </div>
 
-	<div id="main" class="site-main">
+	<div id="content" class="site-main">
 
-		<div id="primary" class="content-area">
-			<div id="content" class="site-content" role="main">
+		<div id="sidebar" class="sidebar-container" role="complementary">
+	<div class="sidebar-inner">
+		<div class="widget-area">
+			<aside class="widget">
+				<h3 class="widget-title">Purchase</h3>
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+					<input type="hidden" name="cmd" value="_s-xclick">
+					<input type="hidden" name="hosted_button_id" value="46L6X5NSEZ3ZE">
+					<p>
+						<input type="hidden" name="on0" value="DVD Title Selection">DVD Title Selection
+						<select name="os0">
+							<option value="Medea">Medea $100.00</option>
+							<option value="Oresteia">Oresteia $200.00</option>
+							<option value="Lysistrata Feature Film">Lysistrata Feature Film $100.00</option>
+							<option value="The Bacchae Staging">The Bacchae Staging $100.00</option>
+							<option value="Lysistrata Staging">Lysistrata Staging $100.00</option>
+							<option value="Lysistrata Documentary">Lysistrata Documentary $100.00</option>
+							<option value="Prometheus Bound">Prometheus Bound $100.00</option>
+							<option value="Western Philosophy: Wisdom for Life">Wisdom for Life $100.00</option>
+							<option value="The Cyclops">The Cyclops $100.00</option>
+							<option value="Antigone">Antigone $100.00</option>
+						</select>
+					</p>
+					<input type="hidden" name="currency_code" value="USD">
+					<p align="center">
+						<button class="buynow" type="submit" name="submit"
+							alt="Buy Now with PayPal"><svg class="octicon octicon-package" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg> Buy Now</button>
+					</p>
+				</form>
+			</aside>
+		</div>
+	</div>
+</div>
 
-
-				<article id="post" class="page type-page status-publish hentry">
+<article id="post" class="hentry">
 	<div hidden class="author vcard"><a class="fn">Macmillan Films</a></div>
-	<div hidden class="updated"> 2019-07-23 12:00:20 -0500 </div>
+	<div hidden class="updated">2019-07-23 16:38:34 -0500</div>
 	<header class="entry-header">
-
 		<h1 class="entry-title">Home</h1>
 	</header><!-- .entry-header -->
 
@@ -226,63 +274,10 @@
 </div>
 
 	</div><!-- .entry-content -->
-
-	<footer class="entry-meta">
-	</footer><!-- .entry-meta -->
 </article><!-- #post -->
 
-<div id="tertiary" class="sidebar-container" role="complementary">
-	<div class="sidebar-inner">
-		<div class="widget-area">
-			<aside class="widget">
-				<div class="textwidget">
+	</div><!-- #content -->
 
-					<aside id="text-3" class="widget widget_text">
-						<h3 class="widget-title">Purchase</h3>
-						<div class="textwidget">
-							<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-								<input type="hidden" name="cmd" value="_s-xclick">
-								<input type="hidden" name="hosted_button_id" value="46L6X5NSEZ3ZE">
-
-								<input type="hidden" name="on0" value="DVD Title Selection">DVD Title Selection</td>
-								<select name="os0">
-									<option value="Medea">Medea $100.00</option>
-									<option value="Oresteia">Oresteia $200.00</option>
-									<option value="Lysistrata Feature Film">Lysistrata Feature Film $100.00
-									</option>
-									<option value="The Bacchae Staging">The Bacchae Staging $100.00</option>
-									<option value="Lysistrata Staging">Lysistrata Staging $100.00</option>
-									<option value="Lysistrata Documentary">Lysistrata Documentary $100.00
-									</option>
-									<option value="Prometheus Bound">Prometheus Bound $100.00</option>
-									<option value="Western Philosophy: Wisdom for Life">Wisdom for Life $100.00
-									</option>
-									<option value="The Cyclops">The Cyclops $100.00</option>
-									<option value="Antigone">Antigone $100.00</option>
-								</select>
-								<input type="hidden" name="currency_code" value="USD">
-								<p align="center" style="margin-top: 14px;">
-									<button class="buynow" type="submit" name="submit"
-										alt="Buy Now with PayPal"><svg class="octicon octicon-package" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg> Buy Now</button>
-									<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
-										width="1" height="1">
-								</p>
-							</form>
-						</div>
-					</aside>
-				</div><!-- .widget-area -->
-			</aside>
-		</div><!-- .sidebar-inner -->
-	</div><!-- #tertiary -->
-</div>
-
-
-				<div id="comments" class="comments-area">
-
-				</div><!-- #comments -->
-			</div><!-- #content -->
-		</div><!-- #primary -->
-	</div><!-- #main -->
 	<div class="gcse-searchresults-only"></div>
 <footer id="colophon" class="site-footer" role="contentinfo">
 	<div class="site-info">
@@ -292,6 +287,7 @@
 </footer><!-- #colophon -->
 <meta itemprop="url" content="https://www.macmillanfilms.com/">
 <meta itemprop="email" content="james@macmillanfilms.com">
+
 </body>
 
 </html>
