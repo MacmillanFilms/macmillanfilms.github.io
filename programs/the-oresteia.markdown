@@ -27,7 +27,7 @@ The complete Oresteia is now available as a three-DVD pack which includes Agamem
 
 [![Oresteia Trilogy DVD Complete Staging of Peter Arnott Translation from the Greek]({{ site.baseurl }}/images/content/2014/04/3D-Oresteia-withRearLarge-1024x714.jpg)]({{ site.baseurl }}/images/content/2014/04/3D-Oresteia-withRearLarge.jpg)
 
-Director James Thomas, brings together a talented young cast and Peter Arnott's faithful translation, to unleash the gruesome raw power of the Oresteia. This beautifully-spoken original staging makes vivid the poetry and wisdom - and the themes of terror, revenge and justice - that are Aeschylus' eternal trilogy.</p>
+Director James Thomas, brings together a talented young cast and Peter Arnott's faithful translation, to unleash the gruesome raw power of the Oresteia. This beautifully-spoken original staging makes vivid the poetry and wisdom - and the themes of terror, revenge and justice - that are Aeschylus' eternal trilogy.
 
 <iframe src="https://www.youtube.com/embed/I_BBr20t_gA?rel=0&amp;modestbranding=1&amp;autohide=1" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

@@ -25,7 +25,7 @@ tags: []
 ---
 ![Lysistrata: Beyond Sex]({{ site.baseurl }}/images/content/2013/08/LYSISTRATAcompSM.jpg)
 
-This is the popular complete staging of Aristophanes shocking comic masterpiece featureing Iris McQuillan-Grace in the title role and a talented ensemble cast. Come see why sexual politics are timelessly funny. Remastered in HD in 2016.
+This is the popular complete staging of Aristophanes shocking comic masterpiece featuring Iris McQuillan-Grace in the title role and a talented ensemble cast. Come see why sexual politics are timelessly funny. Remastered in HD in 2016.
 
 ![Lysistrata Staging](/images/content/Lysistrata_Staging.jpg)
 

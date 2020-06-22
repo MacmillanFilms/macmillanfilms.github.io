@@ -25,7 +25,7 @@ tags: []
 ---
 ![Box Art]({{ site.baseurl }}/images/content/3DLysistrataDocwithRearSm.jpg)
 
-This documentary explores Aristophanes' masterpiece about female civic power. Interviews include Jane Fonda, Katrina vanden Heuvel, Carol Jenkins, Senator Liz Krueger and Katha Pollitt. Aristophanes' timeless comedy about a sex strike and a power grab, reveals much about the ancient archetypes that still impact current political thought.
+This documentary explores Aristophanes' masterpiece about female civic power. Interviews include Jane Fonda, Katrina Vanden Heuvel, Carol Jenkins, Senator Liz Krueger and Katha Pollitt. Aristophanes' timeless comedy about a sex strike and a power grab, reveals much about the ancient archetypes that still impact current political thought.
 
 ___
 **FEATURING:**
