@@ -1,15 +1,18 @@
 ---
+title: The Oresteia
+date: 2014-04-25 20:06:16 Z
+permalink: "/programs/the-oresteia/"
 layout: product
 price: 200
-image: /assets/images/content/2014/04/3D-Oresteia-withRearLarge.jpg
-sidetxt: |
-  The Oresteia is the only surviving trilogy of ancient Greek plays. This boxed set contains all three plays of the Oresteia.
+image: "/assets/images/content/2014/04/3D-Oresteia-withRearLarge.jpg"
+sidetxt: 'The Oresteia is the only surviving trilogy of ancient Greek plays. This
+  boxed set contains all three plays of the Oresteia.
+
+'
 paypall-id: T7SDH228HB5H2
 gum-id: oresteia-staging
-title: The Oresteia
-permalink: /programs/the-oresteia/
-date: '2014-04-25 16:06:16 -0400'
 ---
+
 The complete Oresteia is now available as a three-DVD pack which includes Agamemnon, Libation Bearers and Eumenides.
 
 [![Oresteia Trilogy DVD Complete Staging of Peter Arnott Translation from the Greek]({{ site.baseurl }}/assets/images/content/2014/04/3D-Oresteia-withRearLarge-1024x714.jpg)]({{ site.baseurl }}/assets/images/content/2014/04/3D-Oresteia-withRearLarge.jpg)

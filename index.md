@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Home
-date: '2017-08-20 14:15:58 -0400'
+date: 2017-08-20 18:15:58 Z
+layout: page
 ---
+
 Macmillan Films is an independent studio that produces, adapts, and films ancient Greek plays and documentaries. Our productions are held by major Classics departments and libraries worldwide. We have the largest catalog of ancient Greek plays available for academic and personal use. Our staff also produces web videos, broadcast television, and product shots for clients through our media house subsidiary [BrandApplause](//brandapplause.com).
 
 [![Lysistrata Staging]({{ '/assets/images/content/3DLysistratawithRearSm.jpg' | absolute_url }})](https://gum.co/lysistrata-staging/)

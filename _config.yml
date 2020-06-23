@@ -1,35 +1,41 @@
-# Site settings
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.macmillanfilms.com" # the base hostname & protocol for your site
-email: "james@macmillanfilms.com"
-enforce_ssl: www.macmillanfilms.com
-description: A film studio which makes eductional movies for broadcast, institutional, and home use.
-image: "/assets/images/logo.svg"
-
-# Enable searchbar?
-search: true
-
-# Build settings
-markdown: kramdown
-
+---
+title: Macmillanfilms.Github.Io
+timezone: UTC
 collections:
-    programs:
-        output: true
-
+  posts:
+    title: Posts
+    output: true
+  programs:
+    title: Programs
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+baseurl: ''
+url: https://www.macmillanfilms.com
+email: james@macmillanfilms.com
+enforce_ssl: www.macmillanfilms.com
+description: A film studio which makes eductional movies for broadcast, institutional,
+  and home use.
+image: "/assets/images/logo.svg"
+search: true
+markdown: kramdown
 plugins:
-  - jekyll-octicons
-  - jekyll-sitemap
-
+- jekyll-octicons
+- jekyll-sitemap
 jekyll-mentions:
-    base_url: https://github.com
-
+  base_url: https://github.com
 compress_html:
-    ignore:
-        envs:
-        - development
-        - stage
-
+  ignore:
+    envs:
+    - development
+    - stage
 sass:
-    style: compressed
-
-exclude: ["README.md", "Gemfile", "Gemfile.lock", "FAQ.md", "econ-ipsum*","01projects.md"]
+  style: compressed
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- FAQ.md
+- econ-ipsum*
+- 01projects.md

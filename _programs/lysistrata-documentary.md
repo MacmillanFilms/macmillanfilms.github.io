@@ -1,15 +1,21 @@
 ---
+title: Lysistrata Documentary
+date: 2013-08-20 19:11:10 Z
+permalink: "/programs/lysistrata-documentary/"
 layout: product
 price: 100
-image: /assets/images/content/3DLysistrataDocwithRearSm.jpg
-sidetxt: |
-  This PBS Documentary focuses on the provocative ideas in Aristophanes' classic Greek play Lysistrata. This comedy about a sex strike to end war, presages the rise of female leadership from a joke towards a necessary reality. Insightful interviews with prominent theater scholars and female leaders expose the ancient connections among violence, sex, drama, and politics.
+image: "/assets/images/content/3DLysistrataDocwithRearSm.jpg"
+sidetxt: 'This PBS Documentary focuses on the provocative ideas in Aristophanes''
+  classic Greek play Lysistrata. This comedy about a sex strike to end war, presages
+  the rise of female leadership from a joke towards a necessary reality. Insightful
+  interviews with prominent theater scholars and female leaders expose the ancient
+  connections among violence, sex, drama, and politics.
+
+'
 paypall-id: YST9ERU2LTCQE
 gum-id: lysistrata-documentary
-title: Lysistrata Documentary
-permalink: /programs/lysistrata-documentary/
-date: '2013-08-20 15:11:10 -0400'
 ---
+
 ![Box Art]({{ site.baseurl }}/assets/images/content/3DLysistrataDocwithRearSm.jpg)
 
 This documentary explores Aristophanes' masterpiece about female civic power. Interviews include Jane Fonda, Katrina Vanden Heuvel, Carol Jenkins, Senator Liz Krueger and Katha Pollitt. Aristophanes' timeless comedy about a sex strike and a power grab, reveals much about the ancient archetypes that still impact current political thought.

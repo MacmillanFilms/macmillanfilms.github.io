@@ -1,15 +1,19 @@
 ---
+title: Lysistrata Feature Film
+date: 2014-01-02 16:27:29 Z
+permalink: "/programs/lysistrata-feature-film/"
 layout: product
 price: 100
-image: /assets/images/content/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE.jpg
-sidetxt: |
-  Lysistrata the feature film is an adaptation of Aristophanes' Lysistrata to the movie format. This is not a staging of the play, but rather an adaptation with the same plot.
+image: "/assets/images/content/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE.jpg"
+sidetxt: 'Lysistrata the feature film is an adaptation of Aristophanes'' Lysistrata
+  to the movie format. This is not a staging of the play, but rather an adaptation
+  with the same plot.
+
+'
 paypall-id: ZE34FNZFYQ88C
 gum-id: lysistrata-film
-title: Lysistrata Feature Film
-permalink: /programs/lysistrata-feature-film/
-date: '2014-01-02 11:27:29 -0500'
 ---
+
 [![Box Art]({{ site.baseurl }}/assets/images/content/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE-1024x744.jpg) ]({{ site.baseurl }}/assets/images/content/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE.jpg)
 
 Available on DVD - NTSC - 1 hr 24 min

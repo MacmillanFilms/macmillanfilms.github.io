@@ -1,15 +1,19 @@
 ---
+title: Lysistrata Staging
+date: 2013-08-20 20:43:16 Z
+permalink: "/programs/lysistrata-staging/"
 layout: product
 price: 100
-image: /assets/images/content/2013/08/LYSISTRATAcompSM.jpg
-sidetxt: |
-  Lysistrata is a comedy by Aristophanes about the war-weary women of Athens who band together in a sex strike to end the Peloponnesian war. The complete staging of Aristophanes' masterpiece is available on DVD.
+image: "/assets/images/content/2013/08/LYSISTRATAcompSM.jpg"
+sidetxt: 'Lysistrata is a comedy by Aristophanes about the war-weary women of Athens
+  who band together in a sex strike to end the Peloponnesian war. The complete staging
+  of Aristophanes'' masterpiece is available on DVD.
+
+'
 paypall-id: R5HDRKDH7TNH8
 gum-id: lysistrata-staging
-title: Lysistrata Staging
-permalink: /programs/lysistrata-staging/
-date: '2013-08-20 16:43:16 -0400'
 ---
+
 ![Lysistrata: Beyond Sex]({{ site.baseurl }}/assets/images/content/2013/08/LYSISTRATAcompSM.jpg)
 
 This is the popular complete staging of Aristophanes shocking comic masterpiece featuring Iris McQuillan-Grace in the title role and a talented ensemble cast. Come see why sexual politics are timelessly funny. Remastered in HD in 2016.
