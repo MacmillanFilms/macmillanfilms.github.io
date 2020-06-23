@@ -4,30 +4,30 @@
 	<meta property="og:title" content="Macmillan Films | {{ page.title }}" />
 	<meta property="og:locale" content="en_US" />
 	<meta name="description" content="{{ site.description }}" />
-	{% if page.layout == 'product' %}
+	{%- if page.layout == 'product' -%} 
 	<meta property="og:description" content="{{ page.sidetxt }}" />
-	{% else %}
+	{%- else -%} 
 	<meta property="og:description" content="{{ site.description }}" />
-	{% endif %}
-	{% if page.image %}
+	{%- endif -%} 
+	{%- if page.image -%} 
 	<meta property="og:image" content="{{ page.image | absolute_url }}">
-	{% else %}
+	{%- else -%} 
 	<meta property="og:image" content="{{ site.image | absolute_url }}">
-	{% endif %}
+	{%- endif -%} 
 	<link rel="icon" href="{{ site.image | absolute_url }}">
 	<link rel="canonical" href="{{ site.url }}" />
 	<meta property="og:url" content="{{ site.url }}" />
 	<meta property="og:site_name" content="Macmillan Films" />
-	{% if page.layout == 'product' %}
+	{%- if page.layout == 'product' -%} 
 	<meta property="og:type" content="Movie" />
-	{% else %}
+	{%- else -%} 
 	<meta property="og:type" content="Company" />
-	{% endif %}
+	{%- endif -%} 
 	<title>Macmillan Films | {{ page.title }}</title>
 	<!--[if lt IE 9]>
 	<script src="{{ '/assets/js/html5.js' | absolute_url }}"></script>
 	<![endif]-->
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i" >
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i">
 	<link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}" type="text/css" media="all">
 	<!--[if lt IE 9]>
 	<link rel="stylesheet" href="{{ '/assets/css/ie.css' | absolute_url }}" type="text/css" media="all" />
@@ -52,4 +52,7 @@
 			color: #FDFDFD;
 		}
 	</style>
+	{%- if page.layout == 'product' -%}
+	<link rel="prefetch" href="https://gum.co/{{ page.gum-id }}?wanted=true">
+	{%- endif -%}
 </head>

@@ -1,3 +1,9 @@
+{%- if site.search -%}
+<script>
+	{%- include search/search.js -%}
+</script>
+{%- endif -%}
+
 <div itemscope itemtype="http://schema.org/LocalBusiness" id="page" class="hfeed site">
 	<meta itemprop="image" content="{{ site.image }}" />
 	<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -21,18 +27,18 @@
 				<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
 				<div class="menu-container">
 					<input id="home-dropdown" type="checkbox" name="menu" />
-					<label for="home-dropdown" class="menu-toggle">Menu {% octicon triangle-down %}</label>
+					<label for="home-dropdown" class="menu-toggle">Menu {%- octicon triangle-down -%} </label>
 					<ul class="nav-menu">
 						<li class="menu-item menu-item-home">
 							<a href="{{ '/#page' | absolute_url }}">Home</a>
 						</li>
 						<li class="menu-item menu-item-has-children"><a>Programs</a>
 							<ul class="sub-menu">
-								{% for program in site.programs %}
+								{%- for program in site.programs -%} 
 								<li>
 									<a href="{{ program.url | absolute_url }}">{{ program.title }}</a>
 								</li>
-								{% endfor %}
+								{%- endfor -%} 
 							</ul>
 						</li>
 						<li id="menu-item-mission">
@@ -41,6 +47,9 @@
 							<a href="{{ '/#store' | absolute_url }}">Buying Options</a></li>
 					</ul>
 				</div>
+				{%- if site.search -%}
+				{%- include search/searchbar.html -%}
+				{%- endif -%}
 			</nav><!-- #site-navigation -->
 		</div><!-- #navbar -->
 	</header><!-- #masthead -->

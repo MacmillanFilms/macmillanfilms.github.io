@@ -6,6 +6,9 @@ enforce_ssl: www.macmillanfilms.com
 description: A film studio which makes eductional movies for broadcast, institutional, and home use.
 image: "/assets/images/logo.svg"
 
+# Enable searchbar?
+search: true
+
 # Build settings
 markdown: kramdown
 
