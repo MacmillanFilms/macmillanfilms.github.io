@@ -11,7 +11,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-baseurl: ''
+baseurl: 
 url: https://www.macmillanfilms.com
 email: james@macmillanfilms.com
 enforce_ssl: www.macmillanfilms.com
