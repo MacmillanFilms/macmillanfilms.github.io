@@ -12,5 +12,5 @@ date: '2014-04-25 14:53:31 -0400'
 ---
 [![3DAntigone]({{ site.baseurl }}/assets/images/content/2014/04/3DAntigone-872x1024.jpg)]({{ site.baseurl }}/assets/images/content/2014/04/3DAntigone.jpg)
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/PIjsdS49agI?rel=0&amp;modestbranding=1&amp;autohide=1" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/PIjsdS49agI?rel=0&amp;modestbranding=1&amp;autohide=1" class="yt" frameborder="0" allowfullscreen></iframe></p>
 

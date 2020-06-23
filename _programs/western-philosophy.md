@@ -18,6 +18,6 @@ This program on Western Philosophy, was produced in response to the 9/11 terror 
 
 The below section from this PBS documentary features Richard Rorty and Susan Neiman
 
-<iframe width="604" height="340" src="https://www.youtube.com/embed/LY7JonOQJio?list=PLm2zChNEamqx4Xl5eNwZvsJDhUBGJchrZ&rel=0&amp;modestbranding=1&amp;autohide=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="604" height="340" src="https://www.youtube.com/embed/LY7JonOQJio?list=PLm2zChNEamqx4Xl5eNwZvsJDhUBGJchrZ&rel=0&amp;modestbranding=1&amp;autohide=1" class="yt" frameborder="0" allowfullscreen></iframe>
 
 ![Band of 9 Philosophers]({{ site.baseurl }}/assets/images/content/9PhilosophersBand.jpg)

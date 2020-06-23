@@ -10,8 +10,8 @@ title: The Bacchae
 permalink: /programs/the-bacchae/
 date: '2013-08-20 18:53:23 -0400'
 ---
-<img style="border: 0px none;" src="{{ site.baseurl }}/assets/images/content/3DBacchaewithRearSm.jpg" alt="" border="0" />
+![Box Art]({{ site.baseurl }}/assets/images/content/3DBacchaewithRearSm.jpg)
 
 This beautifully staged production of Euripides 406 BC masterpiece is based on Peter Arnott's audience-friendly translation. The story follows Dionysos (played by Mia Perovetz) visiting Thebes disguised as a charismatic young leader at the center of a horde of erotic female bacchae. The immortal play exposes the dangers of fanaticism and deals with the timeless human quest to balance order and spontaneity.
 
-<iframe id="ytplayer" src="https://www.youtube.com/embed/ptFfYRpTc8c?rel=0&amp;modestbranding=1&amp;autohide=1" width="640" height="390" frameborder="0"></iframe>
+<iframe id="ytplayer" src="https://www.youtube.com/embed/ptFfYRpTc8c?rel=0&amp;modestbranding=1&amp;autohide=1" class="yt" width="640" height="390" frameborder="0"></iframe>

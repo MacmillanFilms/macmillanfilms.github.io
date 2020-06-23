@@ -17,4 +17,4 @@ date: '2014-04-25 15:32:06 -0400'
 
 [![CYCLOPS_DVD rear art]({{ site.baseurl }}/assets/images/content/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg)]({{ site.baseurl }}/assets/images/content/2014/04/CYCLOPS_DVD-rear-art.jpg)
 
-<iframe src="//www.youtube.com/embed/NUMJQ9ILtr4?rel=0&amp;modestbranding=1&amp;autohide=1" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="//www.youtube.com/embed/NUMJQ9ILtr4?rel=0&amp;modestbranding=1&amp;autohide=1" class="yt" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
