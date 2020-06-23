@@ -5,10 +5,10 @@ price: 100
 image: \\www.macmillanfilms.com/images/content/2015/04/Prometheus-Bound-Staging-DVD.jpg
 sidetxt: A talented cast brings this Greek masterpiece to the stage with song, dance and an innovative set which allows the immortal story about resisting tyranny to come alive. Features Peter Arnott’s audience tested translation.  An innovative set allows for a dance platform on the top of the skēnē building - allowing the chorus of Oceanids to first appear above Prometheus as in the original. Price $100
 paypall-id: E2QDGNU8P6LG6
+gum-id: prometheus-bound-staging
 published: true
 title: Prometheus Bound
 permalink: /programs/prometheus-bound/
-wordpress_url: http://www.macmillanfilms.com/?page_id=297
 date: '2015-04-18 20:29:35 -0400'
 date_gmt: '2015-04-19 00:29:35 -0400'
 categories: []

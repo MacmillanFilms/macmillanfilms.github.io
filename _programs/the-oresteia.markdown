@@ -5,6 +5,7 @@ price: 200
 image: \\www.macmillanfilms.com/images/content/2014/04/3D-Oresteia-withRearLarge.jpg
 sidetxt: You can get all three plays of the Oresteia now for only $200.
 paypall-id: T7SDH228HB5H2
+gum-id: oresteia-staging
 published: true
 title: The Oresteia
 author:
@@ -15,9 +16,7 @@ author:
 author_login: admin
 author_email: james@macmillanfilms.com
 author_url: http://macmillanfilms.com
-wordpress_id: 178
 permalink: /programs/the-oresteia/
-wordpress_url: http://www.macmillanfilms.com/?page_id=178
 date: '2014-04-25 16:06:16 -0400'
 date_gmt: '2014-04-25 20:06:16 -0400'
 categories: []

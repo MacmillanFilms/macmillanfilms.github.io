@@ -5,6 +5,7 @@ price: 100
 image: \\www.macmillanfilms.com/images/content/3DLysistrataDocwithRearSm.jpg
 sidetxt: This PBS Documentary focuses on the provocative ideas in Aristophanes' classic Greek play Lysistrata. This comedy about a sex strike to end war, presages the rise of female leadership from a joke towards a necessary reality. Insightful interviews with prominent theater scholars and female leaders expose the ancient connections among violence, sex, drama, and politics. Price $100
 paypall-id: YST9ERU2LTCQE
+gum-id: lysistrata-documentary
 published: true
 title: Lysistrata Documentary
 author:
@@ -15,9 +16,7 @@ author:
 author_login: admin
 author_email: james@macmillanfilms.com
 author_url: http://macmillanfilms.com
-wordpress_id: 39
 permalink: /programs/lysistrata-documentary/
-wordpress_url: http://macmillanfilms.com/newsite/?page_id=39
 date: '2013-08-20 15:11:10 -0400'
 date_gmt: '2013-08-20 19:11:10 -0400'
 categories: []

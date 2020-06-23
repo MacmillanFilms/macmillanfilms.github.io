@@ -5,6 +5,7 @@ price: 100
 image: \\www.macmillanfilms.com/images/content/3DBacchaewithRearSm.jpg
 sidetxt: This DVD of of the staging with bonus content is available from our store. The program also features a prologue which explains the family tree of king Cadmus.
 paypall-id: RPZ3YM8NLE9SU
+gum-id: bacchae-staging
 published: true
 title: The Bacchae
 author:
@@ -15,9 +16,7 @@ author:
 author_login: admin
 author_email: james@macmillanfilms.com
 author_url: http://macmillanfilms.com
-wordpress_id: 72
 permalink: /programs/the-bacchae/
-wordpress_url: http://macmillanfilms.com/newsite/?page_id=72
 date: '2013-08-20 18:53:23 -0400'
 date_gmt: '2013-08-20 22:53:23 -0400'
 categories: []

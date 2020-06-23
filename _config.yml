@@ -8,6 +8,9 @@ image: \\www.macmillanfilms.com/images/logo.svg
 # Build settings
 markdown: kramdown
 
+collections:
+  - programs
+
 plugins:
   - jekyll-octicons
   - jekyll-sitemap

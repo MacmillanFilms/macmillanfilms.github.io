@@ -38,23 +38,21 @@
 					<label for="home-dropdown" class="menu-toggle">Menu {% octicon triangle-down %}</label>
 					<ul class="nav-menu">
 						<li class="menu-item menu-item-home">
-							<a href="{{ site.baseurl }}/">Home</a>
+							<a href="#">Home</a>
 						</li>
 						<li class="menu-item menu-item-has-children"><a>Programs</a>
 							<ul class="sub-menu">
-								{% for page in site.pages %}
-								{% if page.layout == 'product' %}
+								{% for program in site.programs %}
 								<li>
-									<a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+									<a href="https://gum.co/{{ program.gum-id }}" target="_blank">{{ program.title }}</a>
 								</li>
-								{% endif %}
 								{% endfor %}
 							</ul>
 						</li>
 						<li id="menu-item-mission">
-							<a href="{{ site.baseurl }}/educational-mission/">Educational Mission</a></li>
+							<a href="#educational-mission">Educational Mission</a></li>
 						<li id="menu-item-buyoptions">
-							<a href="{{ site.baseurl }}/store/">Buying Options</a></li>
+							<a href="#store">Buying Options</a></li>
 					</ul>
 				</div>
 				<form method="get" class="search-form" action="{{ page.url }}">

@@ -4,6 +4,7 @@ price: 100
 image: \\www.macmillanfilms.com/images/content/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE.jpg
 sidetxt: LYSISTRATA the feature film is now available for $100 USD
 paypall-id: ZE34FNZFYQ88C
+gum-id: lysistrata-film
 published: true
 title: Lysistrata Feature Film
 permalink: /programs/lysistrata-feature-film/

@@ -5,6 +5,7 @@ price: 100
 image: \\www.macmillanfilms.com/images/content/3DWisdomwithRearSm.jpg
 sidetxt: <p>This PBS documentary brings together nine outstanding philosophers to explain the tradition of thinking begun by Plato and Aristotle.</p><p>Explore how this tradition can clarify your own worldview.</p><p>Gain valuable insights from some of the greatest thinkers of all time and discover what you really believe when you test your assumptions about logic, certainty, religion, justice and fundamentalism. Price $100</p>
 paypall-id: Q7MY7TTCQK7YG
+gum-id: philosophy-documentary
 published: true
 title: Western Philosophy
 author:
@@ -15,9 +16,7 @@ author:
 author_login: admin
 author_email: james@macmillanfilms.com
 author_url: http://macmillanfilms.com
-wordpress_id: 62
 permalink: /programs/western-philosophy/
-wordpress_url: http://macmillanfilms.com/newsite/?page_id=62
 date: '2013-08-20 16:58:44 -0400'
 date_gmt: '2013-08-20 20:58:44 -0400'
 categories: []

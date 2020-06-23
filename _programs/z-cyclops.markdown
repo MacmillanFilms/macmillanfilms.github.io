@@ -6,6 +6,7 @@ image: \\www.macmillanfilms.com/images/content/2014/04/CYCLOPS_DVD-rear-art-713x
 published: true
 sidetxt: Join us for a staging of the only complete Satyr play to survive antiquity. Translated by Peter D. Arnott into English from the original Greek, Euripides ludicrous comedy is brought to life with marionettes which preserve the effect of classical masks. DVD Available for $100
 paypall-id: WJLTWK5NN2NBC
+gum-id: cyclops-staging
 title: Cyclops
 author:
   display_name: admin
@@ -15,9 +16,7 @@ author:
 author_login: admin
 author_email: james@macmillanfilms.com
 author_url: http://macmillanfilms.com
-wordpress_id: 164
 permalink: /programs/cyclops/
-wordpress_url: http://www.macmillanfilms.com/?page_id=164
 date: '2014-04-25 15:32:06 -0400'
 date_gmt: '2014-04-25 19:32:06 -0400'
 categories: []

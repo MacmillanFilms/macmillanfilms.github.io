@@ -5,6 +5,7 @@ price: 100
 image: \\www.macmillanfilms.com/images/content/2013/08/LYSISTRATAcompSM.jpg
 sidetxt: The complete staging of Aristophanes’ masterpiece is available on DVD - $100.
 paypall-id: R5HDRKDH7TNH8
+gum-id: lysistrata-staging
 published: true
 title: Lysistrata Staging
 author:
@@ -15,9 +16,7 @@ author:
 author_login: admin
 author_email: james@macmillanfilms.com
 author_url: http://macmillanfilms.com
-wordpress_id: 54
 permalink: /programs/lysistrata-staging/
-wordpress_url: http://macmillanfilms.com/newsite/?page_id=54
 date: '2013-08-20 16:43:16 -0400'
 date_gmt: '2013-08-20 20:43:16 -0400'
 categories: []
