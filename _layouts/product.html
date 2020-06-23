@@ -4,7 +4,7 @@ layout: default
 <div hidden itemscope itemtype="http://schema.org/Product">
 	<meta itemprop="brand" content="Macmillan Films" />
 	<meta itemprop="name" content="{{ page.title }}" />
-	<img itemprop="image" src="{{ page.image }}" alt="{{ page.title }} Box" />
+	<img itemprop="image" src="{{ page.image | absolute_url }}" alt="{{ page.title }} Box" />
 	<meta itemprop="description" content="{{ page.sidetxt }}" />
 	<meta itemprop="sku" content="{{ page.title | slugify }}" />
 	{% if page.asin %}<span itemprop="productID" content="asin:{ page.asin }" />{% endif %}
@@ -16,7 +16,7 @@ layout: default
 		</div>
 		<meta itemprop="itemCondition" centent="NewCondition" />
 		<meta itemprop="availability" content="InStock" />
-		<meta itemprop="url" content="{{ site.url }}{{ page.url }}" />
+		<meta itemprop="url" content="{{ page.url | absolute_url }}" />
 	</div>
 </div>
 
@@ -26,16 +26,14 @@ layout: default
 			<aside class="widget">
 				<h3 class="widget-title">About This Program</h3>
 
-				{{ page.sidetxt }}
+				<p>{{ page.sidetxt | markdownify }}</p>
+				<p><b>Price: {{ page.price }}</b></p>
 
 				<div style="text-align: center; margin-top: 14px;">
-					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-						<input type="hidden" name="cmd" value="_s-xclick">
-						<input type="hidden" name="hosted_button_id" value="{{ page.paypall-id }}">
-						<button class="buynow" type="submit" name="submit"
-							alt="Buy Now with PayPal">{% octicon package %} Buy Now</button>
-					</form>
+					{% include paypal/paypal-button.html %}
+					{% include gum/gum-button.html %}
 				</div>
+				<script src="https://gumroad.com/js/gumroad.js"></script>
 			</aside>
 		</div><!-- .widget-area -->
 	</div><!-- .sidebar-inner -->

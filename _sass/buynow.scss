@@ -1,14 +1,15 @@
 .buynow {
-    border: 1px solid $gamma;
-    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0 0 2px;
+    border-radius: 4px;
     font: {
-        size: 22px
+        size: 16px
     }
-}
-
-.octicon {
-    fill: currentColor;
-    vertical-align: text-bottom;
-    width: 1.2em;
-    height: 1.2em;
+    margin: 0.25em;
+    & > svg {
+        fill: currentColor;
+        vertical-align: text-bottom;
+        width: 1.2em;
+        height: 1.2em;
+        margin-right: 0.25em;
+    }
 }

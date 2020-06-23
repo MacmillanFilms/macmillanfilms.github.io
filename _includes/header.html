@@ -1,17 +1,9 @@
+{%- if site.search -%}
 <script>
-	if (/\?q=/i.test(window.location.href)) {
-		(function () {
-			var cx = '017390942883608981040:p8am1fc1d9c';
-			var gcse = document.createElement('script');
-			gcse.type = 'text/javascript';
-			gcse.async = true;
-			gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-				'//cse.google.com/cse.js?cx=' + cx;
-			var s = document.getElementsByTagName('script')[0];
-			s.parentNode.insertBefore(gcse, s);
-		})();
-	}
+	{%- include search/search.js -%}
 </script>
+{%- endif -%}
+
 <div itemscope itemtype="http://schema.org/LocalBusiness" id="page" class="hfeed site">
 	<meta itemprop="image" content="{{ site.image }}" />
 	<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -21,7 +13,7 @@
 	</div>
 	<meta itemprop="priceRange" content="$" />
 	<header id="masthead" class="site-header" style="background-size: 1600px auto;">
-		<a class="home-link" href="/" title="Macmillan Films" rel="home">
+		<a class="home-link" href="{{ '/#page' | absolute_url }}" title="Macmillan Films" rel="home">
 			<h2 itemprop="name" class="site-title">Macmillan Films</h2>
 				<h2 class="site-description">
 					Educational Programming Studio
@@ -35,36 +27,29 @@
 				<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
 				<div class="menu-container">
 					<input id="home-dropdown" type="checkbox" name="menu" />
-					<label for="home-dropdown" class="menu-toggle">Menu {% octicon triangle-down %}</label>
+					<label for="home-dropdown" class="menu-toggle">Menu {%- octicon triangle-down -%} </label>
 					<ul class="nav-menu">
 						<li class="menu-item menu-item-home">
-							<a href="{{ site.baseurl }}/">Home</a>
+							<a href="{{ '/#page' | absolute_url }}">Home</a>
 						</li>
 						<li class="menu-item menu-item-has-children"><a>Programs</a>
 							<ul class="sub-menu">
-								{% for page in site.pages %}
-								{% if page.layout == 'product' %}
+								{%- for program in site.programs -%} 
 								<li>
-									<a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+									<a href="{{ program.url | absolute_url }}">{{ program.title }}</a>
 								</li>
-								{% endif %}
-								{% endfor %}
+								{%- endfor -%} 
 							</ul>
 						</li>
 						<li id="menu-item-mission">
-							<a href="{{ site.baseurl }}/educational-mission/">Educational Mission</a></li>
+							<a href="{{ '/#educational-mission' | absolute_url }}">Educational Mission</a></li>
 						<li id="menu-item-buyoptions">
-							<a href="{{ site.baseurl }}/store/">Buying Options</a></li>
+							<a href="{{ '/#store' | absolute_url }}">Buying Options</a></li>
 					</ul>
 				</div>
-				<form method="get" class="search-form" action="{{ page.url }}">
-					<label>
-						<span class="screen-reader-text">Search for:</span>
-						<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="q"
-							title="Search for:" />
-					</label>
-					<input type="submit" class="search-submit" value="Search" />
-				</form>
+				{%- if site.search -%}
+				{%- include search/searchbar.html -%}
+				{%- endif -%}
 			</nav><!-- #site-navigation -->
 		</div><!-- #navbar -->
 	</header><!-- #masthead -->

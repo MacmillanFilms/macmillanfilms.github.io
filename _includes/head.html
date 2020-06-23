@@ -4,56 +4,54 @@
 	<meta property="og:title" content="Macmillan Films | {{ page.title }}" />
 	<meta property="og:locale" content="en_US" />
 	<meta name="description" content="{{ site.description }}" />
-	{% if page.layout == 'product' %}
+	{%- if page.layout == 'product' -%} 
 	<meta property="og:description" content="{{ page.sidetxt }}" />
-	{% else %}
+	{%- else -%} 
 	<meta property="og:description" content="{{ site.description }}" />
-	{% endif %}
-	{% if page.image %}
-	<meta property="og:image" content="{{ page.image }}">
-	{% else %}
-	<meta property="og:image" content="{{ site.image }}">
-	{% endif %}
-	<link rel="icon" href="{{ site.url }}/images/logo.svg">
+	{%- endif -%} 
+	{%- if page.image -%} 
+	<meta property="og:image" content="{{ page.image | absolute_url }}">
+	{%- else -%} 
+	<meta property="og:image" content="{{ site.image | absolute_url }}">
+	{%- endif -%} 
+	<link rel="icon" href="{{ site.image | absolute_url }}">
 	<link rel="canonical" href="{{ site.url }}" />
 	<meta property="og:url" content="{{ site.url }}" />
 	<meta property="og:site_name" content="Macmillan Films" />
-	{% if page.layout == 'product' %}
+	{%- if page.layout == 'product' -%} 
 	<meta property="og:type" content="Movie" />
-	{% else %}
+	{%- else -%} 
 	<meta property="og:type" content="Company" />
-	{% endif %}
+	{%- endif -%} 
 	<title>Macmillan Films | {{ page.title }}</title>
 	<!--[if lt IE 9]>
-	<script src="{{ site.baseurl }}/js/html5.js"></script>
+	<script src="{{ '/assets/js/html5.js' | absolute_url }}"></script>
 	<![endif]-->
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i" >
-	<link rel="preconnect" href="https://www.paypal.com/cgi-bin/webscr" crossorigin>
-	<link rel="stylesheet" href="/css/main.css" type="text/css" media="all">
+	<link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}" type="text/css" media="all">
 	<!--[if lt IE 9]>
-	<link rel="stylesheet" href="{{ site.baseurl }}/css/ie.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="{{ '/assets/css/ie.css' | absolute_url }}" type="text/css" media="all" />
 	<![endif]-->
 	<style type="text/css">
 		.site-header {
-			background: url(/images/content/2017/03/cropped-TANYA_CLYTEMNESTRA_dark.png) no-repeat scroll top;
+			background: url({{ '/assets/images/content/2017/03/cropped-TANYA_CLYTEMNESTRA_dark.png' | absolute_url }}) no-repeat scroll top;
 			background-size: 1600px auto;
 		}
-
 		@media (max-width: 767px) {
 			.site-header {
 				background-size: 768px auto;
 			}
 		}
-
 		@media (max-width: 359px) {
 			.site-header {
 				background-size: 360px auto;
 			}
 		}
-
 		.site-title,
 		.site-description {
 			color: #FDFDFD;
 		}
 	</style>
+	{%- if page.layout == 'product' -%}
+	<link rel="prefetch" href="https://gum.co/{{ page.gum-id }}?wanted=true">
+	{%- endif -%}
 </head>
