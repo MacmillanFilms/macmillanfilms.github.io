@@ -1,28 +1,16 @@
 ---
 layout: product
-status: publish
 price: 100
-image: \\www.macmillanfilms.com/images/content/3DBacchaewithRearSm.jpg
-sidetxt: This DVD of of the staging with bonus content is available from our store. The program also features a prologue which explains the family tree of king Cadmus.
+image: /assets/images/content/3DBacchaewithRearSm.jpg
+sidetxt: |
+  This DVD of of the staging with bonus content is available from our store. The program also features a prologue which explains the family tree of king Cadmus.
 paypall-id: RPZ3YM8NLE9SU
 gum-id: bacchae-staging
-published: true
 title: The Bacchae
-author:
-  display_name: admin
-  login: admin
-  email: james@macmillanfilms.com
-  url: http://macmillanfilms.com
-author_login: admin
-author_email: james@macmillanfilms.com
-author_url: http://macmillanfilms.com
 permalink: /programs/the-bacchae/
 date: '2013-08-20 18:53:23 -0400'
-date_gmt: '2013-08-20 22:53:23 -0400'
-categories: []
-tags: []
 ---
-<img style="border: 0px none;" src="{{ site.baseurl }}/images/content/3DBacchaewithRearSm.jpg" alt="" border="0" />
+<img style="border: 0px none;" src="{{ site.baseurl }}/assets/images/content/3DBacchaewithRearSm.jpg" alt="" border="0" />
 
 This beautifully staged production of Euripides 406 BC masterpiece is based on Peter Arnott's audience-friendly translation. The story follows Dionysos (played by Mia Perovetz) visiting Thebes disguised as a charismatic young leader at the center of a horde of erotic female bacchae. The immortal play exposes the dangers of fanaticism and deals with the timeless human quest to balance order and spontaneity.
 

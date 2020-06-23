@@ -19,13 +19,15 @@ layout: default
 			<aside class="widget">
 				<h3 class="widget-title">Purchase</h3>
 				<p>
-					Our products are also available on our Gumroad shop.
+					Our products are also available on our Gumroad shop. We recommend this option if you wish to purchase <em>multiple items</em> or <em>multiple copies</em> of the same item.
 				</p>
 				<p align="center">
-					<a class="gumroad-button" href="https://gumroad.com/macmillanfilms">
-						<span class="gumroad-button-logo"></span>Shop
-					</a>
+					{% include gum/gum-button.html %}
 				</p>
+			</aside>
+			<aside class="widget">
+				<h3 class="widget-title">Follow us</h3>
+				{% include gum/gum-subscribe.html %}
 			</aside>
 		</div>
 	</div>

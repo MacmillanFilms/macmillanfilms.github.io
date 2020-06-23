@@ -1,15 +1,17 @@
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.macmillanfilms.com" # the base hostname & protocol for your site
+email: "james@macmillanfilms.com"
 enforce_ssl: www.macmillanfilms.com
 description: A film studio which makes eductional movies for broadcast, institutional, and home use.
-image: \\www.macmillanfilms.com/images/logo.svg
+image: "/assets/images/logo.svg"
 
 # Build settings
 markdown: kramdown
 
 collections:
-  - programs
+    programs:
+        output: true
 
 plugins:
   - jekyll-octicons

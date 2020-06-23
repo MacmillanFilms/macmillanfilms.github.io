@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: -apple-system, ".SFNSDisplay-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $h-font-family: 'PT Serif', 'Times New Roman', Times, serif;
 $alpha: #0070ED;
 $beta: #00a6fb;
@@ -38,5 +38,6 @@ $on-laptop:        800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        "buynow"
+        "buynow",
+        "gum"
 ;
