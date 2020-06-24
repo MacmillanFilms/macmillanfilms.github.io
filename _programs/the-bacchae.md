@@ -2,7 +2,6 @@
 title: The Bacchae
 date: 2013-08-20 22:53:23 Z
 permalink: "/programs/the-bacchae/"
-layout: product
 price: 100
 image: "/assets/images/content/3DBacchaewithRearSm.jpg"
 sidetxt: 'This DVD of of the staging with bonus content is available from our store.

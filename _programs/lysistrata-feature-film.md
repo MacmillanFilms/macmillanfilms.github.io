@@ -2,7 +2,6 @@
 title: Lysistrata Feature Film
 date: 2014-01-02 16:27:29 Z
 permalink: "/programs/lysistrata-feature-film/"
-layout: product
 price: 100
 image: "/assets/images/content/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE.jpg"
 sidetxt: 'Lysistrata the feature film is an adaptation of Aristophanes'' Lysistrata

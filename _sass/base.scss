@@ -83,6 +83,7 @@ html {
 	overflow-y: scroll;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
+	height: 100%;
 }
 
 html,
@@ -97,6 +98,9 @@ body {
 	color: $delta;
 	line-height: 1.5;
 	margin: 0;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
 }
 
 a {
@@ -476,6 +480,7 @@ video {
 
 .site-main {
 	position: relative;
+	flex: 1 0 auto;
 }
 
 .site-main .sidebar-container {
@@ -1137,6 +1142,7 @@ footer.entry-meta {
 	color: #686758;
 	font-size: 14px;
 	text-align: center;
+	flex-shrink: 0;
 }
 
 .site-footer .widget-area,

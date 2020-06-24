@@ -2,14 +2,13 @@
 title: Antigone
 date: 2014-04-25 18:53:31 Z
 permalink: "/programs/antigone/"
-layout: product
 price: 100
 image: "/assets/images/content/2014/04/3DAntigone.jpg"
 sidetxt: 'Join us for a staging of Peter Artnott''s translation of Sophocles'' Antigone
   - staged with marionettes.  This DVD features the remastered audio of Peter Arnott
   and the voice of Kelly Addyman as Antigone. Peter''s translations benefited from
   years of live performances,  which is why they are regarded so highly as the perfect
-  blend of scholarship and fun. DVD feature $100
+  blend of scholarship and fun.
 
 '
 paypall-id: 484MJUHTYDRWS

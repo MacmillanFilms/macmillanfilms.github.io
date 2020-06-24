@@ -2,7 +2,6 @@
 title: Western Philosophy
 date: 2013-08-20 20:58:44 Z
 permalink: "/programs/western-philosophy/"
-layout: product
 price: 100
 image: "/assets/images/content/3DWisdomwithRearSm.jpg"
 sidetxt: 'This PBS documentary brings together nine outstanding philosophers to explain

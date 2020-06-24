@@ -2,13 +2,12 @@
 title: Cyclops
 date: 2014-04-25 19:32:06 Z
 permalink: "/programs/cyclops/"
-layout: product
 price: 100
 image: "/assets/images/content/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg"
 sidetxt: 'Join us for a staging of the only complete Satyr play to survive antiquity.
   Translated by Peter D. Arnott into English from the original Greek, Euripides ludicrous
   comedy is brought to life with marionettes which preserve the effect of classical
-  masks. DVD Available for $100
+  masks.
 
 '
 paypall-id: WJLTWK5NN2NBC

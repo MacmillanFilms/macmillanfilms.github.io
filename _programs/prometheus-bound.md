@@ -2,7 +2,6 @@
 title: Prometheus Bound
 date: 2015-04-19 00:29:35 Z
 permalink: "/programs/prometheus-bound/"
-layout: product
 price: 100
 image: "/assets/images/content/2015/04/Prometheus-Bound-Staging-DVD.jpg"
 sidetxt: 'A talented cast brings this Greek masterpiece to the stage with song, dance

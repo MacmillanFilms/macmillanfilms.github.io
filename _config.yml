@@ -8,6 +8,7 @@ collections:
   programs:
     title: Programs
     output: true
+    permalink: /:collection/:title
   uploads:
     title: Uploads
     output: true
@@ -39,3 +40,11 @@ exclude:
 - FAQ.md
 - econ-ipsum*
 - 01projects.md
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "programs" # a collection in your site, in plural form
+    values:
+      layout: "product"
+      price: 100
