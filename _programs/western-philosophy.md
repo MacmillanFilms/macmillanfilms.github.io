@@ -1,6 +1,6 @@
 ---
 title: Western Philosophy
-date: 2013-08-20 20:58:44 Z
+date: 2013-08-20 16:58:44 -04:00
 permalink: "/programs/western-philosophy/"
 price: 100
 image: "/assets/images/content/3DWisdomwithRearSm.jpg"

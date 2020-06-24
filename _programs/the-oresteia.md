@@ -1,6 +1,6 @@
 ---
 title: The Oresteia
-date: 2014-04-25 20:06:16 Z
+date: 2014-04-25 16:06:16 -04:00
 permalink: "/programs/the-oresteia/"
 price: 200
 image: "/assets/images/content/2014/04/3D-Oresteia-withRearLarge.jpg"

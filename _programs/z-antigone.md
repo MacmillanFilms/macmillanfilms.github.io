@@ -1,6 +1,6 @@
 ---
 title: Antigone
-date: 2014-04-25 18:53:31 Z
+date: 2014-04-25 14:53:31 -04:00
 permalink: "/programs/antigone/"
 price: 100
 image: "/assets/images/content/2014/04/3DAntigone.jpg"

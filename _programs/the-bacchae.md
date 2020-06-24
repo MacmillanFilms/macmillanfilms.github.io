@@ -1,6 +1,6 @@
 ---
 title: The Bacchae
-date: 2013-08-20 22:53:23 Z
+date: 2013-08-20 18:53:23 -04:00
 permalink: "/programs/the-bacchae/"
 price: 100
 image: "/assets/images/content/3DBacchaewithRearSm.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Medea
-date: 2016-06-01 19:11:10 Z
+date: 2016-06-01 15:11:10 -04:00
 permalink: "/programs/medea/"
 price: 100
 image: "/assets/images/content/3DMedeaFrontandBackcropped.jpg"

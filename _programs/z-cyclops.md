@@ -1,6 +1,6 @@
 ---
 title: Cyclops
-date: 2014-04-25 19:32:06 Z
+date: 2014-04-25 15:32:06 -04:00
 permalink: "/programs/cyclops/"
 price: 100
 image: "/assets/images/content/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg"

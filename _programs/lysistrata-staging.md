@@ -1,6 +1,6 @@
 ---
 title: Lysistrata Staging
-date: 2013-08-20 20:43:16 Z
+date: 2013-08-20 16:43:16 -04:00
 permalink: "/programs/lysistrata-staging/"
 price: 100
 image: "/assets/images/content/2013/08/LYSISTRATAcompSM.jpg"

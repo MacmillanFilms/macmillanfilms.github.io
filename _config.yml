@@ -8,10 +8,17 @@ collections:
   programs:
     title: Programs
     output: true
-    permalink: /:collection/:title
+    permalink: "/:collection/:title"
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: programs
+  values:
+    layout: product
+    price: 100
 baseurl: 
 url: https://www.macmillanfilms.com
 email: james@macmillanfilms.com
@@ -40,11 +47,3 @@ exclude:
 - FAQ.md
 - econ-ipsum*
 - 01projects.md
-defaults:
-  - 
-    scope:
-      path: ""
-      type: "programs" # a collection in your site, in plural form
-    values:
-      layout: "product"
-      price: 100

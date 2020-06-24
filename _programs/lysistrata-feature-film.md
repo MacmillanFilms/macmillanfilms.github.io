@@ -1,6 +1,6 @@
 ---
 title: Lysistrata Feature Film
-date: 2014-01-02 16:27:29 Z
+date: 2014-01-02 11:27:29 -05:00
 permalink: "/programs/lysistrata-feature-film/"
 price: 100
 image: "/assets/images/content/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE.jpg"
