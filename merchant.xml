@@ -17,7 +17,7 @@
         <summary>{{ program.sidetxt }}</summary>
         <updated>{{ site.time | date_to_xmlschema }}</updated>
         <g:image_link>{{ program.image | absolute_url }}</g:image_link>
-        <g:price>{{ program.price }}</g:price>
+        <g:price>{{ program.price }} USD</g:price>
         <g:condition>new</g:condition>
         <g:availability>in stock</g:availability>
     </entry>
