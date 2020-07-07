@@ -20,6 +20,8 @@
         <g:price>{{ program.price }} USD</g:price>
         <g:condition>new</g:condition>
         <g:availability>in stock</g:availability>
+        <g:brand>{{ site.author }}</g:brand>
+        <g:mpn>{{ program.paypall-id }}</g:mpn>
     </entry>
     {%- endfor -%}
 </feed> 
