@@ -3,10 +3,11 @@
 	<meta name="viewport" content="width=device-width">
 	<meta property="og:title" content="Macmillan Films | {{ page.title }}" />
 	<meta property="og:locale" content="en_US" />
-	<meta name="description" content="{{ site.description }}" />
 	{%- if page.layout == 'product' -%} 
+	<meta name="description" content="{{ page.sidetxt }}" />
 	<meta property="og:description" content="{{ page.sidetxt }}" />
 	{%- else -%} 
+	<meta name="description" content="{{ site.description }}" />
 	<meta property="og:description" content="{{ site.description }}" />
 	{%- endif -%} 
 	{%- if page.image -%} 
