@@ -1,0 +1,25 @@
+---
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
+    <title>Products for Google Merchant</title>
+    <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" />
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <author>
+        <name>{{ site.author }}</name>
+    </author>
+    <id>google,{{ site.title | slugify }}</id>
+    {%- for program in site.programs -%}
+    <entry>
+        <title>{{ program.title }}</title>
+        <id>{{ program.paypall-id }}</id>
+        <link href="{{ program.url | absolute_url }}" />
+        <summary>{{ program.sidetxt }}</summary>
+        <updated>{{ site.time | date_to_xmlschema }}</updated>
+        <g:image_link>{{ program.image | absolute_url }}</g:image_link>
+        <g:price>{{ program.price }}</g:price>
+        <g:condition>new</g:condition>
+        <g:availability>in stock</g:availability>
+    </entry>
+    {%- endfor -%}
+</feed> 
