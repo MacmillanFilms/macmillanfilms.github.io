@@ -1,6 +1,5 @@
 ---
 title: Macmillan Films
-author: Macmillan Films
 timezone: America/New_York
 collections:
   posts:
@@ -20,6 +19,7 @@ defaults:
   values:
     layout: product
     price: 100
+author: Macmillan Films
 baseurl: 
 url: https://www.macmillanfilms.com
 email: james@macmillanfilms.com
