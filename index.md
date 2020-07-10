@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2017-08-20 18:15:58 Z
+date: 2017-08-20 14:15:00 -04:00
 layout: page
 ---
 
@@ -31,3 +31,7 @@ Our current releases, are distributed through Insight Media Inc. at 800-233-9910
 Some of our titles are available on Amazon. 
 
 Each program is available for $100 to use in a college or library setting. Individual (home use only) DVDs can be purchased for $40. Thank you for your support, which is vital to our ability to produce thought-driven programming. Any questions please call (917) 664-0507.
+
+# Returns and Satisfaction Guarantee {#returns}
+
+If you’re looking to return or exchange your order for whatever reason, we're here to help! We offer free returns or exchanges within 45 days of receiving your order. You can return your product for store credit, a different product, or a refund to the original payment method. Just [email us](mailto:james@brandapplause.com), and we'll make it right. There are no restocking fees. Customer may be responsible for return shipping if product is not defective.
