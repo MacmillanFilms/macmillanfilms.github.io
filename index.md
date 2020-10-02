@@ -1,10 +1,10 @@
 ---
 title: Home
-date: 2017-08-20 14:15:00 -04:00
+date: 2020-10-02 10:15:00 -04:00
 layout: page
 ---
 
-Macmillan Films is an independent studio that produces, adapts, and films ancient Greek plays and documentaries. Our productions are held by major Classics departments and libraries worldwide. We have the largest catalog of ancient Greek plays available for academic and personal use. Our staff also produces web videos, broadcast television, and product shots for clients through our media house subsidiary [BrandApplause](//brandapplause.com).
+Macmillan Films is an independent studio that produces, adapts, and films ancient Greek plays as well as documentaries on Philosophy and and other subjects. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use. We also produce feature films including [True Drama](//TrueDramaMovie.com) and our staff also produces web videos, broadcast television, and other programing for clients through our media house subsidiary [BrandApplause](//brandapplause.com).
 
 [![Lysistrata Staging]({{ '/assets/images/content/3DLysistratawithRearSm.jpg' | absolute_url }})](https://gum.co/lysistrata-staging/)
 
@@ -16,22 +16,21 @@ If you have a suggestion for programming that you think we should consider – o
 
 [![The Bacchae]({{ '/assets/images/content/3DBacchaewithRearSm.jpg' | absolute_url }})](https://gum.co/bacchae-staging/)
 
-# Easy Ways to Purchase DVDs {#store}
+# Easy Ways to Purchase {#store}
 
-### Via Check, Credit Card or PayPal
+### Physical Product / DVD
+All the Program DVDs can be purchased with the shopping carts on this site. The Paypal shopping cart is ideal for buying one DVD at a time with any credit card.  The Gumroad cart is ideal for buying multiple DVDs with any credit card. 
 Please e-mail [{{ site.email }}](mailto:{{ site.email }}) and mention your preferred payment option for your DVDs. We can e-mail you a secure PayPal invoice, mail a standard invoice - or you can just mail us a check when you get your DVD.
 
-### From MacMillan Films
-Purchasing directly from this website is preferred as it allows us ship the programming immediately. This website's shopping cart allows for secure purchase via PayPal or a credit card.
-
-### From Insight Media
-Our current releases, are distributed through Insight Media Inc. at 800-233-9910 (Monday - Friday 9:00-6:00 p.m. New York time).
-
-### From Amazon.com
-Some of our titles are available on Amazon. 
+### Streaming Access
+All the programs are available to Academic Institutions with digital streaming platforms.  
+Please e-mail [{{ site.email }}](mailto:{{ site.email }}) 
+Tel. (917) 664-0507.
+We provide streaming licenses all the time and deliver HD mp4 files to your LMS or LAN administrators. 
+Coming Soon – we will be streaming content for home viewers. Let us know if you are interested and we'll reach out as the programs go live.
 
 Each program is available for $100 to use in a college or library setting. Individual (home use only) DVDs can be purchased for $40. Thank you for your support, which is vital to our ability to produce thought-driven programming. Any questions please call (917) 664-0507.
 
 # Returns and Satisfaction Guarantee {#returns}
 
-If you’re looking to return or exchange your order for whatever reason, we're here to help! We offer free returns or exchanges within 45 days of receiving your order. You can return your product for store credit, a different product, or a refund to the original payment method. Just [email us](mailto:james@brandapplause.com), and we'll make it right. There are no restocking fees. Customer may be responsible for return shipping if product is not defective.
+If you're looking to return or exchange your order for whatever reason, we're here to help! We offer free returns or exchanges within 45 days of receiving your order. You can return your product for store credit, a different product, or a refund to the original payment method. Just [email us](mailto:james@brandapplause.com), and we'll make it right. There are no restocking fees. Customer may be responsible for return shipping if product is not defective.
