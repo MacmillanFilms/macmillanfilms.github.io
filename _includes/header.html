@@ -13,7 +13,7 @@
 	</div>
 	<meta itemprop="priceRange" content="$" />
 	<header id="masthead" class="site-header">
-		<a class="home-link" href="{{ '/#page' | absolute_url }}" title="Macmillan Films" rel="home">
+		<a class="home-link" href="{{ '/#page' | relative_url }}" title="Macmillan Films" rel="home">
 			<h2 itemprop="name" class="site-title">Macmillan Films</h2>
 				<h2 class="site-description">
 					Educational Programming Studio
@@ -31,20 +31,20 @@
 				<label for="home-dropdown" class="menu-toggle">Menu &raquo;</label>
 				<ul class="nav-menu">
 					<li class="menu-item menu-item-home">
-						<a href="{{ '/#page' | absolute_url }}">Home</a>
+						<a href="{{ '/#page' | relative_url }}">Home</a>
 					</li>
 					<li class="menu-item menu-item-has-children"><a>Programs</a>
 						<ul class="sub-menu">
 							{%- for program in site.programs -%} 
 							<li>
-								<a href="{{ program.url | absolute_url }}">{{ program.title }}</a>
+								<a href="{{ program.url | relative_url }}">{{ program.title }}</a>
 							</li>
 							{%- endfor -%} 
 						</ul>
 					</li>
 					{% for item in site.data.nav %}
 					<li>
-						<a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+						<a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
 					{% endfor %}
 				</ul>
 			</div>

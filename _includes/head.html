@@ -11,11 +11,11 @@
 	<meta property="og:description" content="{{ site.description }}" />
 	{%- endif -%} 
 	{%- if page.image -%} 
-	<meta property="og:image" content="{{ page.image | absolute_url }}">
+	<meta property="og:image" content="{{ page.image | relative_url }}">
 	{%- else -%} 
-	<meta property="og:image" content="{{ site.image | absolute_url }}">
+	<meta property="og:image" content="{{ site.image | relative_url }}">
 	{%- endif -%} 
-	<link rel="icon" href="{{ site.image | absolute_url }}">
+	<link rel="icon" href="{{ site.image | relative_url }}">
 	<link rel="canonical" href="{{ site.url }}" />
 	<meta property="og:url" content="{{ site.url }}" />
 	<meta property="og:site_name" content="Macmillan Films" />
@@ -26,16 +26,16 @@
 	{%- endif -%} 
 	<title>Macmillan Films | {{ page.title }}</title>
 	<!--[if lt IE 9]>
-	<script src="{{ '/assets/js/html5.js' | absolute_url }}"></script>
+	<script src="{{ '/assets/js/html5.js' | relative_url }}"></script>
 	<![endif]-->
-	<link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}" type="text/css" media="all">
+	<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" type="text/css" media="all">
 	<!--[if lt IE 9]>
-	<link rel="stylesheet" href="{{ '/assets/css/ie.css' | absolute_url }}" type="text/css" media="all" />
+	<link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}" type="text/css" media="all" />
 	<![endif]-->
 	<style type="text/css">
 		.site-header {
 			background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 50%, rgba(0,0,0,1) 100%), 
-			url({{ '/assets/images/content/2017/03/cropped-TANYA_CLYTEMNESTRA_dark.png' | absolute_url }}) no-repeat scroll top;
+			url({{ '/assets/images/content/2017/03/cropped-TANYA_CLYTEMNESTRA_dark.png' | relative_url }}) no-repeat scroll top;
 			margin: 0 auto;
 			max-width: 1600px;
 			background-size: 1600px auto;
