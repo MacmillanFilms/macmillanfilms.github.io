@@ -470,11 +470,10 @@ video {
  */
 
 .site {
-	background-color: #fff;
+	background-color: #000;
 	border-left: 1px solid #f2f2f2;
 	border-right: 1px solid #f2f2f2;
 	margin: 0 auto;
-	max-width: 1600px;
 	width: 100%;
 }
 
@@ -646,17 +645,16 @@ ul.nav-menu .focus > ul,
 .navbar {
 	background-color: $delta;
 	margin: 0 auto;
-	max-width: 1600px;
 	width: 100%;
 }
 
-.site-header .search-form {
+.navbar .search-form {
 	position: absolute;
 	right: 20px;
 	top: 1px;
 }
 
-.site-header .search-field {
+.navbar .search-field {
 	background-color: transparent;
 	background-image: url(/assets/images/search-icon.png);
 	background-position: 5px center;
@@ -673,7 +671,7 @@ ul.nav-menu .focus > ul,
 	width: 1px;
 }
 
-.site-header .search-field:focus {
+.navbar .search-field:focus {
 	background-color: #fff;
 	background-image: url(/assets/images/search-icon-b.png);
 	border: 2px solid #c3c0ab;

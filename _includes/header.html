@@ -12,7 +12,7 @@
 		<meta itemprop="postalCode" content="06870" />
 	</div>
 	<meta itemprop="priceRange" content="$" />
-	<header id="masthead" class="site-header" style="background-size: 1600px auto;">
+	<header id="masthead" class="site-header">
 		<a class="home-link" href="{{ '/#page' | absolute_url }}" title="Macmillan Films" rel="home">
 			<h2 itemprop="name" class="site-title">Macmillan Films</h2>
 				<h2 class="site-description">
@@ -22,35 +22,35 @@
 					Phone: <span itemprop="telephone">(917) 664-0507</span>
 				</h3>
 		</a>
-		<div id="navbar" class="navbar">
-			<nav id="site-navigation" class="main-navigation">
-				<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
-				<div class="menu-container">
-					<input id="home-dropdown" type="checkbox" name="menu" />
-					<label for="home-dropdown" class="menu-toggle">Menu &raquo;</label>
-					<ul class="nav-menu">
-						<li class="menu-item menu-item-home">
-							<a href="{{ '/#page' | absolute_url }}">Home</a>
-						</li>
-						<li class="menu-item menu-item-has-children"><a>Programs</a>
-							<ul class="sub-menu">
-								{%- for program in site.programs -%} 
-								<li>
-									<a href="{{ program.url | absolute_url }}">{{ program.title }}</a>
-								</li>
-								{%- endfor -%} 
-							</ul>
-						</li>
-						{% for item in site.data.nav %}
-						<li>
-							<a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
-						{% endfor %}
-					</ul>
-				</div>
-				{%- if site.search -%}
-				{%- include search/searchbar.html -%}
-				{%- endif -%}
-			</nav><!-- #site-navigation -->
-		</div><!-- #navbar -->
 	</header><!-- #masthead -->
+	<div id="navbar" class="navbar">
+		<nav id="site-navigation" class="main-navigation">
+			<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+			<div class="menu-container">
+				<input id="home-dropdown" type="checkbox" name="menu" />
+				<label for="home-dropdown" class="menu-toggle">Menu &raquo;</label>
+				<ul class="nav-menu">
+					<li class="menu-item menu-item-home">
+						<a href="{{ '/#page' | absolute_url }}">Home</a>
+					</li>
+					<li class="menu-item menu-item-has-children"><a>Programs</a>
+						<ul class="sub-menu">
+							{%- for program in site.programs -%} 
+							<li>
+								<a href="{{ program.url | absolute_url }}">{{ program.title }}</a>
+							</li>
+							{%- endfor -%} 
+						</ul>
+					</li>
+					{% for item in site.data.nav %}
+					<li>
+						<a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+			{%- if site.search -%}
+			{%- include search/searchbar.html -%}
+			{%- endif -%}
+		</nav><!-- #site-navigation -->
+	</div><!-- #navbar -->
 </div>
