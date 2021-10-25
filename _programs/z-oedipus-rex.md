@@ -26,3 +26,4 @@ paypall-id: ADDPAYPALID
 gum-id: oedipus-rex
 ---
 
+/uploads/Oedipus%20Rex%20Staging%20Shepard%20Scene%202021-10-25.png
