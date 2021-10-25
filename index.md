@@ -4,13 +4,13 @@ date: 2020-10-02 10:15:00 -04:00
 layout: page
 ---
 
-Macmillan Films is an independent studio that produces, adapts, and films ancient Greek plays as well as documentaries on Philosophy and and other subjects. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use. We also produce feature films including [True Drama](//TrueDramaMovie.com) and our staff also produces web videos, broadcast television, and other programing for clients through our media house subsidiary [BrandApplause](//brandapplause.com).
+Macmillan Films is an independent studio that produces, adapts, and films ancient Greek plays as well as documentaries on Philosophy and other subjects. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use. We also produce feature films including [True Drama](//TrueDramaMovie.com) and our staff also produces web videos, broadcast television, and other programming for clients through our media house subsidiary [BrandApplause](//brandapplause.com).
 
 [![Lysistrata Staging]({{ '/assets/images/content/3DLysistratawithRearSm.jpg' | relative_url }})](https://gum.co/lysistrata-staging/)
 
 # Educational Mission {#educational-mission}
 
-MacMillan Films is dedicated to producing thoughtful educational programing that instructs and inspires. Our mission is to produce programs that preserve Western civilization and communicate the benefits of a pluralist society. Many of our titles are Greek dramas and documentaries about philosophy and democracy. We focus on ancient Greek culture and art because so much of modern thought stems from this era.
+MacMillan Films is dedicated to producing thoughtful educational programing that instructs and inspires. Our mission is to produce programs that preserve Democratic values and communicate the benefits of a pluralist society. Many of our titles are Greek dramas and documentaries about philosophy and democracy. We focus on ancient Greek culture and art because so much of modern thought stems from this era.
 
 If you have a suggestion for programming that you think we should consider – or are looking for a content producer, please send us an [e-mail](mailto:{{ site.email }}) or **call (917) 664-0507**.
 
