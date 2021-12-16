@@ -1,12 +1,11 @@
-#masthead {
-    overflow: clip;
-}
-
 #banner-video {
     position: absolute;
     top: 0;
-    height: 100%;
-    max-width: unset;
+    min-height: 100%;
+    max-height: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    object-fit: cover;
 }
 
 .home-link {
