@@ -32,6 +32,6 @@ Runtime Time: 110 minutes
 Individuals can view CATO for $12 on our streaming site:
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/ocdnb">View now on our streaming site</a>
+<a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/ocdnb">View now for $12 on our streaming site</a>
 
 Libraries, Educators and Professors can license our HD digital download file via the paypal link on the right.
