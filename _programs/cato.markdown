@@ -32,6 +32,6 @@ Runtime Time: 110 minutes
 Individuals can view CATO for $12 on our streaming site:<script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/ocdnb">View now for $12 on our streaming site</a>
 
-Libraries, Educators and Professors - please license the HD digital download file via the paypal on the right
+Libraries, Educators and Professional institutions - can license the HD digital download file via paypal or invoice.
 
 ![Cato by Joseph Addison prouction still13.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still13.png)![Cato by Joseph Addison prouction still1.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still1.png)
