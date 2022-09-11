@@ -6,7 +6,7 @@ price: 100
 image: "/assets/images/content/2013/08/LYSISTRATAcompSM.jpg"
 sidetxt: 'Lysistrata is a comedy by Aristophanes about the war-weary women of Athens
   who band together in a sex strike to end the Peloponnesian war. The complete staging
-  of Aristophanes'' masterpiece is available on DVD.
+  of Aristophanes'' masterpiece is available on DVD and HD mp4.
 
 '
 paypall-id: R5HDRKDH7TNH8
