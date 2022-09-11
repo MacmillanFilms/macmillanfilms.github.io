@@ -25,10 +25,10 @@ tags:
 price: "$100 institution license"
 ---
 
-CATO by Joseph Addison - George Washington's favorite play - is about the last day of democracy in Rome - before Rome became an empire. With epic heroes, scheming villains, sword duels, love triangles and thought provoking dialogue about the nature of democracy – it’s easy to see why CATO was the most popular play in America before the revolution. George Washington famously staged it at Valley Forge. Benjamin Franklin so admired the work, he practiced writing it down from memory. Come experience the full 5 Acts that inspired the heroes of the Revolution.
-
 Individuals can view CATO on our streaming site:<script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/ocdnb">View now for $12</a>
+
+CATO by Joseph Addison - George Washington's favorite play - is about the last day of democracy in Rome - before Rome became an empire. With epic heroes, scheming villains, sword duels, love triangles and thought provoking dialogue about the nature of democracy – it’s easy to see why CATO was the most popular play in America before the revolution. George Washington famously staged it at Valley Forge. Benjamin Franklin so admired the work, he practiced writing it down from memory. Come experience the full 5 Acts that inspired the heroes of the Revolution.
 
 Libraries, educators and professional institutions can license the HD digital download file via paypal or invoice.
 
