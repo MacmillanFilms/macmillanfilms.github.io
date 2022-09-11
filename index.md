@@ -27,16 +27,15 @@ MacMillan Films is dedicated to producing thoughtful educational programing that
 ### Physical Product / DVD
 
 All the Program DVDs can be purchased with the shopping carts on this site. The Paypal shopping cart is ideal for buying one DVD at a time with any credit card.\
-You can also e-mail \[{{ site.email }}\](mailto:{{ site.email }}) and mention your preferred payment option for DVDs. We can e-mail you a secure PayPal invoice, mail a standard invoice - or you can just mail us a check when you get your DVD.
+You can also e-mail \[james@macmillanfilms.com\] and mention your preferred payment option for DVDs. We can e-mail you a secure PayPal invoice, mail a standard invoice - or you can just mail us a check when you get your DVD.
 
 ### Instant Streaming Access in HD
 
 All the programs are available to Academic Institutions with digital streaming platforms - for $100 to use in a college or library setting.\
-Please e-mail \[james@macmillanfilms.com\] or call
-Tel. (917) 664-0507.
+Please e-mail \[james@macmillanfilms.com\] or call Tel. (917) 664-0507.
 We provide streaming licenses all the time and deliver HD mp4 files to your LMS or LAN administrators.
 
-For individual home viewers, all the programs can we streamed - most programs are $12 .
+For individual home viewers, all the programs can be streamed - most programs are $12 .
 
 Thank you for your support, which is vital to our ability to produce thought-driven programming. Any questions please call (917) 664-0507.
 
