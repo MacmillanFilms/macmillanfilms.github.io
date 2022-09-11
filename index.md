@@ -4,31 +4,23 @@ date: 2020-10-02 10:15:00 -04:00
 layout: page
 ---
 
-Macmillan Films is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use including all three plays of the Oresteia, The Bacchae, Lysistrata, Oedipus Rex and Prometheus Bound. 
+Macmillan Films is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use including all three plays of the Oresteia, The Bacchae, Lysistrata, Oedipus Rex and Prometheus Bound. Orestes waits for the verdict at the end of the Oresteia:
 
 ![GREEK DRAMA MAcMillna Films Scene from the Oresteia - Eumenidies.png](/uploads/GREEK%20DRAMA%20MAcMillna%20Films%20Scene%20from%20the%20Oresteia%20-%20Eumenidies.png)
 
-We also produce thoughtful art films including [True Drama](//TrueDramaMovie.com) which contracts Greek Drama violence with the way violence in deployed in modern film. 
+We also produce thoughtful art films including [True Drama](//TrueDramaMovie.com) which contracts Greek Drama violence with the way violence in deployed in modern film. Police race to understand crimes on a movie set before a tragedy unfolds:
 
 ![TRUE DRAMA PRODUCTION STILL  24.png](/uploads/TRUE%20DRAMA%20PRODUCTION%20STILL%20%2024.png)
 
-![True Drama still - Dionysos on stage 2022-10-11.jpg](/uploads/True%20Drama%20still%20-%20Dionysos%20on%20stage%202022-10-11.jpg)
-
-![Tatiana Galliher set photo in True Drama 20.png](/uploads/Tatiana%20Galliher%20set%20photo%20in%20True%20Drama%2020.png)
-
-And and we have just staged Cato by Joseph Addison - George Washington's favorite play - about the last day of democracy in ancient Rome 
+And and we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms.com/programs/cato) - George Washington's favorite play - about the last day of democracy in ancient Rome. In this  scene Sempronius sends the insurrection leader off to death:
 
 ![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)
 
-A Scene from [Cato by Joseph Addison](https://www.macmillanfilms.com/programs/cato) - Sempronius sends his partner in the failed insurrection off to instant death
-
-Our staff also produces broadcast television and other programming for clients. If you have a suggestion for programming, send us an e-mail or **call (917) 664-0507**.
+Please call us if yo have a suggestion for programming **call (917) 664-0507**, or send us an e-mail.
 
 # Educational Mission {#educational-mission}
 
 MacMillan Films is dedicated to producing thoughtful educational programing that instructs and inspires. Our mission is to produce programs that showcases Democratic values and the benefits of a pluralist society. Many of our titles are Greek dramas and documentaries about philosophy and democracy. We produce a lot on ancient Greek culture and art because so much of modern thought stems from the "golden era" of 5th century BC Athens.
-
-[!\[The Bacchae\]({{ '/assets/images/content/3DBacchaewithRearSm.jpg' | relative_url }})](https://gum.co/bacchae-staging/)
 
 # Easy Ways to Purchase {#store}
 
