@@ -4,7 +4,19 @@ date: 2020-10-02 10:15:00 -04:00
 layout: page
 ---
 
-Macmillan Films is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use including The Bacchae, Lysistrata, Oedipus Rex and Prometheus Bound. We also produce thoughtful art films including [True Drama](//TrueDramaMovie.com) which suggest a better way to deploy violence in modern films and and we have just staged Cato - George Washington's favorite play - about the last day of democracy in ancient Rome. 
+Macmillan Films is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use including all three plays of the Oresteia, The Bacchae, Lysistrata, Oedipus Rex and Prometheus Bound. 
+
+![GREEK DRAMA MAcMillna Films Scene from the Oresteia - Eumenidies.png](/uploads/GREEK%20DRAMA%20MAcMillna%20Films%20Scene%20from%20the%20Oresteia%20-%20Eumenidies.png)
+
+We also produce thoughtful art films including [True Drama](//TrueDramaMovie.com) which contracts Greek Drama violence with the way violence in deployed in modern film. 
+
+![TRUE DRAMA PRODUCTION STILL  24.png](/uploads/TRUE%20DRAMA%20PRODUCTION%20STILL%20%2024.png)
+
+![True Drama still - Dionysos on stage 2022-10-11.jpg](/uploads/True%20Drama%20still%20-%20Dionysos%20on%20stage%202022-10-11.jpg)
+
+![Tatiana Galliher set photo in True Drama 20.png](/uploads/Tatiana%20Galliher%20set%20photo%20in%20True%20Drama%2020.png)
+
+And and we have just staged Cato by Joseph Addison - George Washington's favorite play - about the last day of democracy in ancient Rome 
 
 ![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)
 
