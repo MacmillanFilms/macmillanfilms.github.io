@@ -8,7 +8,7 @@ Macmillan Films is an independent studio that produces films about art, thought 
 
 ![GREEK DRAMA MAcMillna Films Scene from the Oresteia - Eumenidies.png](/uploads/GREEK%20DRAMA%20MAcMillna%20Films%20Scene%20from%20the%20Oresteia%20-%20Eumenidies.png)
 
-We also produce thoughtful art films including [True Drama](//TrueDramaMovie.com) which contracts Greek Drama violence with the way violence in deployed in modern film. Police race to understand crimes on a movie set before a tragedy unfolds:
+We also produce thoughtful art films including [True Drama](//TrueDramaMovie.com) which contracts Greek Drama violence with the way violence is deployed in modern film. Police race to understand crimes on a movie set before a tragedy unfolds:
 
 ![TRUE DRAMA PRODUCTION STILL  24.png](/uploads/TRUE%20DRAMA%20PRODUCTION%20STILL%20%2024.png)
 
@@ -16,7 +16,7 @@ And and we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms
 
 ![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)
 
-Please call us if yo have a suggestion for programming **call (917) 664-0507**, or send us an e-mail.
+Enjoy the programing and call us if you have a suggestion for upcoming programming **call (917) 664-0507**, or send us an e-mail.
 
 # Educational Mission {#educational-mission}
 
