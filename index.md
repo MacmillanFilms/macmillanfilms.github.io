@@ -4,11 +4,13 @@ date: 2020-10-02 10:15:00 -04:00
 layout: page
 ---
 
-Macmillan Films is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use. We also produce thoughtful art films including [True Drama](//TrueDramaMovie.com) and and we have just staged Cato - George Washington's favorite play -about the last day of democracy in ancient Rome. Our staff also produces broadcast television and other programming for clients. If you have a suggestion for programming, send us an e-mail or **call (917) 664-0507**.
+Macmillan Films is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use including The Bacchae, Lysistrata, Oedipus Rex and Prometheus Bound. We also produce thoughtful art films including [True Drama](//TrueDramaMovie.com) which suggest a better way to deploy violence in modern films and and we have just staged Cato - George Washington's favorite play - about the last day of democracy in ancient Rome. 
 
 ![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)
 
 A Scene from [Cato by Joseph Addison](https://www.macmillanfilms.com/programs/cato) - Sempronius sends his partner in the failed insurrection off to instant death
+
+Our staff also produces broadcast television and other programming for clients. If you have a suggestion for programming, send us an e-mail or **call (917) 664-0507**.
 
 # Educational Mission {#educational-mission}
 
@@ -26,7 +28,7 @@ You can also e-mail \[{{ site.email }}\](mailto:{{ site.email }}) and mention yo
 ### Instant Streaming Access in HD
 
 All the programs are available to Academic Institutions with digital streaming platforms - for $100 to use in a college or library setting.\
-Please e-mail \[{{ site.email }}\](mailto:{{ site.email }})
+Please e-mail \[james@macmillanfilms.com\] or call
 Tel. (917) 664-0507.
 We provide streaming licenses all the time and deliver HD mp4 files to your LMS or LAN administrators.
 
