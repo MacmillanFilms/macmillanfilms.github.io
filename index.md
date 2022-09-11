@@ -8,7 +8,7 @@ Macmillan Films is an independent studio that produces films about art, thought 
 
 ![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)
 
-[!\[Lysistrata Staging\]({{ '/assets/images/content/3DLysistratawithRearSm.jpg' | relative_url }})](https://gum.co/lysistrata-staging/)
+A Scene from [Cato by Joseph Addison](https://www.macmillanfilms.com/programs/cato) - Sempronius sends his partner in the failed insurrection off to instant death
 
 # Educational Mission {#educational-mission}
 
