@@ -30,7 +30,7 @@ CATO by Joseph Addison - George Washington's favorite play - is about the last d
 Runtime Time: 110 minutes
 
 Individuals can view CATO for $12 on our streaming site:<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/ocdnb">View now for $12 on our streaming site</a>
+<a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/ocdnb">View now for $12</a>
 
 Libraries, Educators and Professional institutions - can license the HD digital download file via paypal or invoice.
 
