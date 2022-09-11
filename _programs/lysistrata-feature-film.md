@@ -22,8 +22,4 @@ Immerse yourself in Aristophanes’ shocking ancient Greek comic masterpiece abo
 
 <iframe src="//www.youtube.com/embed/sCzmowU7E4U?list=UUEXS3vn0MXMsjkJVdxdaKag&rel=0&modestbranding=1&autohide=1" class="yt" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-The below film trailer gives a quick overview:
-
-<iframe src="//www.youtube.com/embed/i9BKdgVqI5I?list=UUEXS3vn0MXMsjkJVdxdaKag&rel=0&modestbranding=1&autohide=1" class="yt" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 Available on DVD and via HD mp4 files - 1 hr 24 min
