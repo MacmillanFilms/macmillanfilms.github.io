@@ -4,7 +4,9 @@ date: 2020-10-02 10:15:00 -04:00
 layout: page
 ---
 
-Macmillan Films is an independent studio that produces films about ancient Greek drama, Philosophy and other programing about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use. We also produce thoughtful art films including [True Drama](//TrueDramaMovie.com) and and we have just staged Cato - Geoerge Washington's favorite play about the last day of democracy in ancient Rome. Our staff also produces web videos, broadcast television, and other programming for clients. If you have a suggestion for programming that you think we should consider – or are looking for a content producer, please send us an e-mail or **call (917) 664-0507**.
+Macmillan Films is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use. We also produce thoughtful art films including [True Drama](//TrueDramaMovie.com) and and we have just staged Cato - George Washington's favorite play -about the last day of democracy in ancient Rome. Our staff also produces broadcast television and other programming for clients. If you have a suggestion for programming, send us an e-mail or **call (917) 664-0507**.
+
+![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)
 
 [!\[Lysistrata Staging\]({{ '/assets/images/content/3DLysistratawithRearSm.jpg' | relative_url }})](https://gum.co/lysistrata-staging/)
 
