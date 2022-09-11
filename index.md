@@ -8,7 +8,7 @@ Macmillan Films is an independent studio that produces films about art, thought 
 
 ![GREEK DRAMA MAcMillna Films Scene from the Oresteia - Eumenidies.png](/uploads/GREEK%20DRAMA%20MAcMillna%20Films%20Scene%20from%20the%20Oresteia%20-%20Eumenidies.png)
 
-We also produce thoughtful art films including [True Drama](//TrueDramaMovie.com) which contracts Greek Drama violence with the way violence is deployed in modern film. Police race to understand crimes on a movie set before a tragedy unfolds:
+We also produce thoughtful art films including the modern Greek Drama [True Drama](//TrueDramaMovie.com) which contracts Greek Drama violence with the way violence is deployed in modern film. Police race to understand crimes on a movie set before a tragedy unfolds:
 
 ![TRUE DRAMA PRODUCTION STILL  24.png](/uploads/TRUE%20DRAMA%20PRODUCTION%20STILL%20%2024.png)
 
