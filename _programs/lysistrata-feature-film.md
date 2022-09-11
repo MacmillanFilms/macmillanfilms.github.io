@@ -2,6 +2,17 @@
 title: Lysistrata Feature Film
 date: 2014-01-02 11:27:00 -05:00
 permalink: "/programs/lysistrata-feature-film/"
+categories:
+- war
+- democracy
+- female power
+- female leadership
+tags:
+- war
+- Greek Drama
+- femdom
+- peace
+- equality
 price: 100
 image: "/assets/images/content/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE.jpg"
 sidetxt: 'Lysistrata the feature film is an adaptation of Aristophanes'' Lysistrata
