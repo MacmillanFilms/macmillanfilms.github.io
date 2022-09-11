@@ -18,6 +18,8 @@ Individuals can view Lysistrata on our streaming site:<script src="https://gumro
 
 Immerse yourself in Aristophanes’ shocking ancient Greek comic masterpiece about a sex strike to end war. This production sets the comic scenes in the ancient Greek locations that are hinted at in the drama but that are hard for modern audiences to imagine. So, for example, you see the interior of the Parthenon for the scenes where Lysistrata outwits the Official.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VK6o7XbUxWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe src="//www.youtube.com/embed/sCzmowU7E4U?list=UUEXS3vn0MXMsjkJVdxdaKag&rel=0&modestbranding=1&autohide=1" class="yt" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 The below film trailer gives a quick overview:
