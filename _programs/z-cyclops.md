@@ -2,7 +2,7 @@
 title: Cyclops
 date: 2014-04-25 15:32:06 -04:00
 permalink: "/programs/cyclops/"
-position: 3
+position: 11
 price: 100
 image: "/assets/images/content/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg"
 sidetxt: 'Join us for a staging of the only complete Satyr play to survive antiquity.
