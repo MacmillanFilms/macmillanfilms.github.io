@@ -10,7 +10,7 @@ sidetxt: 'Join us for a staging of the only complete Satyr play to survive antiq
   masks.
 
 '
-paypall-id: WJLTWK5NN2NBC
+paypal-id: WJLTWK5NN2NBC
 gum-id: cyclops-staging
 ---
 

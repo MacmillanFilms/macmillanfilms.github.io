@@ -11,7 +11,7 @@ sidetxt: 'Join us for a staging of Peter Artnott''s translation of Sophocles'' A
   blend of scholarship and fun.
 
 '
-paypall-id: 484MJUHTYDRWS
+paypal-id: 484MJUHTYDRWS
 gum-id: antigone-staging
 ---
 

@@ -11,7 +11,7 @@ sidetxt: 'This PBS Documentary focuses on the provocative ideas in Aristophanes'
   connections among violence, sex, drama, and politics.
 
 '
-paypall-id: YST9ERU2LTCQE
+paypal-id: YST9ERU2LTCQE
 gum-id: lysistrata-documentary
 ---
 

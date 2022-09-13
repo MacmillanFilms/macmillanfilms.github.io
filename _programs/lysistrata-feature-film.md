@@ -20,7 +20,7 @@ sidetxt: 'Lysistrata the feature film is an adaptation of Aristophanes'' Lysistr
   with the same plot.
 
 '
-paypall-id: ZE34FNZFYQ88C
+paypal-id: ZE34FNZFYQ88C
 gum-id: lysistrata-film
 ---
 

@@ -11,7 +11,7 @@ sidetxt: 'A talented cast brings this Greek masterpiece to the stage with song, 
   chorus of Oceanids to first appear above Prometheus as in the original.
 
 '
-paypall-id: E2QDGNU8P6LG6
+paypal-id: E2QDGNU8P6LG6
 gum-id: prometheus-bound-staging
 ---
 

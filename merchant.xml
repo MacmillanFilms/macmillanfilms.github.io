@@ -13,7 +13,7 @@
     {%- for program in site.programs -%}
     <entry>
         <title>{{ program.title }}</title>
-        <id>{{ program.paypall-id }}</id>
+        <id>{{ program.paypal-id }}</id>
         <link href="{{ program.url | relative_url }}" />
         <summary>{{ program.sidetxt }}</summary>
         <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -22,7 +22,7 @@
         <g:condition>new</g:condition>
         <g:availability>in stock</g:availability>
         <g:brand>{{ site.author }}</g:brand>
-        <g:mpn>{{ program.paypall-id }}</g:mpn>
+        <g:mpn>{{ program.paypal-id }}</g:mpn>
     </entry>
     {%- endfor -%}
 </feed> 

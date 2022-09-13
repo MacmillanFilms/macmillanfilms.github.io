@@ -11,7 +11,7 @@ sidetxt: 'This PBS documentary brings together nine outstanding philosophers to 
   about logic, certainty, religion, justice and fundamentalism.
 
 '
-paypall-id: Q7MY7TTCQK7YG
+paypal-id: Q7MY7TTCQK7YG
 gum-id: philosophy-documentary
 ---
 

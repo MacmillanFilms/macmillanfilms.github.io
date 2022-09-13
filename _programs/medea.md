@@ -11,7 +11,7 @@ sidetxt: 'Olivia Sutherland delivers an inspired performance as Medea in this co
   choral odes and the triumphant ending.
 
 '
-paypall-id: J8K5S3XHKYP9G
+paypal-id: J8K5S3XHKYP9G
 gum-id: medea-staging
 ---
 

@@ -22,7 +22,7 @@ sidetxt: 'Join us for a staging of Peter Arnott''s translation of Sophocles'' ma
   fun.
 
 '
-paypall-id: ADDPAYPALID
+paypal-id: ADDPAYPALID
 gum-id: oedipus-rex
 ---
 

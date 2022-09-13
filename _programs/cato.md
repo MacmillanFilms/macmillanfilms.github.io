@@ -22,7 +22,8 @@ tags:
 - Sempronius
 - Ceasar
 - Utica
-price: "$100 institution license"
+price: 100
+gum-id: ocdnb
 ---
 
 Individuals can view CATO on our streaming site:<script src="https://gumroad.com/js/gumroad.js"></script>

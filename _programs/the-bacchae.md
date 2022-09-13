@@ -8,7 +8,7 @@ sidetxt: 'This DVD of of the staging with bonus content is available from our st
   The program also features a prologue which explains the family tree of king Cadmus.
 
 '
-paypall-id: RPZ3YM8NLE9SU
+paypal-id: RPZ3YM8NLE9SU
 gum-id: bacchae-staging
 ---
 

@@ -9,7 +9,7 @@ sidetxt: 'Lysistrata is a comedy by Aristophanes about the war-weary women of At
   of Aristophanes'' masterpiece is available on DVD and HD mp4.
 
 '
-paypall-id: R5HDRKDH7TNH8
+paypal-id: R5HDRKDH7TNH8
 gum-id: lysistrata-staging
 ---
 

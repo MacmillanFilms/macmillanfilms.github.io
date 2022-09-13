@@ -31,7 +31,11 @@ layout: default
 				<p><b>Price: {{ page.price }}</b></p>
 
 				<div style="text-align: center; margin-top: 14px;">
+					{% if page.paypal-id -%}
 					{% include paypal/paypal-button.html %}
+					{%- elsif page.gum-id -%}
+					{% include gum/gum-button.html %}
+					{%- endif %}
 				</div>
 			</aside>
 		</div><!-- .widget-area -->

@@ -8,7 +8,7 @@ sidetxt: 'The Oresteia is the only surviving trilogy of ancient Greek plays. Thi
   boxed set contains all three plays of the Oresteia.
 
 '
-paypall-id: T7SDH228HB5H2
+paypal-id: T7SDH228HB5H2
 gum-id: oresteia-staging
 ---
 
