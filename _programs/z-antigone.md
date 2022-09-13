@@ -2,7 +2,7 @@
 title: Antigone
 date: 2014-04-25 14:53:31 -04:00
 permalink: "/programs/antigone/"
-position: 9
+position: 10
 price: 100
 image: "/assets/images/content/2014/04/3DAntigone.jpg"
 sidetxt: 'Join us for a staging of Peter Artnott''s translation of Sophocles'' Antigone
