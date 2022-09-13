@@ -2,7 +2,7 @@
 title: Lysistrata Documentary
 date: 2013-08-20 15:11:10 -04:00
 permalink: "/programs/lysistrata-documentary/"
-position: 1
+position: 2
 price: 100
 image: "/assets/images/content/3DLysistrataDocwithRearSm.jpg"
 sidetxt: 'This PBS Documentary focuses on the provocative ideas in Aristophanes''
