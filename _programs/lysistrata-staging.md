@@ -2,7 +2,7 @@
 title: Lysistrata Staging
 date: 2013-08-20 16:43:00 -04:00
 permalink: "/programs/lysistrata-staging/"
-position: 0
+position: 1
 price: 100
 image: "/assets/images/content/2013/08/LYSISTRATAcompSM.jpg"
 sidetxt: 'Lysistrata is a comedy by Aristophanes about the war-weary women of Athens
