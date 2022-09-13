@@ -22,6 +22,7 @@ tags:
 - Sempronius
 - Ceasar
 - Utica
+position: 9
 price: 100
 gum-id: ocdnb
 ---

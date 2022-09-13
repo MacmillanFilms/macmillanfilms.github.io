@@ -2,6 +2,7 @@
 title: The Oresteia
 date: 2014-04-25 16:06:16 -04:00
 permalink: "/programs/the-oresteia/"
+position: 6
 price: 200
 image: "/assets/images/content/2014/04/3D-Oresteia-withRearLarge.jpg"
 sidetxt: 'The Oresteia is the only surviving trilogy of ancient Greek plays. This
