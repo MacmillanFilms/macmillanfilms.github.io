@@ -2,7 +2,7 @@
 title: Medea
 date: 2016-06-01 15:11:10 -04:00
 permalink: "/programs/medea/"
-position: 8
+position: 4
 price: 100
 image: "/assets/images/content/3DMedeaFrontandBackcropped.jpg"
 sidetxt: 'Olivia Sutherland delivers an inspired performance as Medea in this complete

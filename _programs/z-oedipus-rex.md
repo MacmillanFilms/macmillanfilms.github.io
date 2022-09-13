@@ -9,7 +9,7 @@ tags:
 - sphinx
 - riddle
 - plague
-position: 6
+position: 7
 price: 100
 image: "/uploads/Oedipus%20Rex%20Staging%202021-10-25%20.png"
 sidetxt: 'Join us for a staging of Peter Arnott''s translation of Sophocles'' masterpiece
