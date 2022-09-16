@@ -8,4 +8,4 @@ date: 2022-09-16 17:38:00 -04:00
 For individual viewers, True Drama can be streamed via our non-education portal
 
 <script src="https://gumroad.com/js/gumroad.js"></script>\
-<a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/ihdhf">Stream in HD Now</a>
+<a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/ihdhf">Stream in HD Now for $6</a>
