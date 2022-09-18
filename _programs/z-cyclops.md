@@ -2,6 +2,19 @@
 title: Cyclops
 date: 2014-04-25 15:32:00 -04:00
 permalink: "/programs/cyclops/"
+categories:
+- greek drama
+- The odyssy
+- odyssey
+- homer
+- classical
+- theater
+- comedy
+tags:
+- Greek Drama
+- drama
+- commedy
+- Odysseus
 position: 11
 price: 100
 image: "/assets/images/content/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg"
