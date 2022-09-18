@@ -23,6 +23,8 @@ This Documentary featuring Jane Fonda, Katrina vanden Heuvel, Carol Jenkins, Kat
 <script src="https://gumroad.com/js/gumroad.js"></script>\
 <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/lysistrata-documentary?wanted=true">Individuals can stream this live now in HD</a>
 
+![Screen Shot 2022-09-18 at 11.30.22 AM.jpg](/uploads/Screen%20Shot%202022-09-18%20at%2011.30.22%20AM.jpg)
+
 ---
 
 **FEATURING:**
