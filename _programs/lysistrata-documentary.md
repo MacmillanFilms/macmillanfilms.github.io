@@ -18,9 +18,7 @@ gum-id: lysistrata-documentary
 
 ![Screen Shot 2022-09-18 at 11.37.57 AM.jpg](/uploads/Screen%20Shot%202022-09-18%20at%2011.37.57%20AM.jpg)
 
-This Documentary featuring Jane Fonda, Katrina vanden Heuvel, Carol Jenkins, Katha Pollitt and focuses on the provocative ideas in Aristophanes' classic Greek play Lysistrata. A comedy about a sex strike to end war, presages the rise of female leadership from a joke to a necessary reality. Aristophanes' timeless comedy about a sex strike and a power grab, reveals much about the ancient archetypes that still impact current political thought.
-
-<script src="https://gumroad.com/js/gumroad.js"></script>\
+This Documentary featuring Jane Fonda, Katrina vanden Heuvel, Carol Jenkins, Katha Pollitt and focuses on the provocative ideas in Aristophanes' classic Greek play Lysistrata. A comedy about a sex strike to end war, presages the rise of female leadership from a joke to a necessary reality. Aristophanes' timeless comedy about a sex strike and a power grab, reveals much about the ancient archetypes that still impact current political thought.<script src="https://gumroad.com/js/gumroad.js"></script>\
 <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/lysistrata-documentary?wanted=true">Individuals can stream this live now in HD</a>
 
 ![Screen Shot 2022-09-18 at 11.30.22 AM.jpg](/uploads/Screen%20Shot%202022-09-18%20at%2011.30.22%20AM.jpg)
