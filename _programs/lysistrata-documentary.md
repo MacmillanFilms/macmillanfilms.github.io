@@ -18,6 +18,9 @@ This Documentary featuring Jane Fonda, Katrina vanden Heuvel, Carol Jenkins, Kat
 
 ![Screen Shot 2022-09-18 at 11.30.22 AM.jpg](/uploads/Screen%20Shot%202022-09-18%20at%2011.30.22%20AM.jpg)
 
+<script src="https://gumroad.com/js/gumroad.js"></script>\
+<a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/lysistrata-documentary?wanted=true">Individuals can stream this live now in HD</a>
+
 ---
 
 **FEATURING:**
@@ -29,6 +32,3 @@ Jane Fonda - actress, writer and antiwar activist. She rose to fame in the 1960s
 Katha Pollitt is a feminist and leftist columnist for The Nation, as well as a prize-winning poet.
 
 Katrina vanden Heuvel is the editor, part-owner, and publisher of The Nation magazine, and a frequent guest on numerous television programs.
-
-<script src="https://gumroad.com/js/gumroad.js"></script>\
-<a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/lysistrata-documentary?wanted=true">Individuals can stream this live now in HD</a>
