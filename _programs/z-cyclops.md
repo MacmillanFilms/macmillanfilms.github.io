@@ -17,7 +17,7 @@ tags:
 - Odysseus
 position: 11
 price: 100
-image: "/assets/images/content/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg"
+image: 
 sidetxt: 'Join us for a staging of the only complete Satyr play to survive antiquity.
   Translated by Peter D. Arnott into English from the original Greek, Euripides ludicrous
   comedy is brought to life with marionettes which preserve the effect of classical
