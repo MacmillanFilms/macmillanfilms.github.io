@@ -5,11 +5,7 @@ permalink: "/programs/lysistrata-documentary/"
 position: 5
 price: 100
 image: "/assets/images/content/3DLysistrataDocwithRearSm.jpg"
-sidetxt: 'This PBS Documentary focuses on the provocative ideas in Aristophanes''
-  classic Greek play Lysistrata. This comedy about a sex strike to end war, presages
-  the rise of female leadership from a joke towards a necessary reality. Insightful
-  interviews with prominent theater scholars and female leaders expose the ancient
-  connections among violence, sex, drama, and politics.
+sidetxt: 'Institutional HD mp4 licensing or DVD sale
 
 '
 paypal-id: YST9ERU2LTCQE
