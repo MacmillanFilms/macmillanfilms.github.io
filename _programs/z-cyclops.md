@@ -19,6 +19,4 @@ Come join us for a staging of the only complete Satyr play to survive antiquity 
 
 !\[Cyclops Greek Drama\]({{ site.baseurl }}/assets/images/content/Cyclops_Greek_Drama_Cast.jpg)
 
-\[!\[CYCLOPS_DVD rear art\]({{ site.baseurl }}/assets/images/content/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg)\]({{ site.baseurl }}/assets/images/content/2014/04/CYCLOPS_DVD-rear-art.jpg)
-
 <iframe src="//www.youtube.com/embed/NUMJQ9ILtr4?rel=0&modestbranding=1&autohide=1" class="yt" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
