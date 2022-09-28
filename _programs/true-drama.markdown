@@ -9,7 +9,7 @@ price: "$100 for libraries and colleges"
 <script src="https://gumroad.com/js/gumroad.js"></script>\
 <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/ihdhf">For individuals please Stream now in HD</a>
 
-![True Drama Production10.jpg](/uploads/True%20Drama%20Production10.jpg)![True Drama Production1 MAIN.jpg](/uploads/True%20Drama%20Production1%20MAIN.jpg)
+![True Drama Production1 MAIN.jpg](/uploads/True%20Drama%20Production1%20MAIN.jpg)
 
 ![True Drama Production15.png](/uploads/True%20Drama%20Production15.png)
 
