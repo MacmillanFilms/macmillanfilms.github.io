@@ -13,6 +13,4 @@ Winner of more than 20 film festival laurels - including Best Feature film from 
 <script src="https://gumroad.com/js/gumroad.js"></script>\
 <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/ihdhf">For individuals please Stream now in HD</a>
 
-![True Drama Production15.png](/uploads/True%20Drama%20Production15.png)
-
 ![True Drama Production5.jpg](/uploads/True%20Drama%20Production5.jpg)
