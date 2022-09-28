@@ -10,7 +10,7 @@ tags:
 price: "$100 for libraries and colleges"
 ---
 
-**True Drama** is inspiring thoughtful use of violence in movies by taking a lesson from Greek Drama. The plot contrasts how violence is used in Greek Drama with modern cinema. Strange Bacchic disturbances near a horror movie set, prompt a police investigation. A shadowy figure emerges. Calling himself the God of Drama, he believes that he can achieve the seemingly impossible goal of returning drama to its original purpose – of preparing citizens for leadership in a democracy. As the horror movie spirals out of control, and the Bacchae are consumed in violence, can the police discern the truth before a gruesome Greek Tragedy unfolds? 
+**True Drama** struggling to captures the essence of  drama by going on a pedagogical journey to the origins of drama.  The plot contrasts how violence is used in Greek Drama with modern cinema. Strange Bacchic disturbances near a horror movie set, prompt a police investigation. A shadowy figure emerges. Calling himself the God of Drama, he believes that he can achieve the seemingly impossible goal of returning drama to its original purpose – of preparing citizens for leadership in a democracy. As the horror movie spirals out of control, and the Bacchae are consumed in violence, can the police discern the truth before a gruesome Greek Tragedy unfolds? 
 
 ![TRUE DRAMA POSTER3.jpg](/uploads/TRUE%20DRAMA%20POSTER3.jpg)
 
