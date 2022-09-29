@@ -17,3 +17,6 @@ Join us for a staging of Peter Artnott's translation of Sophocles' Antigone - st
 \[!\[3DAntigone\]({{ site.baseurl }}/assets/images/content/2014/04/3DAntigone-872x1024.jpg)\]({{ site.baseurl }}/assets/images/content/2014/04/3DAntigone.jpg)
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/PIjsdS49agI?rel=0&modestbranding=1&autohide=1" class="yt" frameborder="0" allowfullscreen></iframe></p>
+
+<script src="https://gumroad.com/js/gumroad.js"></script>\
+<a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/antigone-staging">Individuals can stream this now here</a>
