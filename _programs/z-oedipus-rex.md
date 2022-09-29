@@ -24,6 +24,6 @@ Join us for a staging of Peter Arnott's translation of Sophocles' masterpiece Oe
 ![Oedipus Rex Staging - Oedipus with Jacosta and Messenger 2022-09-29 .jpg](/uploads/Oedipus%20Rex%20Staging%20-%20Oedipus%20with%20Jacosta%20and%20Messenger%202022-09-29%20.jpg)
 
 <script src="https://gumroad.com/js/gumroad.js"></script>\
-<a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/fwwaz">Individuals stream now on</a>
+<a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/fwwaz">Individuals can stream now here</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6aDTAx9NVW8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
