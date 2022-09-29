@@ -12,7 +12,7 @@ We also produce thoughtful art films including the modern Greek Drama [True Dram
 
 And and we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms.com/programs/cato) - George Washington's favorite play - about the last day of democracy in ancient Rome. In this  scene Sempronius sends the insurrection leader off to death:
 
-![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)
+[![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)](https://www.macmillanfilms.com/programs/cato)
 
 Enjoy the programing and call us if you have a suggestion for upcoming programming **call (917) 664-0507**, or send us an e-mail.
 
