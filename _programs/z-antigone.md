@@ -5,7 +5,7 @@ permalink: "/programs/antigone/"
 position: 10
 price: 100
 image: "/assets/images/content/2014/04/3DAntigone.jpg"
-sidetxt: 'Available in DVD and as a digital files for institutions
+sidetxt: 'Available in DVD and as a digital file for institutions
 
 '
 paypal-id: 484MJUHTYDRWS
