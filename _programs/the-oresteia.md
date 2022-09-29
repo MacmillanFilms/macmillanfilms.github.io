@@ -6,14 +6,15 @@ position: 3
 price: 200
 image: "/assets/images/content/2014/04/3D-Oresteia-withRearLarge.jpg"
 sidetxt: 'The Oresteia is the only surviving trilogy of ancient Greek plays. This
-  boxed set contains all three plays of the Oresteia.
+  3-DVD pack boxed set contains all three plays of the Oresteia. Also, HD digital
+  versions are available to libraries and colleges.
 
 '
 paypal-id: T7SDH228HB5H2
 gum-id: oresteia-staging
 ---
 
-The complete Oresteia is now available as a three-DVD pack which includes Agamemnon, Libation Bearers and Eumenides.
+The complete Oresteia is now available and includes Agamemnon, Libation Bearers and Eumenides.
 
 <script src="https://gumroad.com/js/gumroad.js"></script>\
 <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/LAqyt?wanted=true">Stream this in HD now here</a>
