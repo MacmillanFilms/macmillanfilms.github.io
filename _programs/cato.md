@@ -36,8 +36,6 @@ Libraries, educators and professional institutions can license the HD digital do
 
 ![Cato by Joseph Addison prouction still13.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still13.png)
 
-![Cato by Joseph Addison prouction still1.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still1.png)
-
 <iframe class="yt" width="560" height="315" src="https://www.youtube.com/embed/H7nBnDidBag?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Runtime Time: 110 minutes
