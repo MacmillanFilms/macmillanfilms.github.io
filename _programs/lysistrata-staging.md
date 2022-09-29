@@ -14,13 +14,11 @@ paypal-id: R5HDRKDH7TNH8
 gum-id: lysistrata-staging
 ---
 
-!\[Lysistrata: Beyond Sex\]({{ site.baseurl }}/assets/images/content/2013/08/LYSISTRATAcompSM.jpg)
-
 This is the popular complete staging of Aristophanes shocking comic masterpiece featuring Iris McQuillan-Grace in the title role and a talented ensemble cast. Come see why sexual politics are timelessly funny. Remastered in HD in 2016.
 
 ![Lysistrata Staging](/assets/images/content/Lysistrata_Staging.jpg)
 
-Lysistrata is the absurdest comedy about the war-weary women of Athens who band together in a sex strike to end the Peloponnesian war. It's the first time the West hit upon many ideas. One idea – the “crazy” notion that woman can participate in political life – was to be picked up by Plato and would reverberate from that time onwards. It is an idea that only today holds the promise of delivering sustained benefit to civilization. Will women be allowed to participate in political life without being vilified as Medusa? Will women be allowed to create their own path without following in aggressive male models? 
+Lysistrata is the absurdest comedy about the war-weary women of Athens who band together in a sex strike to end the Peloponnesian war. It's the first time the West hit upon many ideas. One idea – the “crazy” notion that woman can participate in political life – was to be picked up by Plato and would reverberate from that time onwards. It is an idea that only today holds the promise of delivering sustained benefit to civilization. Will women be allowed to participate in political life without being vilified as Medusa? Will women be allowed to create their own path without following in aggressive male models?
 
 <iframe src="//www.youtube.com/embed/hOOJ1Emr0LI?rel=0&modestbranding=1&autohide=1" class="yt" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
