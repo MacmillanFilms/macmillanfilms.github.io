@@ -6,7 +6,7 @@ layout: page
 
 Macmillan Films is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use including all three plays of the [Oresteia](https://www.macmillanfilms.com/programs/the-oresteia/), [The Bacchae](https://www.macmillanfilms.com/programs/the-bacchae/), [Lysistrata](https://www.macmillanfilms.com/programs/lysistrata-feature-film/), [Oedipus Rex](https://www.macmillanfilms.com/programs/oedipus-rex/) and [Prometheus Bound](https://www.macmillanfilms.com/programs/prometheus-bound/). Orestes waits for the verdict at the end of the Oresteia:
 
-![GREEK DRAMA MAcMillna Films Scene from the Oresteia - Eumenidies.png](/uploads/GREEK%20DRAMA%20MAcMillna%20Films%20Scene%20from%20the%20Oresteia%20-%20Eumenidies.png)
+[![GREEK DRAMA MAcMillna Films Scene from the Oresteia - Eumenidies.png](/uploads/GREEK%20DRAMA%20MAcMillna%20Films%20Scene%20from%20the%20Oresteia%20-%20Eumenidies.png)](https://www.macmillanfilms.com/programs/the-oresteia/)
 
 We also produce thoughtful art films including the modern Greek Drama [True Drama](//TrueDramaMovie.com) which contrasts Greek Drama violence with the way violence is deployed in modern film. 
 
