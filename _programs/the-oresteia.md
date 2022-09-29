@@ -24,3 +24,5 @@ Director James Thomas, brings together a talented young cast and Peter Arnott's 
 <iframe src="https://www.youtube.com/embed/I_BBr20t_gA?rel=0&modestbranding=1&autohide=1" class="yt" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ![Clytemnestra wheels out on the Ekkyklêma.jpg](/uploads/Clytemnestra%20wheels%20out%20on%20the%20Ekkykle%CC%82ma.jpg)
+
+![Cassanda in Agamemnon played by Morgan Marcum.jpg](/uploads/Cassanda%20in%20Agamemnon%20played%20by%20Morgan%20Marcum.jpg)
