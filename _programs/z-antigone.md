@@ -1,6 +1,6 @@
 ---
 title: Antigone
-date: 2014-04-25 14:53:00 -04:00
+date: 2022-09-29 00:00:00 -04:00
 permalink: "/programs/antigone/"
 position: 10
 price: 100
