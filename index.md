@@ -4,15 +4,15 @@ date: 2020-10-02 10:15:00 -04:00
 layout: page
 ---
 
-Macmillan Films is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use including all three plays of the [Oresteia](https://www.macmillanfilms.com/programs/the-oresteia/), [The Bacchae](https://www.macmillanfilms.com/programs/the-bacchae/), [Lysistrata](https://www.macmillanfilms.com/programs/lysistrata-feature-film/), [Oedipus Rex](https://www.macmillanfilms.com/programs/oedipus-rex/) and [Prometheus Bound](https://www.macmillanfilms.com/programs/prometheus-bound/). Orestes waits for the verdict at the end of the Oresteia:
+Macmillan Films is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use including all three plays of the [Oresteia](https://www.macmillanfilms.com/programs/the-oresteia/), [The Bacchae](https://www.macmillanfilms.com/programs/the-bacchae/), [Lysistrata](https://www.macmillanfilms.com/programs/lysistrata-feature-film/), [Oedipus Rex](https://www.macmillanfilms.com/programs/oedipus-rex/) and [Prometheus Bound](https://www.macmillanfilms.com/programs/prometheus-bound/). Below - Orestes waits for the verdict at the end of the Oresteia:
 
-[![GREEK DRAMA MAcMillna Films Scene from the Oresteia - Eumenidies.png](/uploads/GREEK%20DRAMA%20MAcMillna%20Films%20Scene%20from%20the%20Oresteia%20-%20Eumenidies.png)](https://www.macmillanfilms.com/programs/the-oresteia/)
+![GREEK DRAMA MAcMillna Films Scene from the Oresteia - Eumenidies.png](/uploads/GREEK%20DRAMA%20MAcMillna%20Films%20Scene%20from%20the%20Oresteia%20-%20Eumenidies.png)
 
-We also produce thoughtful art films including the modern Greek Drama [True Drama](//TrueDramaMovie.com) which contrasts Greek Drama violence with the way violence is deployed in modern film. 
+We also produce thoughtful art films including the award winning feature [True Drama](//TrueDramaMovie.com) which contrasts Greek Drama violence with the way violence is deployed in modern cinema.
 
 And and we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms.com/programs/cato) - George Washington's favorite play - about the last day of democracy in ancient Rome. In this  scene Sempronius sends the insurrection leader off to death:
 
-[![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)](https://www.macmillanfilms.com/programs/cato)
+![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)
 
 Enjoy the programing and call us if you have a suggestion for upcoming programming **call (917) 664-0507**, or send us an e-mail.
 
@@ -33,7 +33,7 @@ All the programs are available to Academic Institutions with digital streaming p
 Please e-mail \[james@macmillanfilms.com\] or call Tel. (917) 664-0507.
 We provide streaming licenses all the time and deliver HD mp4 files to your LMS or LAN administrators.
 
-For individual home viewers, all the programs can be streamed - most programs are $12 .
+For individual home viewers, all the programs can be streamed - most programs are $12  on our [HD streaming site](https://macmillanfilms.gumroad.com/) 
 
 Thank you for your support, which is vital to our ability to produce thought-driven programming. Any questions please call (917) 664-0507.
 
