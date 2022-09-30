@@ -18,7 +18,7 @@ Enjoy the programing and call us if you have a suggestion for upcoming programmi
 
 # Educational Mission {#educational-mission}
 
-MacMillan Films is dedicated to producing thoughtful educational programing that instructs and inspires. Our mission is to produce programs that showcases Democratic values and the benefits of a pluralist society. Many of our titles are Greek dramas and documentaries about philosophy and democracy. We produce a lot on ancient Greek culture and art because so much of modern thought stems from the "golden era" of 5th century BC Athens.
+MacMillan Films is dedicated to producing thoughtful educational programing that instructs and inspires. Our mission is to produce programs that showcases Democratic values and the benefits of a pluralist society. Many of our titles are Greek dramas and documentaries about philosophy and democracy. We produce a lot on ancient Greek culture and art because so much of modern thought stems from the "golden era" of 5th century Democratic Athens.
 
 # Easy Ways to Purchase {#store}
 
