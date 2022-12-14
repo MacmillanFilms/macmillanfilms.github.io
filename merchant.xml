@@ -4,7 +4,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
     <title>Products for Google Merchant</title>
-    <link href="{{ '/' | relative_url }}" rel="alternate" type="text/html" />
+    <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" />
     <updated>{{ site.time | date_to_xmlschema }}</updated>
     <author>
         <name>{{ site.author }}</name>
@@ -14,10 +14,10 @@
     <entry>
         <title>{{ program.title }}</title>
         <id>{{ program.paypal-id }}</id>
-        <link href="{{ program.url | relative_url }}" />
+        <link href="{{ program.url | absolute_url }}" />
         <summary>{{ program.sidetxt }}</summary>
         <updated>{{ site.time | date_to_xmlschema }}</updated>
-        <g:image_link>{{ program.image | relative_url }}</g:image_link>
+        <g:image_link>{{ program.image | absolute_url }}</g:image_link>
         <g:price>{{ program.price }} USD</g:price>
         <g:condition>new</g:condition>
         <g:availability>in stock</g:availability>
