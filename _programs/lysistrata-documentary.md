@@ -5,11 +5,14 @@ permalink: "/programs/lysistrata-documentary/"
 position: 5
 price: 100
 image: "/assets/images/content/3DLysistrataDocwithRearSm.jpg"
-sidetxt: 'Institutional HD mp4 licensing or DVD sale
+sidetxt: 'This PBS documentary about ancient archetypes reveals much about the forces that hold women back and which undermined Hillary Clinton''s campaigns. Themed around Aristophanes'' timeless comic masterpiece about a sex strike and a power grab, the program reveals much about the ancient forces still impacting current political thought. Interviews include Jane Fonda, Katrina vanden Heuvel, Carol Jenkins, Senator Liz Krueger, Katha Pollitt, Norma Kamali, the Dean of Hofstra Drama James Kalb, Yale Greek drama scholar Victor Bers, Elizabeth Scharffenberger from Columbia, Mary English from Montclair State (on the role of women), and Jeffrey Hurwit.
 
 '
 paypal-id: YST9ERU2LTCQE
 gum-id: lysistrata-documentary
+length: 58
+isbn: "9781637225790"
+mpn: "BVL274613"
 ---
 
 ![Screen Shot 2022-09-18 at 11.37.57 AM.jpg](/uploads/Screen%20Shot%202022-09-18%20at%2011.37.57%20AM.jpg)

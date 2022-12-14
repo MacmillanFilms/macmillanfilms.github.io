@@ -11,21 +11,27 @@
     </author>
     <id>google,{{ site.title | slugify }}</id>
     {%- for program in site.programs -%}
-    {%- if program.paypal-id -%}
+    {%- if program.gum-id or program.paypal-id %}
     <entry>
-        <title>{{ program.title }}</title>
-        <id>{{ program.paypal-id }}</id>
+        <title>{{ program.title | xml_escape  }}</title>
+        <id>{{ program.gum-id | default: paypal-id }}</id>
         <link href="{{ program.url | absolute_url }}" />
-        <summary>{{ program.sidetxt }}</summary>
+        <summary>{{ program.sidetxt | xml_escape }}</summary>
         <updated>{{ site.time | date_to_xmlschema }}</updated>
         <g:image_link>{{ program.image | absolute_url }}</g:image_link>
         <g:price>{{ program.price }} USD</g:price>
         <g:condition>new</g:condition>
         <g:availability>in stock</g:availability>
         <g:brand>{{ site.author }}</g:brand>
-        <g:mpn>{{ program.paypal-id }}</g:mpn>
-        <g:gtin>{{ program.paypal-id }}</g:gtin>
+        {%- if program.is_bundle -%}<g:is_bundle>yes</g:is_bundle>{%- endif -%}
+        {%- if program.isbn -%}
+        <g:gtin>{{ program.isbn }}</g:gtin>
         <g:identifier_exists>true</g:identifier_exists>
+        {%- elsif program.upc -%}
+        <g:gtin>{{ program.upc }}</g:gtin>
+        <g:identifier_exists>true</g:identifier_exists>
+        {%- endif -%}
+        <g:mpn>{{ program.mpn | default: program.gum-id | default: paypal-id }}</g:mpn>
     </entry>
     {%- endif -%}
     {%- endfor -%}

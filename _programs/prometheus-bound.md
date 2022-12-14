@@ -5,15 +5,15 @@ permalink: "/programs/prometheus-bound/"
 position: 9
 price: 100
 image: "/assets/images/content/2015/04/Prometheus-Bound-Staging-DVD.jpg"
-sidetxt: 'A talented cast brings this Greek masterpiece to the stage with song, dance
-  and an innovative set which allows the immortal story about resisting tyranny to
-  come alive. Features Peter Arnott’s audience tested translation.  An innovative
-  set allows for a dance platform on the top of the skēnē building - allowing the
-  chorus of Oceanids to first appear above Prometheus as in the original.
+sidetxt: 'A talented cast brings this Greek masterpiece to the stage with song, dance, and an innovative set that allows the immortal story about resisting tyranny to come alive. The staging features Peter Arnott''s audience-tested translation. The dance platform on the top of the skene building allows the chorus of Oceanids to first appear above Prometheus as in the original. The production features performances by Casey McIntyre, Christopher Thomas, Milila Shah, Alisha Desai, and James Thomas as Prometheus.
 
 '
 paypal-id: E2QDGNU8P6LG6
 gum-id: prometheus-bound-staging
+length: 69
+upc: "642968135556"
+isbn: "9781637225851"
+mpn: "BVL274619"
 ---
 
 The below summary of the Prometheus Bound plot was edited from scenes from our staging:

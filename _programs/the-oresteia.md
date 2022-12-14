@@ -1,17 +1,18 @@
 ---
-title: The Oresteia
+title: The Oresteia Trilogy
 date: 2014-04-25 16:06:00 -04:00
 permalink: "/programs/the-oresteia/"
 position: 3
 price: 200
 image: "/assets/images/content/2014/04/3D-Oresteia-withRearLarge.jpg"
-sidetxt: 'The Oresteia is the only surviving trilogy of ancient Greek plays. This
-  3-DVD pack boxed set contains all three plays of the Oresteia. Also, HD digital
-  versions are available to libraries and colleges.
+sidetxt: 'In this production of the Oresteia trilogy, director James Thomas brings together a talented young cast and Peter Arnott''s faithful translation, to unleash the gruesome raw power of Aeschylus'' work. This beautifully-spoken original staging makes vivid the poetry and wisdom -- and the themes of terror, revenge, and justice.
 
 '
+length: 220
 paypal-id: T7SDH228HB5H2
 gum-id: oresteia-staging
+mpn: "BVL274622"
+is_bundle: true
 ---
 
 The complete Oresteia is now available and includes Agamemnon, Libation Bearers and Eumenides.
