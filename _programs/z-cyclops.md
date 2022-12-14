@@ -1,5 +1,5 @@
 ---
-title: "Cyclops: A Marionette Staging"
+title: 'Cyclops: A Marionette Staging'
 date: 2014-04-25 15:32:00 -04:00
 permalink: "/programs/cyclops/"
 categories:
@@ -18,15 +18,18 @@ tags:
 position: 11
 price: 100
 image: 
-sidetxt: 'This is a staging of the only complete Satyr play to survive antiquity. Translated by Peter D. Arnott into English from the original Greek, Euripides'' ludicrous comedy is brought to life with marionettes that preserve the effect of classical masks.
+sidetxt: 'This is a staging of the only complete Satyr play to survive antiquity.
+  Translated by Peter D. Arnott into English from the original Greek, Euripides''
+  ludicrous comedy is brought to life with marionettes that preserve the effect of
+  classical masks.
 
 '
 length: 50
 paypal-id: WJLTWK5NN2NBC
 gum-id: cyclops-staging
-upc: "980967519084"
-mpn: "BVL274618"
-isbn: "9781637225844"
+upc: '980967519084'
+mpn: BVL274618
+isbn: '9781637225844'
 ---
 
 Join us for a staging of the only complete Satyr play to survive antiquity. Translated by Peter D. Arnott into English from the original Greek, Euripides' ludicrous comedy is brought to life with marionettes which preserve the effect of classical masks.

@@ -12,13 +12,21 @@ tags:
 position: 7
 price: 100
 image: "/uploads/Oedipus%20Rex%20Staging%202021-10-25%20.png"
-sidetxt: 'This program is a staging of Peter Arnott''s translation of Sophocles'' masterpiece Oedipus Rex -- also known as Oedipus Tyrannus or simply Oedipus. Set in a time of plague, the hero who solved the riddle of the sphinx is now King of Thebes and is about to go on another riddle quest to uncover the source of his city''s pollution. Peter''s line-by-line translation complete with all the chorus odes gives the fullest exposure to this conundrum riddle of a play -- a masterpiece which has inspired thinkers, writers, and psychotherapists since. Peter''s translations benefit from years of live performances, which is why they are regarded so highly as the perfect blend of scholarship and fun.
+sidetxt: 'This program is a staging of Peter Arnott''s translation of Sophocles''
+  masterpiece Oedipus Rex -- also known as Oedipus Tyrannus or simply Oedipus. Set
+  in a time of plague, the hero who solved the riddle of the sphinx is now King of
+  Thebes and is about to go on another riddle quest to uncover the source of his city''s
+  pollution. Peter''s line-by-line translation complete with all the chorus odes gives
+  the fullest exposure to this conundrum riddle of a play -- a masterpiece which has
+  inspired thinkers, writers, and psychotherapists since. Peter''s translations benefit
+  from years of live performances, which is why they are regarded so highly as the
+  perfect blend of scholarship and fun.
 
 '
 gum-id: oedipus-rex
 length: 91
-mpn: "BVL274621"
-isbn: "9781637225875"
+mpn: BVL274621
+isbn: '9781637225875'
 ---
 
 Join us for a staging of Peter Arnott's translation of Sophocles' masterpiece Oedipus Rex -- aka Oedipus Tyrannus or simple Oedipus.  Set in a time of plague, the hero who solved the riddle of the sphinx is now King of Thebes and is about to go on another riddle quest to uncover the source of his city’s pollution.  

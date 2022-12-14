@@ -5,13 +5,16 @@ permalink: "/programs/the-oresteia/"
 position: 3
 price: 200
 image: "/assets/images/content/2014/04/3D-Oresteia-withRearLarge.jpg"
-sidetxt: 'In this production of the Oresteia trilogy, director James Thomas brings together a talented young cast and Peter Arnott''s faithful translation, to unleash the gruesome raw power of Aeschylus'' work. This beautifully-spoken original staging makes vivid the poetry and wisdom -- and the themes of terror, revenge, and justice.
+sidetxt: 'In this production of the Oresteia trilogy, director James Thomas brings
+  together a talented young cast and Peter Arnott''s faithful translation, to unleash
+  the gruesome raw power of Aeschylus'' work. This beautifully-spoken original staging
+  makes vivid the poetry and wisdom -- and the themes of terror, revenge, and justice.
 
 '
 length: 220
 paypal-id: T7SDH228HB5H2
 gum-id: oresteia-staging
-mpn: "BVL274622"
+mpn: BVL274622
 is_bundle: true
 ---
 

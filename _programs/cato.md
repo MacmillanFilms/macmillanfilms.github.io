@@ -25,11 +25,20 @@ tags:
 position: 2
 price: 100
 gum-id: ocdnb
-sidetxt: 'George Washington''s favorite play Cato, written by Joseph Addison in 1712, is about the last day of democracy in Rome, before Rome became an Empire. With epic heroes, scheming villains, sword duels, love triangles, and a pro-democracy message, it''s easy to see why Cato was the most popular play in America before the revolution. George Washington famously staged it at Valley Forge. Benjamin Franklin so admired the work, he practiced writing it down from memory. Staged with marionettes, this video features a production of the full five acts that inspired the heroes of the American Revolution. James Thomas, director of the play, stated "At a time when faction works to pull us apart, Cato is a reminder of our common democratic cause." Winner, Art Film Awards, 2022.
+sidetxt: 'George Washington''s favorite play Cato, written by Joseph Addison in 1712,
+  is about the last day of democracy in Rome, before Rome became an Empire. With epic
+  heroes, scheming villains, sword duels, love triangles, and a pro-democracy message,
+  it''s easy to see why Cato was the most popular play in America before the revolution.
+  George Washington famously staged it at Valley Forge. Benjamin Franklin so admired
+  the work, he practiced writing it down from memory. Staged with marionettes, this
+  video features a production of the full five acts that inspired the heroes of the
+  American Revolution. James Thomas, director of the play, stated "At a time when
+  faction works to pull us apart, Cato is a reminder of our common democratic cause."
+  Winner, Art Film Awards, 2022.
 
 '
-isbn: "9798886784527"
-mpn: "BVL282002"
+isbn: '9798886784527'
+mpn: BVL282002
 ---
 
 Individuals can view CATO on our streaming site:<script src="https://gumroad.com/js/gumroad.js"></script>

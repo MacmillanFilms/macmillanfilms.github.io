@@ -10,7 +10,7 @@ sidetxt: 'Available on DVD and in HD mp4 files
 '
 paypal-id: J8K5S3XHKYP9G
 gum-id: medea-staging
-upc: "642968135587"
+upc: '642968135587'
 ---
 
 Olivia Sutherland delivers an inspired performance as Medea in this complete staging of Euripides' masterpiece.  Experience the full complexity and poetic impact of the rarely-staged original Medea in Peter Arnott's powerful translation. The Olivia Sutherland Medea Includes the romantic scenes with Aegis, all the poetic choral odes and the triumphant ending.
