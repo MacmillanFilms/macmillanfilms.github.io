@@ -11,6 +11,7 @@
     </author>
     <id>google,{{ site.title | slugify }}</id>
     {%- for program in site.programs -%}
+    {%- if program.paypal-id -%}
     <entry>
         <title>{{ program.title }}</title>
         <id>{{ program.paypal-id }}</id>
@@ -26,5 +27,6 @@
         <g:gtin>{{ program.paypal-id }}</g:gtin>
         <g:identifier_exists>true</g:identifier_exists>
     </entry>
+    {%- endif -%}
     {%- endfor -%}
 </feed> 
