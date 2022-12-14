@@ -23,6 +23,8 @@
         <g:availability>in stock</g:availability>
         <g:brand>{{ site.author }}</g:brand>
         <g:mpn>{{ program.paypal-id }}</g:mpn>
+        <g:gtin>{{ program.paypal-id }}</g:gtin>
+        <g:identifier_exists>true</g:identifier_exists>
     </entry>
     {%- endfor -%}
 </feed> 
