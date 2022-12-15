@@ -17,14 +17,13 @@ tags:
 - Odysseus
 position: 11
 price: 100
-image: 
+image: "/assets/images/content/2014/04/3DCyclops.jpg"
 sidetxt: 'This is a staging of the only complete Satyr play to survive antiquity.
   Translated by Peter D. Arnott into English from the original Greek, Euripides''
   ludicrous comedy is brought to life with marionettes that preserve the effect of
   classical masks.
 
 '
-image: "/assets/images/content/2014/04/3DCyclops.jpg"
 length: 50
 paypal-id: WJLTWK5NN2NBC
 gum-id: cyclops-staging
