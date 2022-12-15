@@ -5,9 +5,6 @@ layout: default
 <article id="post" class="hentry">
 	<div hidden class="author vcard"><a class="fn">Macmillan Films</a></div>
 	<div hidden class="updated">{{ site.time }}</div>
-	<header class="entry-header">
-		<h1 class="entry-title">{{ page.title }}</h1>
-	</header><!-- .entry-header -->
 
 	<div class="entry-content">
 		{{ content }}
@@ -22,7 +19,7 @@ layout: default
 				<p>
 					The programs on this site are listed for the education market. If you are an individual looking to stream programming for home use, please click on the button below to visit the Macmillan Films consumer store.
 				</p>
-				<p align="center">
+				<p class="center">
 					{% include gum/gum-button.html %}
 				</p>
 			</aside>

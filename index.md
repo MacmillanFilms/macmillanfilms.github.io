@@ -16,11 +16,11 @@ And and we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms
 
 Enjoy the programing and call us if you have a suggestion for upcoming programming **call (917) 664-0507**, or send us an e-mail.
 
-# Educational Mission {#educational-mission}
+## Educational Mission {#educational-mission}
 
 MacMillan Films is dedicated to producing thoughtful educational programing that instructs and inspires. Our mission is to produce programs that showcases Democratic values and the benefits of a pluralist society. Many of our titles are Greek dramas and documentaries about philosophy and democracy. We produce a lot on ancient Greek culture and art because so much of modern thought stems from the "golden era" of 5th century Democratic Athens.
 
-# Easy Ways to Purchase {#store}
+## Easy Ways to Purchase {#store}
 
 ### Physical Product / DVD
 
@@ -37,6 +37,6 @@ For individual home viewers, all the programs can be streamed - most programs ar
 
 Thank you for your support, which is vital to our ability to produce thought-driven programming. Any questions please call (917) 664-0507.
 
-# Returns and Satisfaction Guarantee {#returns}
+## Returns and Satisfaction Guarantee {#returns}
 
 If you're looking to return or exchange your order for whatever reason, we're here to help! We offer free returns or exchanges within 45 days of receiving your order. You can return your product for store credit, a different product, or a refund to the original payment method. Just [email us](mailto:james@brandapplause.com), and we'll make it right. There are no restocking fees. Customer may be responsible for return shipping if product is not defective.
