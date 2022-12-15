@@ -37,6 +37,7 @@ sidetxt: 'George Washington''s favorite play Cato, written by Joseph Addison in 
   Winner, Art Film Awards, 2022.
 
 '
+image: "/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png"
 isbn: '9798886784527'
 mpn: BVL282002
 ---

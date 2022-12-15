@@ -24,6 +24,7 @@ sidetxt: 'This is a staging of the only complete Satyr play to survive antiquity
   classical masks.
 
 '
+image: "/assets/images/content/2014/04/3DCyclops.jpg"
 length: 50
 paypal-id: WJLTWK5NN2NBC
 gum-id: cyclops-staging

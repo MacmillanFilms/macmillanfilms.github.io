@@ -11,7 +11,7 @@ tags:
 - plague
 position: 7
 price: 100
-image: "/uploads/Oedipus%20Rex%20Staging%202021-10-25%20.png"
+image: "/uploads/Oedipus%20Rex%20Staging%20-%20Oedipus%20with%20Jacosta%20and%20Messenger%202022-09-29%20.jpg"
 sidetxt: 'This program is a staging of Peter Arnott''s translation of Sophocles''
   masterpiece Oedipus Rex -- also known as Oedipus Tyrannus or simply Oedipus. Set
   in a time of plague, the hero who solved the riddle of the sphinx is now King of
