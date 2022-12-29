@@ -42,9 +42,11 @@ compress_html:
 sass:
   style: compressed
 exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
-- FAQ.md
-- econ-ipsum*
-- 01projects.md
+    [
+        "vendor",
+        "README.md",
+        "Gemfile",
+        "Gemfile.lock",
+        "LICENSE",
+        "CNAME",
+    ]

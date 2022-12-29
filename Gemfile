@@ -1,6 +1,9 @@
 source 'http://rubygems.org'
 
-gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll-octicons'
-gem "webrick"
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem 'jekyll', '~> 4.3.1'
+
+group :jekyll_plugins do
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-octicons'
+  gem 'jekyll-sitemap'
+end
