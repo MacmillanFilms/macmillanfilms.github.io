@@ -39,4 +39,4 @@ Thank you for your support, which is vital to our ability to produce thought-dri
 
 ## Returns and Satisfaction Guarantee {#returns}
 
-If you're looking to return or exchange your order for whatever reason, we're here to help! We offer free returns or exchanges within 45 days of receiving your order. You can return your product for store credit, a different product, or a refund to the original payment method. Just [email us](mailto:james@brandapplause.com), and we'll make it right. There are no restocking fees. Customer may be responsible for return shipping if product is not defective.
+If you're looking to return or exchange your order for whatever reason, we're here to help! We offer free returns or exchanges within 45 days of receiving your order. You can return your product for store credit, a different product, or a refund to the original payment method. Just [email us](mailto:james@macmillanfilms.com), and we'll make it right. There are no restocking fees. Customer may be responsible for return shipping if product is not defective.
