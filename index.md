@@ -62,7 +62,7 @@ And we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms.com
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/lysistrata-feature-film/" class="gallery-item">
-    <img src="/uploads/Lysistrata-Thumbnail.jpg" alt="Lysistrata">
+    <img src="/uploads/![Screen Shot 2022-09-18 at 11.30.22 AM.jpg](/uploads/Screen%20Shot%202022-09-18%20at%2011.30.22%20AM.jpg).jpg" alt="Lysistrata">
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/oedipus-rex/" class="gallery-item">
@@ -92,5 +92,5 @@ And we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms.com
 
 ## Educational Mission {#educational-mission}
 
-MacMillan Films is dedicated to producing thoughtful educational programming that instructs and inspires. Our mission is to produce programs that showcase democratic values and the benefits of a pluralist society. Many of our titles are Greek dramas and documentaries about philosophy and democracy. We produce a lot on ancient Greek culture and art because so much of modern thought stems from the "golden era" of 5th century Democratic Athens.
+MacMillan Films is dedicated to producing thoughtful educational programming that instructs and inspires. Our mission is to produce programs that showcase democratic values and the benefits of a pluralist society. Many of our titles are Greek dramas and documentaries about philosophy and democracy. We produce a lot on ancient Greek culture and art because so much of modern thought stems from the "golden era" of 5th-century democratic Athens.
 
