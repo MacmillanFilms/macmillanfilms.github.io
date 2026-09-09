@@ -15,28 +15,50 @@ And we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms.com
 ![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)
 
 
+
 <style>
   .production-gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 15px;
+    gap: 20px;
     margin: 40px 0;
   }
+  
+  /* The link now acts as a column holding both the image and the text */
   .gallery-item {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none; /* Removes the default link underline from your text */
+    color: inherit; /* Inherits the font color of your website theme */
+  }
+
+  /* The wrapper keeps the 16:9 shape and the hover zoom effect */
+  .image-wrapper {
     position: relative;
     overflow: hidden;
     aspect-ratio: 16 / 9;
     border-radius: 4px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    margin-bottom: 10px; /* Adds a small space between the picture and the label */
   }
-  .gallery-item img {
+
+  .image-wrapper img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     transition: transform 0.4s ease;
   }
-  .gallery-item:hover img {
+
+  .gallery-item:hover .image-wrapper img {
     transform: scale(1.08);
+  }
+
+  /* The styling for the text label */
+  .gallery-label {
+    text-align: center;
+    font-weight: 600;
+    font-size: 0.95em;
+    line-height: 1.2;
   }
   
   /* Stacks neatly on mobile devices */
@@ -54,41 +76,72 @@ And we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms.com
 
 <div class="production-gallery">
   <a href="https://www.macmillanfilms.com/programs/the-oresteia/" class="gallery-item">
-    <img src="/uploads/1_AGAMEMNON_OnStageLiveTheater2026.jpg" alt="Agamemnon - The Oresteia">
+    <div class="image-wrapper">
+      <img src="/uploads/1_AGAMEMNON_OnStageLiveTheater2026.jpg" alt="Agamemnon">
+    </div>
+    <div class="gallery-label">The Oresteia: Agamemnon</div>
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/the-bacchae/" class="gallery-item">
-    <img src="/uploads/2_BacchaeStagingMiaasDionysos%20%E2%80%AFPM.jpg" alt="The Bacchae">
+    <div class="image-wrapper">
+      <img src="/uploads/2_BacchaeStagingMiaasDionysos%20%E2%80%AFPM.jpg" alt="The Bacchae">
+    </div>
+    <div class="gallery-label">The Bacchae</div>
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/lysistrata-feature-film/" class="gallery-item">
-    <img src="/uploads/3_LYSISTRATA_MOVIE_OnStageLiveTheater2026.jpg" alt="Lysistrata Movie">
+    <div class="image-wrapper">
+      <img src="/uploads/3_LYSISTRATA_MOVIE_OnStageLiveTheater2026.jpg" alt="Lysistrata Feature Film">
+    </div>
+    <div class="gallery-label">Lysistrata (Feature Film)</div>
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/oedipus-rex/" class="gallery-item">
-    <img src="/uploads/4_OEDIPUS_REX_OnStageLiveTheater20262.jpg" alt="Oedipus Rex">
+    <div class="image-wrapper">
+      <img src="/uploads/4_OEDIPUS_REX_OnStageLiveTheater20262.jpg" alt="Oedipus Rex">
+    </div>
+    <div class="gallery-label">Oedipus Rex</div>
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/prometheus-bound/" class="gallery-item">
-    <img src="/uploads/5_PROMETHIUS_BOUND_OnStageLiveTheater2026.jpg" alt="Prometheus Bound">
+    <div class="image-wrapper">
+      <img src="/uploads/5_PROMETHIUS_BOUND_OnStageLiveTheater2026.jpg" alt="Prometheus Bound">
+    </div>
+    <div class="gallery-label">Prometheus Bound</div>
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/true-drama/" class="gallery-item">
-    <img src="/uploads/6_True_Drama_FeatureFilm.jpg" alt="True Drama Feature Film">
+    <div class="image-wrapper">
+      <img src="/uploads/6_True_Drama_FeatureFilm.jpg" alt="True Drama">
+    </div>
+    <div class="gallery-label">True Drama (Feature Film)</div>
   </a>
 
- <a href="https://www.macmillanfilms.com/programs/cato" class="gallery-item">
-    <img src="/uploads/7_CATObyAddisonMarionetteJUBAandMARCIA.jpg" alt="Cato by Joseph Addison - Juba and Marcia">
+  <a href="https://www.macmillanfilms.com/programs/cato" class="gallery-item">
+    <div class="image-wrapper">
+      <img src="/uploads/7_CATObyAddisonMarionetteJUBAandMARCIA.jpg" alt="Cato by Joseph Addison">
+    </div>
+    <div class="gallery-label">Cato by Joseph Addison</div>
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/lysistrata-feature-film/" class="gallery-item">
-    <img src="/uploads/8_LYSISTRATAstaging_OnStageLiveTheater2026.jpg" alt="Lysistrata Live Staging">
+    <div class="image-wrapper">
+      <img src="/uploads/8_LYSISTRATAstaging_OnStageLiveTheater2026.jpg" alt="Lysistrata Live Staging">
+    </div>
+    <div class="gallery-label">Lysistrata (Live Staging)</div>
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/the-oresteia/" class="gallery-item">
-    <img src="/uploads/9_EUMENIDIES_OnStageLiveTheater2026.jpg" alt="Eumenides - The Oresteia">
+    <div class="image-wrapper">
+      <img src="/uploads/9_EUMENIDIES_OnStageLiveTheater2026.jpg" alt="The Eumenides">
+    </div>
+    <div class="gallery-label">The Oresteia: Eumenides</div>
   </a>
 </div>
+
+
+
+
 
 ## Educational Mission {#educational-mission}
 
