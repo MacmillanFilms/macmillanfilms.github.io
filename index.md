@@ -8,7 +8,6 @@ Macmillan Films is an independent studio that produces films about art, thought 
 
 ![GREEK DRAMA MacMillan Films Scene from the Oresteia - Eumenidies.png](/uploads/GREEK%20DRAMA%20MAcMillna%20Films%20Scene%20from%20the%20Oresteia%20-%20Eumenidies.png)
 
-We also produce thoughtful art films, including the award-winning feature [True Drama](//TrueDramaMovie.com), which contrasts Greek Drama violence with how violence is deployed in modern cinema.
 
 And we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms.com/programs/cato) - George Washington's favorite play tells the story of the last day of democracy in ancient Rome. As foundational research for The Forge—our feature script detailing Washington’s historic 1778 staging at Valley Forge—we produced the entire two-hour tragedy using marionettes.
 
@@ -140,6 +139,11 @@ And we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms.com
 </div>
 
 
+
+
+
+We also produce thoughtful art films, including the award-winning feature [True Drama](//TrueDramaMovie.com), which contrasts Greek Drama violence with how violence is deployed in modern cinema.
+![TRUE DRAMA POSTER3.jpg](/uploads/TRUE%20DRAMA%20POSTER3.jpg)
 
 
 
