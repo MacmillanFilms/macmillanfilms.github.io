@@ -13,6 +13,10 @@ And we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms.com
 
 ![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)
 
+![7_CATObyAddisonMarionette.jpg](/uploads/7_CATObyAddisonMarionette.jpg)
+
+
+
 
 
 <style>
