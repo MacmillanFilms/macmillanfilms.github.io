@@ -39,7 +39,7 @@ And we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms.com
     transform: scale(1.08);
   }
   
-  /* Makes it stack neatly on mobile phones */
+  /* Stacks neatly on mobile devices */
   @media (max-width: 768px) {
     .production-gallery {
       grid-template-columns: repeat(2, 1fr);
@@ -54,43 +54,43 @@ And we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms.com
 
 <div class="production-gallery">
   <a href="https://www.macmillanfilms.com/programs/the-oresteia/" class="gallery-item">
-    <img src="/uploads/Oresteia-Thumbnail.jpg" alt="The Oresteia">
+    <img src="/uploads/1_AGAMEMNON_OnStageLiveTheater2026.jpg" alt="Agamemnon - The Oresteia">
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/the-bacchae/" class="gallery-item">
-    <img src="/uploads/Bacchae-Thumbnail.jpg" alt="The Bacchae">
+    <img src="/uploads/2_BacchaeStagingMiaasDionysos%20%E2%80%AFPM.jpg" alt="The Bacchae">
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/lysistrata-feature-film/" class="gallery-item">
-    <img src="/uploads/![Screen Shot 2022-09-18 at 11.30.22 AM.jpg](/uploads/Screen%20Shot%202022-09-18%20at%2011.30.22%20AM.jpg).jpg" alt="Lysistrata">
+    <img src="/uploads/3_LYSISTRATA_MOVIE_OnStageLiveTheater2026.jpg" alt="Lysistrata Movie">
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/oedipus-rex/" class="gallery-item">
-    <img src="/uploads/Oedipus-Thumbnail.jpg" alt="Oedipus Rex">
+    <img src="/uploads/4_OEDIPUS_REX_OnStageLiveTheater20262.jpg" alt="Oedipus Rex">
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/prometheus-bound/" class="gallery-item">
-    <img src="/uploads/Prometheus-Thumbnail.jpg" alt="Prometheus Bound">
+    <img src="/uploads/5_PROMETHIUS_BOUND_OnStageLiveTheater2026.jpg" alt="Prometheus Bound">
   </a>
 
-  <a href="http://TrueDramaMovie.com" class="gallery-item">
-    <img src="/uploads/TrueDrama-Thumbnail.jpg" alt="True Drama">
+  <a href="https://www.macmillanfilms.com/programs/true-drama/" class="gallery-item">
+    <img src="/uploads/6_True_Drama_FeatureFilm.jpg" alt="True Drama Feature Film">
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/cato" class="gallery-item">
-    <img src="/uploads/Cato-Thumbnail.jpg" alt="Cato">
+    <img src="/uploads/7_CATObyAddisonMarionette.jpg" alt="Cato by Joseph Addison">
   </a>
 
-  <a href="#" class="gallery-item">
-    <img src="/uploads/Birds-Placeholder.jpg" alt="The Birds">
+  <a href="https://www.macmillanfilms.com/programs/lysistrata-feature-film/" class="gallery-item">
+    <img src="/uploads/8_LYSISTRATAstaging_OnStageLiveTheater2026.jpg" alt="Lysistrata Live Staging">
   </a>
 
-  <a href="#" class="gallery-item">
-    <img src="/uploads/Forge-Placeholder.jpg" alt="The Forge">
+  <a href="https://www.macmillanfilms.com/programs/the-oresteia/" class="gallery-item">
+    <img src="/uploads/9_EUMENIDIES_OnStageLiveTheater2026.jpg" alt="Eumenides - The Oresteia">
   </a>
 </div>
 
 ## Educational Mission {#educational-mission}
 
-MacMillan Films is dedicated to producing thoughtful educational programming that instructs and inspires. Our mission is to produce programs that showcase democratic values and the benefits of a pluralist society. Many of our titles are Greek dramas and documentaries about philosophy and democracy. We produce a lot on ancient Greek culture and art because so much of modern thought stems from the "golden era" of 5th-century democratic Athens.
+MacMillan Films produces thoughtful educational programming that instructs and inspires. Our mission is to produce programs that showcase democratic values and the benefits of a pluralist society. Many of our titles are Greek dramas and documentaries about philosophy and democracy. We produce a lot on ancient Greek culture and art because so much of modern thought stems from the "golden era" of 5th-century democratic Athens.
 
