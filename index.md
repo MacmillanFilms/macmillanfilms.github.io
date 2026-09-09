@@ -77,8 +77,8 @@ And we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms.com
     <img src="/uploads/6_True_Drama_FeatureFilm.jpg" alt="True Drama Feature Film">
   </a>
 
-  <a href="https://www.macmillanfilms.com/programs/cato" class="gallery-item">
-    <img src="/uploads/7_CATObyAddisonMarionette.jpg" alt="Cato by Joseph Addison">
+ <a href="https://www.macmillanfilms.com/programs/cato" class="gallery-item">
+    <img src="/uploads/7_CATObyAddisonMarionetteJUBAandMARCIA.jpg" alt="Cato by Joseph Addison - Juba and Marcia">
   </a>
 
   <a href="https://www.macmillanfilms.com/programs/lysistrata-feature-film/" class="gallery-item">
