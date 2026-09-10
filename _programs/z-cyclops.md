@@ -16,7 +16,6 @@ tags:
 - commedy
 - Odysseus
 position: 11
-price: 100
 image: "/assets/images/content/2014/04/3DCyclops.jpg"
 sidetxt: 'This is a staging of the only complete Satyr play to survive antiquity.
   Translated by Peter D. Arnott into English from the original Greek, Euripides''
@@ -27,9 +26,9 @@ sidetxt: 'This is a staging of the only complete Satyr play to survive antiquity
 length: 50
 paypal-id: WJLTWK5NN2NBC
 gum-id: cyclops-staging
-upc: '980967519084'
+upc: 980967519084
 mpn: BVL274618
-isbn: '9781637225844'
+isbn: 9781637225844
 ---
 
 Join us for a staging of the only complete Satyr play to survive antiquity. Translated by Peter D. Arnott into English from the original Greek, Euripides' ludicrous comedy is brought to life with marionettes which preserve the effect of classical masks.
