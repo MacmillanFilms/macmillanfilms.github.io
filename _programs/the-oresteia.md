@@ -3,7 +3,6 @@ title: The Oresteia Trilogy
 date: 2014-04-25 16:06:00 -04:00
 permalink: "/programs/the-oresteia/"
 position: 3
-price: 200
 image: "/assets/images/content/2014/04/3D-Oresteia-withRearLarge.jpg"
 sidetxt: 'In this production of the Oresteia trilogy, director James Thomas brings
   together a talented young cast and Peter Arnott''s faithful translation, to unleash
