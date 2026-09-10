@@ -23,7 +23,6 @@ tags:
 - Ceasar
 - Utica
 position: 2
-price: 100
 gum-id: ocdnb
 sidetxt: 'George Washington''s favorite play Cato, written by Joseph Addison in 1712,
   is about the last day of democracy in Rome, before Rome became an Empire. With epic
@@ -38,7 +37,7 @@ sidetxt: 'George Washington''s favorite play Cato, written by Joseph Addison in 
 
 '
 image: "/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png"
-isbn: '9798886784527'
+isbn: 9798886784527
 mpn: BVL282002
 ---
 
