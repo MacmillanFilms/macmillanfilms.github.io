@@ -1,9 +1,8 @@
 ---
 title: The Bacchae
-date: 2013-08-20 18:53:23 -04:00
+date: 2013-08-20 18:53:00 -04:00
 permalink: "/programs/the-bacchae/"
 position: 1
-price: 100
 image: "/assets/images/content/3DBacchaewithRearSm.jpg"
 sidetxt: 'This beautifully staged production of Euripides 406 BC masterpiece is based
   on Peter Arnott''s audience-friendly translation. The story follows Dionysos (played
@@ -16,7 +15,7 @@ sidetxt: 'This beautifully staged production of Euripides 406 BC masterpiece is 
 paypal-id: RPZ3YM8NLE9SU
 gum-id: bacchae-staging
 length: 100
-isbn: '9781637225813'
+isbn: 9781637225813
 mpn: BVL274615
 ---
 
