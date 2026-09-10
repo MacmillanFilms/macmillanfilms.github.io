@@ -3,7 +3,6 @@ title: Lysistrata Staging
 date: 2013-08-20 16:43:00 -04:00
 permalink: "/programs/lysistrata-staging/"
 position: 0
-price: 100
 image: "/assets/images/content/2013/08/LYSISTRATAcompSM.jpg"
 sidetxt: 'This is the popular complete 2006 staging of Aristophanes'' shocking comic
   masterpiece that was excerpted in the PBS documentary with Jane Fonda -- Lysistrata:
@@ -15,7 +14,7 @@ sidetxt: 'This is the popular complete 2006 staging of Aristophanes'' shocking c
 paypal-id: R5HDRKDH7TNH8
 gum-id: lysistrata-staging
 length: 90
-isbn: '9781637225783'
+isbn: 9781637225783
 mpn: BVL274612
 ---
 
