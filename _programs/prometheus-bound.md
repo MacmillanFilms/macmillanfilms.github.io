@@ -1,9 +1,8 @@
 ---
 title: Prometheus Bound
-date: 2015-04-18 20:29:35 -04:00
+date: 2015-04-18 20:29:00 -04:00
 permalink: "/programs/prometheus-bound/"
 position: 9
-price: 100
 image: "/assets/images/content/2015/04/Prometheus-Bound-Staging-DVD.jpg"
 sidetxt: 'A talented cast brings this Greek masterpiece to the stage with song, dance,
   and an innovative set that allows the immortal story about resisting tyranny to
@@ -17,8 +16,8 @@ sidetxt: 'A talented cast brings this Greek masterpiece to the stage with song, 
 paypal-id: E2QDGNU8P6LG6
 gum-id: prometheus-bound-staging
 length: 69
-upc: '642968135556'
-isbn: '9781637225851'
+upc: 642968135556
+isbn: 9781637225851
 mpn: BVL274619
 ---
 
