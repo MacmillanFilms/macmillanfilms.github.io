@@ -14,7 +14,6 @@ tags:
 - peace
 - equality
 position: 8
-price: 100
 image: "/assets/images/content/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE.jpg"
 sidetxt: 'This is the feature film of Lysistrata, Aristophanes'' shocking comic masterpiece,
   that won Remi Gold at the Houston International Film Festival. The production features
@@ -28,7 +27,7 @@ sidetxt: 'This is the feature film of Lysistrata, Aristophanes'' shocking comic 
 paypal-id: ZE34FNZFYQ88C
 gum-id: lysistrata-film
 length: 83
-isbn: '9781637225820'
+isbn: 9781637225820
 mpn: BVL274616
 ---
 
