@@ -10,7 +10,6 @@ tags:
 - riddle
 - plague
 position: 7
-price: 100
 image: "/uploads/Oedipus%20Rex%20Staging%20-%20Oedipus%20with%20Jacosta%20and%20Messenger%202022-09-29%20.jpg"
 sidetxt: 'This program is a staging of Peter Arnott''s translation of Sophocles''
   masterpiece Oedipus Rex -- also known as Oedipus Tyrannus or simply Oedipus. Set
@@ -26,7 +25,7 @@ sidetxt: 'This program is a staging of Peter Arnott''s translation of Sophocles'
 gum-id: oedipus-rex
 length: 91
 mpn: BVL274621
-isbn: '9781637225875'
+isbn: 9781637225875
 ---
 
 Join us for a staging of Peter Arnott's translation of Sophocles' masterpiece Oedipus Rex -- aka Oedipus Tyrannus or simple Oedipus.  Set in a time of plague, the hero who solved the riddle of the sphinx is now King of Thebes and is about to go on another riddle quest to uncover the source of his city’s pollution.  
