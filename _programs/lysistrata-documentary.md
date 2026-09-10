@@ -1,5 +1,5 @@
 ---
-title: Lysistrata Documentary
+title: 'Lysistrata Documentary: Female Power & Democracy'
 date: 2013-08-20 15:11:00 -04:00
 permalink: "/programs/lysistrata-documentary/"
 position: 5
@@ -18,7 +18,7 @@ sidetxt: 'This PBS documentary about ancient archetypes reveals much about the f
 paypal-id: YST9ERU2LTCQE
 gum-id: lysistrata-documentary
 length: 58
-isbn: '9781637225790'
+isbn: 9781637225790
 mpn: BVL274613
 ---
 
