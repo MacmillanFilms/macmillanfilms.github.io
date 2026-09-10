@@ -15,7 +15,7 @@ permalink: /screening-room/
   Industry Professionals: For private screeners, development slates, or pitch materials, please <a href="/contact" style="color: #222; text-decoration: underline;">contact our development team</a>.
 </p>
 
-<!-- The Gumroad Overlay Script: This makes the videos play directly on your site -->
+<!-- The Gumroad Overlay Script -->
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
 <style>
@@ -53,7 +53,6 @@ permalink: /screening-room/
     color: #222;
   }
   
-  /* Styling the Gumroad links to look like studio buttons */
   .gumroad-button {
     display: inline-block;
     background-color: #111; 
@@ -72,7 +71,6 @@ permalink: /screening-room/
     background-color: #555;
   }
 
-  /* Responsive Stacking for Mobile */
   @media (max-width: 768px) {
     .screening-grid {
       grid-template-columns: repeat(2, 1fr);
@@ -89,7 +87,7 @@ permalink: /screening-room/
   <!-- 1. True Drama -->
   <div class="screening-item">
     <img src="/uploads/6_True_Drama_FeatureFilm.jpg" alt="True Drama">
-    <div class="screening-title">True Drama (Feature Film)</div>
+    <div class="screening-title">True Drama</div>
     <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/ihdhf">VIEW ON DEMAND</a>
   </div>
 
@@ -126,5 +124,75 @@ permalink: /screening-room/
     <img src="/uploads/4_OEDIPUS_REX_OnStageLiveTheater20262.jpg" alt="Oedipus Rex">
     <div class="screening-title">Oedipus Rex</div>
     <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/fwwaz">VIEW ON DEMAND</a>
+  </div>
+
+  <!-- 7. Oedipus at Colonus -->
+  <div class="screening-item">
+    <img src="/uploads/4_OEDIPUS_REX_OnStageLiveTheater20262.jpg" alt="Oedipus at Colonus">
+    <div class="screening-title">Oedipus at Colonus</div>
+    <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/adldsj">VIEW ON DEMAND</a>
+  </div>
+
+  <!-- 8. Oresteia Part 1: Agamemnon -->
+  <div class="screening-item">
+    <img src="/uploads/1_AGAMEMNON_OnStageLiveTheater2026.jpg" alt="Oresteia Part 1: Agamemnon">
+    <div class="screening-title">Oresteia: Agamemnon</div>
+    <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/LAqyt">VIEW ON DEMAND</a>
+  </div>
+
+  <!-- 9. Oresteia Part 2: Libation Bearers -->
+  <div class="screening-item">
+    <img src="/uploads/LIBATION_BEARERS_OnStageLiveTheater20262.jpg" alt="Oresteia Part 2: Libation Bearers">
+    <div class="screening-title">Oresteia: Libation Bearers</div>
+    <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/XTBSL">VIEW ON DEMAND</a>
+  </div>
+
+  <!-- 10. Oresteia Part 3: Eumenides -->
+  <div class="screening-item">
+    <img src="/uploads/EUMENIDIES_OnStageLiveTheater2026.jpg" alt="Oresteia Part 3: Eumenides">
+    <div class="screening-title">Oresteia: Eumenides</div>
+    <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/lSclm">VIEW ON DEMAND</a>
+  </div>
+
+  <!-- 11. Cyclops -->
+  <div class="screening-item">
+    <img src="/uploads/Cyclops%202022-09-18%20at%205.14.57%20PM-4fd92a.jpg" alt="Cyclops">
+    <div class="screening-title">Cyclops</div>
+    <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/cyclops-staging">VIEW ON DEMAND</a>
+  </div>
+
+  <!-- 12. Antigone -->
+  <div class="screening-item">
+    <img src="/uploads/ANTIGONE_OnStageLiveTheater2026.jpg" alt="Antigone">
+    <div class="screening-title">Antigone</div>
+    <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/antigone-staging">VIEW ON DEMAND</a>
+  </div>
+
+  <!-- 13. Western Philosophy -->
+  <div class="screening-item">
+    <img src="/uploads/JamesThomasInterviewerforWisomforLifePBSDoconPhilosophyAthens.png" alt="Western Philosophy">
+    <div class="screening-title">Western Philosophy</div>
+    <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/philosophy-documentary">VIEW ON DEMAND</a>
+  </div>
+
+  <!-- 14. Lysistrata: Female Power & Democracy -->
+  <div class="screening-item">
+    <img src="/uploads/Screen%20Shot%202022-09-18%20at%2011.37.57%20AM.jpg" alt="Lysistrata : Female Power & Democracy">
+    <div class="screening-title">Lysistrata: Documentary</div>
+    <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/lysistrata-documentary">VIEW ON DEMAND</a>
+  </div>
+
+  <!-- 15. Medea -->
+  <div class="screening-item">
+    <img src="/uploads/MedeainSunGodChariot.jpg" alt="Medea">
+    <div class="screening-title">Medea</div>
+    <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/medea-staging">VIEW ON DEMAND</a>
+  </div>
+
+  <!-- 16. Lysistrata Staging -->
+  <div class="screening-item">
+    <img src="/uploads/LysistrataStaging.jpg" alt="Lysistrata Staging">
+    <div class="screening-title">Lysistrata (Staging)</div>
+    <a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/lysistrata-staging">VIEW ON DEMAND</a>
   </div>
 </div>
