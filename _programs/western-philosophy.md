@@ -1,9 +1,8 @@
 ---
 title: 'Wisdom for Life: A Guide to Western Philosophy'
-date: 2013-08-20 16:58:44 -04:00
+date: 2013-08-20 16:58:00 -04:00
 permalink: "/programs/western-philosophy/"
 position: 6
-price: 100
 image: "/assets/images/content/3DWisdomwithRearSm.jpg"
 sidetxt: 'This PBS documentary on Western Philosophy was produced in response to the
   9/11 terror attacks. It makes the case for the West and in particular the West''s
@@ -20,7 +19,7 @@ paypal-id: Q7MY7TTCQK7YG
 gum-id: philosophy-documentary
 length: 57
 mpn: BVL274614
-isbn: '9781637225806'
+isbn: 9781637225806
 ---
 
 ![Western Philosophy DVD - an intorduction]({{ site.baseurl }}/assets/images/content/3DWisdomwithRearSm.jpg)
