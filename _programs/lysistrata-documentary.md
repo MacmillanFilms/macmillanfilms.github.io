@@ -3,7 +3,6 @@ title: 'Lysistrata Documentary: Female Power & Democracy'
 date: 2013-08-20 15:11:00 -04:00
 permalink: "/programs/lysistrata-documentary/"
 position: 5
-price: 100
 image: "/assets/images/content/3DLysistrataDocwithRearSm.jpg"
 sidetxt: 'This PBS documentary about ancient archetypes reveals much about the forces
   that hold women back and which undermined Hillary Clinton''s campaigns. Themed around
