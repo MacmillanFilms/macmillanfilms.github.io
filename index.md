@@ -9,7 +9,8 @@ Macmillan Films is an independent studio that produces films about art, thought 
 ![GREEK DRAMA MacMillan Films Scene from the Oresteia - Eumenidies.png](/uploads/GREEK%20DRAMA%20MAcMillna%20Films%20Scene%20from%20the%20Oresteia%20-%20Eumenidies.png)
 
 
-And we have just staged  [Cato by Joseph Addison](https://www.macmillanfilms.com/programs/cato) - George Washington's favorite play tells the story of the last day of democracy in ancient Rome. As foundational research for The Forge—our feature script detailing Washington’s historic 1778 staging at Valley Forge—we produced the entire two-hour tragedy using marionettes.
+
+Our latest production is [Cato by Joseph Addison](https://www.macmillanfilms.com/programs/cato). Known as George Washington's favorite play, it chronicles the last days of democracy in ancient Rome. Addison’s masterful blank verse and themes of civic virtue made the tragedy a touchstone for the Founding Fathers. Far from a dry history lesson, the narrative is highly dynamic—propelled by two complex love triangles, a high-stakes abduction, and an unforgettable tragic conclusion. We staged this epic as both a standalone production and immersive research for The Forge—our feature script detailing Washington’s historic 1778 staging of Cato at Valley Forge.
 
 ![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)
 
