@@ -4,15 +4,10 @@ date: 2013-08-20 16:58:00 -04:00
 permalink: "/programs/western-philosophy/"
 position: 6
 image: "/assets/images/content/3DWisdomwithRearSm.jpg"
-sidetxt: 'This PBS documentary on Western Philosophy was produced in response to the
-  9/11 terror attacks. It makes the case for the West and in particular the West''s
-  pluralistic approach to reasoning and morality. Interviews with nine clear thinkers
-  give an introduction to Western Philosophy. It introduces the concepts of building
-  up a moral system, the golden rule, the basics of logic (premise and inference),
-  and pluralism.  The program looks at the ideas of Plato, Aristotle, Otto Neurath,
-  Kierkegaard, Wittgenstein, and John Rawls. Interviewed are Akeel Bilgrami, Taylor
-  Carman, Arthur Danto, Virginia Held, Diana Meyers, Susan Neiman, Bernard Reginster,
-  Richard Rorty & Achille Varzi. Originally produced in 2005 and remastered in 2017.
+sidetxt: 'The program looks at the ideas of Plato, Aristotle, Otto Neurath, Kierkegaard,
+  Wittgenstein, and John Rawls. Interviewees include Akeel Bilgrami, Taylor Carman,
+  Arthur Danto, Virginia Held, Diana Meyers, Susan Neiman, Bernard Reginster, Richard
+  Rorty & Achille Varzi. Originally produced in 2005 and remastered in 2017.
 
 '
 paypal-id: Q7MY7TTCQK7YG
