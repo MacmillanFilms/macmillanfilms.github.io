@@ -1,5 +1,8 @@
-- title: "Educational Mission"
-  url: "/#educational-mission"
+- title: "SCREENING ROOM"
+  url: "/screenings.html"
 
-- title: "Buying Options"
-  url: "/#store"
+- title: "IN DEVELOPMENT"
+  url: "/development.html"
+
+- title: "EDUCATIONAL MISSION"
+  url: "/mission.html"
