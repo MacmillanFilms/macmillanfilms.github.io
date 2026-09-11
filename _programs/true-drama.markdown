@@ -32,7 +32,4 @@ isbn: 9798886784091
 
 Winner of more than 20 film festival laurels, True Drama is celebrated for reminding us of the instructive roots of drama -- and how violence in drama can be used to shock citizens out of partisan blindness or to encourage nihilistic slaughter. The Festival Director of the Washington DC Film Festival said of True Drama, "We're proud to bring attention to a film that could reduce the cycle of mass killings in America."
 
-<script src="https://gumroad.com/js/gumroad.js"></script>\
-<a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/ihdhf">For individuals you can Stream now in HD</a>
-
 ![True Drama Production5.jpg](/uploads/True%20Drama%20Production5.jpg)
