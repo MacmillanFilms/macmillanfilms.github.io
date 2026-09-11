@@ -7,10 +7,10 @@ tags:
 - greek drama
 - rationality
 - deliborative
-sidetxt: "How would the ancient Greeks view the use of violence in movies today? \n\nWINNER
-  – Best Feature Film, California Oaks Film Festival\nWINNER – Best Feature Film,
-  French Independent Film Festival\nWINNER – Best Independent Film, Rome Movie Awards\nWINNER
-  – Best Director, Austrian International Film Festival"
+sidetxt: "How would the ancient Greeks view the use of violence in movies today? \nBest
+  Feature Film (California Oaks Film Festival) | Best Feature Film (French Independent
+  Film Festival) | Best Independent Film (Rome Movie Awards) | Best Director (Austrian
+  International Film Festival)"
 length: 122
 mpn: BVL282003
 isbn: 9798886784091
