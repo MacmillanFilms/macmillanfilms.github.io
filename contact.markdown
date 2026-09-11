@@ -85,6 +85,25 @@ permalink: /contact/
   .submit-btn:hover {
     background-color: #ccc;
   }
+  
+  /* Formspree Success/Error Styling */
+  .success-msg {
+    background-color: #1a1a1a;
+    border: 1px solid #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 3px;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  
+  .error-text {
+    color: #ff6b6b;
+    font-size: 0.85em;
+    display: block;
+    margin-top: 5px;
+  }
 </style>
 
 <div class="contact-container">
@@ -98,29 +117,47 @@ permalink: /contact/
     </p>
   </div>
 
-  <!-- Replace the ACTION URL below once you have your Formspree link -->
-  <form action="https://formspree.io/f/YOUR_FORM_ID_HERE" method="POST">
+  <!-- Formspree Vanilla JS Form Integration -->
+  <form id="studio-contact-form">
     
     <div class="form-group">
       <label for="name">Name</label>
-      <input type="text" id="name" name="name" required>
+      <input type="text" id="name" name="name" data-fs-field required>
     </div>
 
     <div class="form-group">
       <label for="company">Company / Agency</label>
-      <input type="text" id="company" name="company">
+      <input type="text" id="company" name="company" data-fs-field>
     </div>
 
     <div class="form-group">
       <label for="email">Email Address</label>
-      <input type="email" id="email" name="_replyto" required>
+      <input type="email" id="email" name="email" data-fs-field required>
+      <span data-fs-error="email" class="error-text"></span>
     </div>
 
     <div class="form-group">
       <label for="message">Message</label>
-      <textarea id="message" name="message" rows="5" required></textarea>
+      <textarea id="message" name="message" rows="5" data-fs-field required></textarea>
+      <span data-fs-error="message" class="error-text"></span>
     </div>
 
-    <button type="submit" class="submit-btn">SEND MESSAGE</button>
+    <button type="submit" class="submit-btn" data-fs-submit-btn>SEND MESSAGE</button>
   </form>
+  
+  <!-- Success Message (Hidden by default) -->
+  <div data-fs-success class="success-msg" style="display: none;">
+    Thank you. Your message has been sent to our development team.
+  </div>
+  
+  <!-- Form-level Error Message (Hidden by default) -->
+  <div data-fs-error style="display: none; color: #ff6b6b; text-align: center; margin-top: 15px;"></div>
+
 </div>
+
+<!-- Formspree AJAX Scripts -->
+<script>
+  window.formspree = window.formspree || function () { (formspree.q = formspree.q || []).push(arguments); };
+  formspree('initForm', { formElement: '#studio-contact-form', formId: 'mdeojyvg' });
+</script>
+<script src="https://unpkg.com/@formspree/ajax@1" defer></script>
