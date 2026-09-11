@@ -152,7 +152,7 @@ We also produce thoughtful art films, including the award-winning feature [True 
 
 
 
-## Educational Mission {#educational-mission}
+Educational Mission
 
 MacMillan Films produces thoughtful educational programming that instructs and inspires. Our mission is to produce programs that showcase democratic values and the benefits of a pluralist society. 
 
