@@ -5,11 +5,7 @@ date: 2026-09-10 14:32:00 -04:00
 
 new page for screening
 
----
-layout: page
-title: SCREENING ROOM
-permalink: /screening-room/
----
+
 
 <p style="text-align: center; font-style: italic; margin-bottom: 50px; color: #555; font-size: 1.1em;">
   Industry Professionals: For private screeners, development slates, or pitch materials, please <a href="/contact" style="color: #222; text-decoration: underline;">contact our development team</a>.
