@@ -1,5 +1,5 @@
 ---
-title: Home
+title: HOME
 date: 2020-10-02 10:15:00 -04:00
 layout: page
 ---
