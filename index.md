@@ -154,5 +154,5 @@ We also produce thoughtful art films, including the award-winning feature [True 
 
 ## Educational Mission {#educational-mission}
 
-MacMillan Films produces thoughtful educational programming that instructs and inspires. Our mission is to produce programs that showcase democratic values and the benefits of a pluralist society. Many of our titles are Greek dramas and documentaries about philosophy and democracy. We produce a lot on ancient Greek culture and art because so much of modern thought stems from the "golden era" of 5th-century democratic Athens.
+MacMillan Films produces thoughtful educational programming that instructs and inspires. Our mission is to produce programs that showcase democratic values and the benefits of a pluralist society. 
 
