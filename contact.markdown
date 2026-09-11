@@ -103,11 +103,15 @@ body {
 
 <div class="contact-container">
   <div class="contact-info">
-    <h3 style="margin-top: 0;">Development & Inquiries</h3>
-    <p style="color: #999; line-height: 1.6;">
-      For private screeners, script requests, or to discuss projects in development, please reach out to our team below.
+    <h3 style="margin-top: 0;">Licensing, Development & Inquiries</h3>
+    <p style="color: #999; line-height: 1.6; margin-bottom: 15px;">
+      Our catalog is tailored for both the academic market and the entertainment industry. 
+      Whether you are a university librarian or professor requiring an institutional streaming license or expedited DVD, or an industry professional requesting private screeners and development slates, our team is here to assist.
     </p>
-    <p style="color: #fff; font-weight: bold; margin-top: 20px;">
+    <p style="color: #bbb; line-height: 1.6; font-size: 0.9em; font-style: italic;">
+      Note: We gladly accommodate purchase orders and custom invoices for educational institutions.
+    </p>
+    <p style="color: #fff; font-weight: bold; margin-top: 25px;">
       Direct: (917) 664-0507
     </p>
   </div>
