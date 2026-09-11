@@ -113,7 +113,7 @@ Direct: (917) 664-0507
 </div>
 
 <!-- Formspree Vanilla JS Form Integration -->
-<form id="studio-contact-form">
+<form id="studio-contact-form" action="[https://formspree.io/f/mdeojyvg](https://formspree.io/f/mdeojyvg)" method="POST">
 
     <div class="form-group">
       <label for="name">Name</label>
@@ -157,3 +157,6 @@ window.formspree = window.formspree || function () { (formspree.q = formspree.q 
 formspree('initForm', { formElement: '#studio-contact-form', formId: 'mdeojyvg' });
 </script>
 <script src="https://unpkg.com/@formspree/ajax@1" defer></script>
+
+
+
