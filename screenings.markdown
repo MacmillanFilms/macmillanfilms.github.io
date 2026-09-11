@@ -3,18 +3,24 @@ title: SCREENINGS
 date: 2026-09-10 14:32:00 -04:00
 ---
 
-new page for screening
+---
+layout: page
+title: SCREENING ROOM
+permalink: /screening-room/
+---
 
-
-
-<p style="text-align: center; font-style: italic; margin-bottom: 50px; color: #555; font-size: 1.1em;">
-  Industry Professionals: For private screeners, development slates, or pitch materials, please <a href="/contact" style="color: #222; text-decoration: underline;">contact our development team</a>.
-</p>
-
-<!-- The Gumroad Overlay Script -->
-<script src="https://gumroad.com/js/gumroad.js"></script>
-
+<!-- Dark Mode Override for this page -->
 <style>
+  body {
+    background-color: #050505 !important;
+    color: #f1f1f1 !important;
+  }
+  
+  /* Ensuring the main page title (if your theme displays one) is white */
+  .entry-title, .page-title {
+    color: #fff !important;
+  }
+
   .screening-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -26,11 +32,11 @@ new page for screening
     display: flex;
     flex-direction: column;
     text-align: center;
-    background: #fbfbfb;
-    border: 1px solid #eaeaea;
+    background: #111; /* Dark grey cards */
+    border: 1px solid #222; /* Subtle dark border */
     border-radius: 4px;
     overflow: hidden;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.5);
     padding-bottom: 20px;
   }
   
@@ -46,13 +52,13 @@ new page for screening
     font-size: 1.05em;
     margin-bottom: 15px;
     padding: 0 10px;
-    color: #222;
+    color: #fff; /* White text for titles */
   }
   
   .gumroad-button {
     display: inline-block;
-    background-color: #111; 
-    color: #fff !important;
+    background-color: #fff; /* White button */
+    color: #000 !important; /* Black text */
     text-decoration: none;
     padding: 10px 24px;
     border-radius: 3px;
@@ -64,7 +70,7 @@ new page for screening
   }
   
   .gumroad-button:hover {
-    background-color: #555;
+    background-color: #ccc;
   }
 
   @media (max-width: 768px) {
@@ -78,6 +84,13 @@ new page for screening
     }
   }
 </style>
+
+<p style="text-align: center; font-style: italic; margin-bottom: 50px; color: #999; font-size: 1.1em;">
+  Industry Professionals: For private screeners, development slates, or pitch materials, please <a href="/contact" style="color: #fff; text-decoration: underline;">contact our development team</a>.
+</p>
+
+<!-- The Gumroad Overlay Script -->
+<script src="https://gumroad.com/js/gumroad.js"></script>
 
 <div class="screening-grid">
   <!-- 1. True Drama -->
