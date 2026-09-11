@@ -153,10 +153,8 @@ Thank you. Your message has been sent to our development team.
 
 <!-- Formspree AJAX Scripts -->
 <script>
-window.formspree = window.formspree || function () { (formspree.q = formspree.q || \[\]).push(arguments); };
-formspree('initForm', { formElement: '#studio-contact-form', formId: 'mdeojyvg' });
+  window.formspree = window.formspree || function () { (formspree.q = formspree.q || []).push(arguments); };
+  formspree('initForm', { formElement: '#studio-contact-form', formId: 'mdeojyvg' });
 </script>
 <script src="https://unpkg.com/@formspree/ajax@1" defer></script>
-
-
 
