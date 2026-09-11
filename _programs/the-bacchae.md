@@ -12,7 +12,7 @@ sidetxt: 'This beautifully staged production of Euripides 406 BC masterpiece is 
   Originally produced in 2017 and remastered in 2020.
 
 '
-paypal-id: RPZ3YM8NLE9SU
+paypal-id: 
 gum-id: bacchae-staging
 length: 100
 isbn: 9781637225813
