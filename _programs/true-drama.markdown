@@ -22,6 +22,8 @@ isbn: 9798886784091
  
 ![TRUE DRAMA POSTER3.jpg](/uploads/TRUE%20DRAMA%20POSTER3.jpg)
 
-Winner of more than 20 film festival laurels, True Drama is celebrated for reminding us of the instructive roots of drama -- and how violence in drama can be used to shock citizens out of partisan blindness or to encourage nihilistic slaughter. The Festival Director of the Washington DC Film Festival said of True Drama, "We're proud to bring attention to a film that could reduce the cycle of mass killings in America."
+An acclaimed standout on the independent circuit, *True Drama* has garnered over 20 film festival laurels worldwide. Celebrated for its bold, unflinching social commentary, the film transforms a philosophical premise into a gripping cinematic experience. Praising its cultural urgency, the Festival Director of the Washington DC Film Festival stated: "We're proud to bring attention to a film that could reduce the cycle of mass killings in America."
+
+Explore the film's official site for trailers, press kits, and screening details at [www.TrueDramaMovie.com](http://www.TrueDramaMovie.com).
 
 ![True Drama Production5.jpg](/uploads/True%20Drama%20Production5.jpg)
