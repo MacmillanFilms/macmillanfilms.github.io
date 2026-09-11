@@ -12,7 +12,7 @@ gum-id: medea-staging
 upc: 642968135587
 ---
 
-Olivia Sutherland delivers an inspired performance as Medea in this complete staging of Euripides' masterpiece.  Experience the full complexity and poetic impact of the rarely staged original Medea in Peter Arnott's powerful translation. The Olivia Sutherland Medea includes the romantic scenes with Aegis, all the poetic choral odes, and the triumphant ending.
+Experience the full complexity of Euripides' masterpiece in Peter Arnott’s acclaimed translation. Anchored by Olivia Sutherland’s riveting performance, this unabridged staging honors the rarely seen scope of the ancient text. By restoring the vital scenes with King Aegeus, the complete poetic choral odes, and the original triumphant ending, this production offers a definitive look at Greek drama as it was originally written.
 
 ![Medea Box](/assets/images/content/3DMedeaFrontandBackcropped.jpg)
 ![Medea on Chariot](/assets/images/content/Medea_Staging_MacMillan_Films_Staring_Olivia_Sutherland.jpg)
