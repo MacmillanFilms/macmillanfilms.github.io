@@ -15,15 +15,17 @@ tags:
 - equality
 position: 8
 image: "/assets/images/content/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE.jpg"
-sidetxt: 'This is the feature film of Lysistrata, Aristophanes'' shocking comic masterpiece,
-  that won Remi Gold at the Houston International Film Festival. The production features
-  Candace Janee as Lysistrata, Heather Gault as Stratyllis, Morgan Marcum as Myrine,
-  and Tanya Rodina (Miss Ukraine) as the Goddess Peace. This production has the benefit
-  of setting the comic scenes in the ancient Greek locations that are hinted at in
-  the drama but which are hard for modern audiences to imagine, such as using the
-  interior of the Parthenon for the scenes where Lysistrata outwits the Official.
+sidetxt: |2+
 
-'
+  **Available for Institutional Licensing (DVD & HD Digital)**
+
+  An award-winning feature film adaptation of Aristophanes’ timeless comedy. The production features dynamic performances by Candace Janee as Lysistrata, Heather Gault as Stratyllis, Morgan Marcum as Myrine, and Tanya Rodina (Miss Ukraine) as the Goddess Peace.
+
+  **WINNER** – Gold Award, Houston International Film Festival
+  **WINNER** – Hollywood Gold Awards
+  **WINNER** – 8 & Halfilm Awards
+
+
 paypal-id: ZE34FNZFYQ88C
 gum-id: lysistrata-film
 length: 83
@@ -31,11 +33,13 @@ isbn: 9781637225820
 mpn: BVL274616
 ---
 
-Individuals can view Lysistrata on our streaming site:<script src="https://gumroad.com/js/gumroad.js"></script>\
-<a class="gumroad-button" href="https://macmillanfilms.gumroad.com/l/kHZXp">View now for $12 </a>
+**Lysistrata** is a bold, cinematic adaptation of Aristophanes’ shocking comic masterpiece about the battle of the sexes. When the women of Greece grow exhausted by an endless war, they unite under a radical pact: a sex strike until the men vote for peace. 
+![3_LYSISTRATA_MOVIE_OnStageLiveTheater2026.jpg](/uploads/3_LYSISTRATA_MOVIE_OnStageLiveTheater2026.jpg)
 
-Immerse yourself in Aristophanes' shocking ancient Greek comic masterpiece about a sex strike to end war. This production sets the comic scenes in the ancient Greek locations that are hinted at in the drama but that are hard for modern audiences to imagine. So, for example, you see the interior of the Parthenon for the scenes where Lysistrata outwits the Official.
+The feature film immerses audiences in the breathtaking, historically implied locations of the drama-the sacred mound of the acropolis, the battlements, the treasury, and the complex five-door entrance to the acropolis.
+
+The production features Candace Janee as Lysistrata, Heather Gault as Stratyllis, Morgan Marcum as Myrine, and Tanya Rodina (Miss Ukraine) as the Goddess Peace. 
 
 <iframe src="//www.youtube.com/embed/sCzmowU7E4U?list=UUEXS3vn0MXMsjkJVdxdaKag&rel=0&modestbranding=1&autohide=1" class="yt" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Available on DVD and via HD mp4 files - 1 hr 24 min
+**Available for Institutional Licensing (DVD & HD Digital) — 1 hr 24 min.**
