@@ -83,7 +83,7 @@ layout: default
 </style>
 
 <p style="text-align: center; font-style: italic; margin-bottom: 50px; color: #999; font-size: 1.1em;">
-  The links below are for individual streaming. For institutional licensing or industry screeners, please <a href="/contact" style="color: #fff; text-decoration: underline;">contact our development team</a>.
+  Individual streams are ready to view below. For institutional licensing or industry screeners, please <a href="/contact" style="color: #fff; text-decoration: underline;">contact our development team</a>.
 </p>
 
 <!-- The Gumroad Overlay Script -->
