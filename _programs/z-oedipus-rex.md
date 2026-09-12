@@ -19,15 +19,16 @@ mpn: BVL274621
 isbn: 9781637225875
 ---
 
-Join us for a staging of Peter Arnott's translation of Sophocles' masterpiece Oedipus Rex -- aka Oedipus Tyrannus or simply Oedipus.  Set in a time of plague, the hero who solved the riddle of the Sphinx is now King of Thebes and is about to go on another riddle quest to uncover the source of his city’s pollution. 
+**Available for Institutional Licensing (DVD & HD Digital)**
+
+A definitive staging of Sophocles' psychological masterwork, *Oedipus Rex*. Set against the backdrop of a devastating plague, the brilliant King of Thebes—the hero who once defeated the Sphinx—embarks on a relentless investigation to uncover the source of his city's corruption. What begins as a righteous quest for the truth slowly spirals into the most devastating revelation in theatrical history.
 
 ![4_OEDIPUS_REX_OnStageLiveTheater20262.jpg](/uploads/4_OEDIPUS_REX_OnStageLiveTheater20262.jpg) 
 
 ![Oedipus Rex Staging - Oedipus with Jacosta and Messenger 2022-09-29 .jpg](/uploads/Oedipus%20Rex%20Staging%20-%20Oedipus%20with%20Jacosta%20and%20Messenger%202022-09-29%20.jpg)
-Peter's line-by-line translation, complete with all the chorus odes, gives the fullest exposure to this conundrum riddle of a play - a masterpiece which has inspired thinkers, writers, and psychotherapists since.  
 
-Peter's translations benefit from years of live performances, which is why they are regarded so highly as the perfect blend of scholarship and fun.
+Utilizing Peter Arnott’s acclaimed line-by-line translation, this unabridged production captures the terrifying momentum of the original Greek text. Complete with the vital choral odes, this staging offers an uncompromising look at the foundational tragedy that has captivated audiences, philosophers, and psychoanalysts for millennia. Forged through years of live theatrical refinement, Arnott’s translation strikes a masterful balance between rigorous classical scholarship and gripping dramatic pacing.
 
-The Shepard's arrival in this scene:
+**A pivotal turning point: The arrival of the Shepherd.**
 
 <iframe class="yt" width="560" height="315" src="https://www.youtube.com/embed/6aDTAx9NVW8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
