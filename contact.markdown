@@ -15,6 +15,7 @@ layout: default
     color: #fff !important;
   }
 
+
   .page-wrapper img {
     max-width: 100%;
     height: auto;
