@@ -1,9 +1,10 @@
 ---
 title: IN DEVELOPMENT
 date: 2026-09-11 11:32:00 -04:00
-layout: page
+layout: default
 ---
 
+<div style="max-width: 900px; margin: 0 auto; padding: 0 20px;">
 ## IN DEVELOPMENT
 
 ![The Forge over white.jpg](/uploads/The%20Forge%20over%20white.jpg)
