@@ -38,7 +38,7 @@ mpn: BVL274616
 
 The feature film immerses audiences in the breathtaking, historically implied locations of the drama-the sacred mound of the acropolis, the battlements, the treasury, and the complex five-door entrance to the acropolis.
 
-The production features Candace Janee as Lysistrata, Heather Gault as Stratyllis, Morgan Marcum as Myrine, and Tanya Rodina (Miss Ukraine) as the Goddess Peace. 
+Featuring Candace Janee as Lysistrata, Heather Gault as Stratyllis, Morgan Marcum as Myrine, and Tanya Rodina (Miss Ukraine) as the Goddess Peace. 
 
 <iframe src="//www.youtube.com/embed/sCzmowU7E4U?list=UUEXS3vn0MXMsjkJVdxdaKag&rel=0&modestbranding=1&autohide=1" class="yt" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
