@@ -28,7 +28,7 @@ layout: page
 
 **Logline:** In famine-ravaged 1840s Ireland, an underground rebel teacher goes into hiding as a maid in a powerful British manor, sparking a deadly game of espionage and defiance against a sadistic magistrate. 
 
-**The Story:** Set against the brutal, unforgiving backdrop of the Irish Famine, *The Maids of Dingle* is a gripping historical thriller. Eighteen-year-old Rose is a fiercely courageous underground teacher, risking her life to educate children in the outlawed Irish language and classical history. Relentlessly hunted by Magistrate Russel—a tyrant empowered by martial law and a mandate to crush insurrection—Rose goes into hiding as a domestic maid within a powerful Anglo-Irish manor. 
+**The Story:** Set against the brutal, unforgiving backdrop of the Irish Famine, *The Maids of Dingle* is a gripping historical thriller. Eighteen-year-old Rose is a fiercely courageous underground teacher, risking her life to educate children in the outlawed Irish language and Irish history. Relentlessly hunted by Magistrate Russel—a tyrant empowered by martial law and a mandate to crush insurrection—Rose goes into hiding as a domestic maid within a powerful Anglo-Irish manor. 
 
 When the estate's heir, a decorated British Captain, returns home, Rose finds herself trapped in a perilous web of espionage, hidden loyalties, and brutal betrayal. As the magistrate's reign of terror culminates in public executions, Rose and a fierce local rebel must orchestrate a desperate, bloody showdown against the forces of empire to escape the gallows and secure their freedom.
 
