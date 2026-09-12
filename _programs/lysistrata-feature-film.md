@@ -15,10 +15,10 @@ tags:
 - equality
 position: 8
 image: "/assets/images/content/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE.jpg"
-sidetxt: "\n**Available for Institutional Licensing (DVD & HD Digital)**\n\nAn award-winning
-  feature film adaptation of Aristophanes’ timeless comedy. \n\n**WINNER** – Gold
-  Award, Houston International Film Festival\n**WINNER** – Hollywood Gold Awards\n**WINNER**
-  – 8 & Halfilm Awards\n\n\n"
+sidetxt: "An award-winning feature film adaptation of Aristophanes’ timeless comedy.
+  \n\n**WINNER** – Gold Award, Houston International Film Festival\n\n**WINNER** –
+  Hollywood Gold Awards\n\n**WINNER** – 8 & Halfilm Awards\n\n**Available for Institutional
+  Licensing (DVD & HD Digital)**\n\n\n"
 paypal-id: ZE34FNZFYQ88C
 gum-id: lysistrata-film
 length: 83
@@ -26,7 +26,8 @@ isbn: 9781637225820
 mpn: BVL274616
 ---
 
-**Lysistrata** is a bold, cinematic adaptation of Aristophanes’ shocking comic masterpiece about the battle of the sexes. When the women of Greece grow exhausted by an endless war, they unite under a radical pact: a sex strike until the men vote for peace. 
+**Lysistrata** is a bold, cinematic adaptation of Aristophanes’ shocking comic masterpiece about the battle of the sexes. When the women of Greece grow exhausted by an endless war, they unite under a radical pact: a sex strike until the men vote for peace.
+ 
 ![3_LYSISTRATA_MOVIE_OnStageLiveTheater2026.jpg](/uploads/3_LYSISTRATA_MOVIE_OnStageLiveTheater2026.jpg)
 
 The feature film immerses audiences in the breathtaking, historically implied locations of the drama-the sacred mound of the acropolis, the battlements, the treasury, and the complex five-door entrance to the acropolis.
@@ -35,4 +36,5 @@ Featuring Candace Janee as Lysistrata, Heather Gault as Stratyllis, Morgan Marcu
 
 <iframe src="//www.youtube.com/embed/sCzmowU7E4U?list=UUEXS3vn0MXMsjkJVdxdaKag&rel=0&modestbranding=1&autohide=1" class="yt" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**Available for Institutional Licensing (DVD & HD Digital) — 1 hr 24 min.**
+
+**TRT: 1 hr 24 min.**
