@@ -6,7 +6,7 @@ layout: page
 
 ## In Development
 
-![The Forge Gold Lettering.jpg](/uploads/The%20Forge%20Gold%20Lettering.jpg)
+![The Forge over white.jpg](/uploads/The%20Forge%20over%20white.jpg)
 
 ### The Forge
 **Genre:** Historical Thriller / Political Drama
