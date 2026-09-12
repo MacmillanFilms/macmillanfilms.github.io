@@ -41,6 +41,10 @@ When the estate's heir, a decorated British Captain, returns home, Rose finds he
 
 A bold, complete, authentic staging of Aristophanes' classic comedy. While modern productions frequently adapt the text, this version preserves the hilarious chaos of all twelve political interlopers—including the notoriously absurd parricide (the father-killer). The narrative follows two men who, exhausted by the endless complexities of democracy, abandon their society to establish an autocracy in the sky. By retaining the complete cast of ancient grifters and parasites, the film delivers a sharp, highly cinematic take on political fascination with authoritarianism.
 
+![The Birds Rehearsal The Poet.jpeg](/uploads/The%20Birds%20Rehearsal%20The%20Poet.jpeg)
+
+*The Poet arrives to sing the praises of the new ruler.*
+
 ---
 
 ### Our Classical Mission: Philoctetes
