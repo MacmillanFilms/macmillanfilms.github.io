@@ -1,7 +1,7 @@
 ---
 title: IN DEVELOPMENT
 date: 2026-09-11 11:32:00 -04:00
-layout: default
+layout: page
 ---
 
 ## In Development
