@@ -15,17 +15,10 @@ tags:
 - equality
 position: 8
 image: "/assets/images/content/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE.jpg"
-sidetxt: |2+
-
-  **Available for Institutional Licensing (DVD & HD Digital)**
-
-  An award-winning feature film adaptation of Aristophanes’ timeless comedy. The production features dynamic performances by Candace Janee as Lysistrata, Heather Gault as Stratyllis, Morgan Marcum as Myrine, and Tanya Rodina (Miss Ukraine) as the Goddess Peace.
-
-  **WINNER** – Gold Award, Houston International Film Festival
-  **WINNER** – Hollywood Gold Awards
-  **WINNER** – 8 & Halfilm Awards
-
-
+sidetxt: "\n**Available for Institutional Licensing (DVD & HD Digital)**\n\nAn award-winning
+  feature film adaptation of Aristophanes’ timeless comedy. \n\n**WINNER** – Gold
+  Award, Houston International Film Festival\n**WINNER** – Hollywood Gold Awards\n**WINNER**
+  – 8 & Halfilm Awards\n\n\n"
 paypal-id: ZE34FNZFYQ88C
 gum-id: lysistrata-film
 length: 83
