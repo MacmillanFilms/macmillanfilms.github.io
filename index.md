@@ -148,11 +148,11 @@ Our latest production is [Cato by Joseph Addison](https://www.macmillanfilms.com
 
 
 We also produce thoughtful art films, including the award-winning feature [True Drama](//TrueDramaMovie.com), which contrasts Greek Drama violence with how violence is deployed in modern cinema.
+
 ![TRUE DRAMA POSTER3.jpg](/uploads/TRUE%20DRAMA%20POSTER3.jpg)
 
 
 
-Educational Mission
 
 MacMillan Films produces thoughtful educational programming that instructs and inspires. Our mission is to produce programs that showcase democratic values and the benefits of a pluralist society. 
 
