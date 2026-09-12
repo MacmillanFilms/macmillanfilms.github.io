@@ -11,17 +11,19 @@ tags:
 - plague
 position: 7
 image: "/uploads/Oedipus%20Rex%20Staging%20-%20Oedipus%20with%20Jacosta%20and%20Messenger%202022-09-29%20.jpg"
-sidetxt: "This program is a staging of Peter Arnott's translation of Sophocles' masterpiece
-  Oedipus Rex -- also known as Oedipus Tyrannus or simply Oedipus. \n"
+sidetxt: |
+  Can you reconcile the unbearable injustice of his fate? For thousands of years, the tragedy of Oedipus has challenged and goaded philosophers, psychoanalysts, and scholars alike. Join the pantheon of great thinkers in confronting Sophocles' masterpiece—an unforgiving exploration of free will, divine prophecy, and the terrifying price of truth.
+
+  **Available for Institutional Licensing (DVD & HD Digital)**
 gum-id: oedipus-rex
 length: 91
 mpn: BVL274621
 isbn: 9781637225875
 ---
 
-**Available for Institutional Licensing (DVD & HD Digital)**
 
-A definitive staging of Sophocles' psychological masterwork, *Oedipus Rex*. Set against the backdrop of a devastating plague, the brilliant King of Thebes—the hero who once defeated the Sphinx—embarks on a relentless investigation to uncover the source of his city's corruption. What begins as a righteous quest for the truth slowly spirals into the most devastating revelation in theatrical history.
+
+A definitive staging of Sophocles' psychological masterwork, *Oedipus Rex*. Set against the backdrop of a devastating plague, the brilliant King of Thebes—the hero who outwitted the Sphinx—embarks on a relentless investigation to uncover the source of his city's corruption. What begins as a righteous quest for the truth slowly spirals into the most devastating revelation in theatrical history.
 
 ![4_OEDIPUS_REX_OnStageLiveTheater20262.jpg](/uploads/4_OEDIPUS_REX_OnStageLiveTheater20262.jpg) 
 
