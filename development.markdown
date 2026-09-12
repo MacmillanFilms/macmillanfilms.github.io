@@ -4,6 +4,15 @@ date: 2026-09-11 11:32:00 -04:00
 layout: default
 ---
 
+<style>
+  .dev-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px; /* Optional: adds a nice, subtle curve to the image corners */
+  }
+</style>
+<div class="dev-container" style="max-width: 900px; margin: 0 auto; padding: 0 20px;">
+
 ## IN DEVELOPMENT
 
 ![The Forge over white.jpg](/uploads/The%20Forge%20over%20white.jpg)
