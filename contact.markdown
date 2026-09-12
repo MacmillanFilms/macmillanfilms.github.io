@@ -6,14 +6,22 @@ layout: page
 ---
 
 <style>
-body {
-  background-color: #050505 !important;
-  color: #f1f1f1 !important;
-}
+  body {
+    background-color: #050505 !important;
+    color: #f1f1f1 !important;
+  }
+  
+  .entry-title, .page-title, h1, h2, h3 {
+    color: #fff !important;
+  }
 
-.entry-title, .page-title, h1, h2, h3 {
-  color: #fff !important;
-}
+  .contact-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+</style>
+<div class="contact-container" style="max-width: 900px; margin: 0 auto; padding: 0 20px;" markdown="1">
 
 .contact-container {
   max-width: 600px;
