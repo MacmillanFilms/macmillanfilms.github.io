@@ -2,7 +2,7 @@
 title: CONTACT
 date: 2026-09-11 12:10:00 -04:00
 permalink: "/contact.html"
-layout: page
+layout: default
 ---
 
 <style>
