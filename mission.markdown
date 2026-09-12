@@ -23,7 +23,7 @@ We are currently embarking on a multi-year initiative to produce authentic, film
 Ultimately, these productions provide universities, industry partners, and the general public with vital access to essential Western thought, empowering viewers to fully participate in that great experiment called democracy.
 
 ### Support Our Work
-To help fund this multi-year initiative, MacMillan Films is proud to partner with Fractured Atlas. If you would like to support the staging and preservation of these foundational texts, you can make a tax-deductible contribution through our official fiscal sponsorship portal. 
+To help fund this multi-year initiative, MacMillan Films is proud to partner with Fractured Atlas. If you would like to support the staging and visibility of these foundational texts, you can make a tax-deductible contribution through our official fiscal sponsorship portal. 
 
 **[Visit our Fractured Atlas page to learn more and support the Classical Drama Educational Anthology.](https://fundraising.fracturedatlas.org/the-classical-drama-educational-anthology)**
 
