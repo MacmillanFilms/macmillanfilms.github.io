@@ -15,8 +15,9 @@ layout: page
 
 **Development Status:** We have a completed feature script for *The Forge*. Our unique insight into this historical moment stems from two decades of producing and adapting classical drama. By staging a complete, two-hour production of Joseph Addison’s *Cato*—Washington's favorite play—we gained a profound, practical understanding of exactly how and why Washington deployed this epic tragedy to unite his men.
 
-![Jack Fitzpatrick as 4th Dragoon](/uploads/Jack_Fitzpatrick_Dragoon.jpg)
-*Jack Fitzpatrick dressed as a 4th Dragoon. During the war, the iconic green Irish jackets had to be repurposed directly from captured British redcoats.*
+![Jack Fitzpatrick on horseback as 4th dragoon.jpg](/uploads/Jack%20Fitzpatrick%20on%20horseback%20as%204th%20dragoon.jpg)
+
+*Jack Fitzpatrick in his 4th Dragoon American uniform. During the war, the iconic green Irish jackets were repurposed directly from captured British redcoats.*
 
 ---
 
