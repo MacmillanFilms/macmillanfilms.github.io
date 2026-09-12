@@ -21,16 +21,22 @@ layout: page
 ---
 
 ### The Maids of Dingle
-**Genre:** Historical Drama
+**Genre:** Historical Thriller / Drama
 
-Based on the feature script "Rose V13 - Screenplay.pdf"[cite: 1], *The Maids of Dingle* offers an unblinking look at the most tumultuous time in Irish history. The narrative posits that the modern Irish diaspora have become amnesiacs, separated from their own rich and painful heritage. The film provides a profound cathartic release for generational rage without resorting to hate—even finding room to show love for the British. It serves as a cinematic balm to ancient injustices, a healing perspective only made possible by the long passage of time.
+**Logline:** In famine-ravaged 1840s Ireland, an underground rebel teacher goes into hiding as a maid in a powerful British manor, sparking a deadly game of espionage and defiance against a sadistic magistrate[cite: 1]. 
+
+**The Story:** Set against the brutal, unforgiving backdrop of the Irish Famine, *The Maids of Dingle* is a gripping historical thriller. Eighteen-year-old Rose is a fiercely courageous underground teacher, risking her life to educate children in the outlawed Irish language and classical history[cite: 1]. Relentlessly hunted by Magistrate Russel—a tyrant empowered by martial law and a mandate to crush insurrection—Rose goes into hiding as a domestic maid within a powerful Anglo-Irish manor[cite: 1]. 
+
+When the estate's heir, a decorated British Captain, returns home, Rose finds herself trapped in a perilous web of espionage, hidden loyalties, and brutal betrayal[cite: 1]. As the magistrate's reign of terror culminates in public executions, Rose and a fierce local rebel must orchestrate a desperate, bloody showdown against the forces of empire to escape the gallows and secure their freedom[cite: 1].
+
+**Thematic Vision:** *The Maids of Dingle* is the latest expression in Irish literature. What is ostensibly a story about Irish maids is, in truth, a cinematic bridge to a deeply tumultuous time of injustice. The film provides a vital link for a diaspora of cultural amnesiacs, allowing them to reclaim a cultural pride that reaches back into the ancient past as far as Homer's harp. Crucially, this profound reconnection does not preach violence, but love—even finding shared humanity within the British ranks. Serving as a cinematic balm, it offers a cathartic release for generational rage and a healing perspective only made possible by the passage of time.
 
 ---
 
 ### The Birds
 **Genre:** Satirical Comedy
 
-A bold feature adaptation of Aristophanes' classic comedy. The narrative follows two men who, bored and disillusioned with the complexities of Democracy, abandon their society to form a chaotic autocracy ruled by birds. It is a sharp, highly cinematic take on political escapism and the timeless absurdity of authoritarianism.
+A bold complete, authentic, line-by-line staging of Aristophanes' classic comedy. While modern productions frequently adapt the text, this version preserves the hilarious chaos of all twelve original political interlopers—including the notoriously absurd parricide (the father-killer). The narrative follows two men who, exhausted by the endless complexities of democracy, abandon their society to establish an autocracy in the sky. By retaining the complete cast of ancient grifters and parasites, the film delivers a sharp, highly cinematic take on political fasination with authoritarianism.
 
 ---
 
