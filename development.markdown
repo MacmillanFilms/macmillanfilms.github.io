@@ -14,8 +14,6 @@ layout: default
 
 ## IN DEVELOPMENT
 
-## IN DEVELOPMENT
-
 ![The Forge over white.jpg](/uploads/The%20Forge%20over%20white.jpg)
 
 ### The Forge
