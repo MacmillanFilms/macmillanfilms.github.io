@@ -20,6 +20,8 @@ MacMillan Films produces thoughtful, cinematic programming that instructs and in
 ### The Classical Drama Educational Anthology
 We are currently embarking on a multi-year initiative to produce authentic, filmed stagings of all 27 extant ancient Greek dramas. By translating these foundational texts from the page to the screen, we bridge the gap between classical literature and modern comprehension, bringing the cultural cornerstones of the Athenian Golden Age to today’s audiences. 
 
+![True Drama Production11.jpg](/uploads/True%20Drama%20Production11.jpg)
+
 Ultimately, these productions provide universities, industry partners, and the general public with vital access to essential Western thought, empowering viewers to fully participate in that great experiment called democracy.
 
 ### Support Our Work
