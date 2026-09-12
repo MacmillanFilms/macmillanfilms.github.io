@@ -4,7 +4,7 @@ date: 2026-09-11 11:32:00 -04:00
 layout: page
 ---
 
-## In Development
+## IN DEVELOPMENT
 
 ![The Forge over white.jpg](/uploads/The%20Forge%20over%20white.jpg)
 
@@ -32,14 +32,14 @@ layout: page
 
 When the estate's heir, a decorated British Captain, returns home, Rose finds herself trapped in a perilous web of espionage, hidden loyalties, and brutal betrayal. As the magistrate's reign of terror culminates in public executions, Rose and a fierce local rebel must orchestrate a desperate, bloody showdown against the forces of empire to escape the gallows and secure their freedom.
 
-**Thematic Vision:** *The Maids of Dingle* is the latest expression in Irish literature. What is ostensibly a story about Irish maids is, a cinematic bridge through the deeply tumultuous time of injustice that separated the Irish from their past. The film provides a vital link for a diaspora of cultural amnesiacs, allowing them to reconnect with cultural pride that reaches back into the ancient past as far as Homer's harp. Crucially, this reconnection does not preach violence, but love—even finding shared humanity within the British ranks. Serving as a cinematic balm, it offers a cathartic release for generational rage and a healing perspective only made possible by the long passage of time.
+**Thematic Vision:** *The Maids of Dingle* is the latest expression in Irish literature. What is ostensibly a story about Irish maids is a cinematic bridge through the deeply tumultuous time of injustice that separates the Irish from their past. The film provides a vital link for a diaspora of cultural amnesiacs, allowing them to reconnect with cultural pride that reaches back into the ancient past as far as Homer's harp. Crucially, this reconnection does not preach violence, but love—even finding shared humanity within the British ranks. Serving as a cinematic balm, it offers a cathartic release for generational rage and a healing perspective only made possible by the long passage of time.
 
 ---
 
 ### The Birds
 **Genre:** Satirical Comedy
 
-A bold, complete, authentic staging of Aristophanes' classic comedy. While modern productions frequently adapt the text, this version preserves the hilarious chaos of all nine political interlopers—including the notoriously parricide (the father-killer). The narrative follows two men who, tired by the complexities of democracy, abandon Athens to establish an autocracy in the sky. By retaining the complete cast of ancient grifters and parasites, the film delivers a sharp, highly cinematic take on political fascination with authoritarianism.
+A bold, complete, authentic staging of Aristophanes' classic comedy. While modern productions frequently adapt the text, this version preserves the hilarious chaos of all nine political interlopers—including the notorious parricide (the father-killer). The narrative follows two men who, tired by the complexities of democracy, abandon Athens to establish an autocracy in the sky. By retaining the complete cast of ancient grifters and parasites, the film delivers a sharp, highly cinematic take on political fascination with authoritarianism.
 
 ![The Birds Rehearsal The Poet.jpeg](/uploads/The%20Birds%20Rehearsal%20The%20Poet.jpeg)
 
