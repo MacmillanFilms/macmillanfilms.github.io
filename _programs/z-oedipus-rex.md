@@ -29,7 +29,7 @@ A definitive staging of Sophocles' psychological masterwork, *Oedipus Rex*. Set 
 
 ![Oedipus Rex Staging - Oedipus with Jacosta and Messenger 2022-09-29 .jpg](/uploads/Oedipus%20Rex%20Staging%20-%20Oedipus%20with%20Jacosta%20and%20Messenger%202022-09-29%20.jpg)
 
-Utilizing Peter Arnott’s acclaimed line-by-line translation, this unabridged production captures the terrifying momentum of the original Greek text. Complete with the vital choral odes, this staging offers an uncompromising look at the foundational tragedy that has captivated audiences, philosophers, and psychoanalysts for millennia. Forged through years of live theatrical refinement, Arnott’s translation strikes a masterful balance between rigorous classical scholarship and gripping dramatic pacing.
+Deploying Peter Arnott’s acclaimed line-by-line translation, this unabridged production captures the terrifying momentum of the original Greek text. Complete with the vital choral odes, this staging offers an uncompromising look at the foundational tragedy that has captivated audiences, philosophers, and psychoanalysts for millennia. Forged through years of live theatrical refinement, Arnott’s translation strikes a masterful balance between rigorous classical scholarship and gripping dramatic pacing.
 
 **The turning point of the Shepherd's arrival:**
 
