@@ -31,6 +31,6 @@ A definitive staging of Sophocles' psychological masterwork, *Oedipus Rex*. Set 
 
 Utilizing Peter Arnott’s acclaimed line-by-line translation, this unabridged production captures the terrifying momentum of the original Greek text. Complete with the vital choral odes, this staging offers an uncompromising look at the foundational tragedy that has captivated audiences, philosophers, and psychoanalysts for millennia. Forged through years of live theatrical refinement, Arnott’s translation strikes a masterful balance between rigorous classical scholarship and gripping dramatic pacing.
 
-**A pivotal turning point: The arrival of the Shepherd.**
+**The turning point of the Shepherd's arrival:**
 
 <iframe class="yt" width="560" height="315" src="https://www.youtube.com/embed/6aDTAx9NVW8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
