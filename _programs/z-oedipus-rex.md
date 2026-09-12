@@ -19,9 +19,13 @@ mpn: BVL274621
 isbn: 9781637225875
 ---
 
-Join us for a staging of Peter Arnott's translation of Sophocles' masterpiece Oedipus Rex -- aka Oedipus Tyrannus or simple Oedipus.  Set in a time of plague, the hero who solved the riddle of the sphinx is now King of Thebes and is about to go on another riddle quest to uncover the source of his city’s pollution.  
+Join us for a staging of Peter Arnott's translation of Sophocles' masterpiece Oedipus Rex -- aka Oedipus Tyrannus or simple Oedipus.  Set in a time of plague, the hero who solved the riddle of the sphinx is now King of Thebes and is about to go on another riddle quest to uncover the source of his city’s pollution. 
 
-![Oedipus Rex Staging - Oedipus with Jacosta and Messenger 2022-09-29 .jpg](/uploads/Oedipus%20Rex%20Staging%20-%20Oedipus%20with%20Jacosta%20and%20Messenger%202022-09-29%20.jpg)Peter's line-by-line translation, complete with all the chorus odes, gives the fullest exposure to this conundrum riddle of a play -- a masterpiece that has inspired thinkers, writers, and psychotherapists since.  Peter's translations benefit from years of live performances, which is why they are regarded so highly as the perfect blend of scholarship and fun.
+![4_OEDIPUS_REX_OnStageLiveTheater20262.jpg](/uploads/4_OEDIPUS_REX_OnStageLiveTheater20262.jpg) 
+
+![Oedipus Rex Staging - Oedipus with Jacosta and Messenger 2022-09-29 .jpg](/uploads/Oedipus%20Rex%20Staging%20-%20Oedipus%20with%20Jacosta%20and%20Messenger%202022-09-29%20.jpg)Peter's line-by-line translation, complete with all the chorus odes, gives the fullest exposure to this conundrum riddle of a play -- a masterpiece that has inspired thinkers, writers, and psychotherapists since.  
+
+Peter's translations benefit from years of live performances, which is why they are regarded so highly as the perfect blend of scholarship and fun.
 
 The Shepard's arrival in this scene:
 
