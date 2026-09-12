@@ -4,7 +4,6 @@ date: 2026-09-11 11:32:00 -04:00
 layout: default
 ---
 
-<div style="max-width: 900px; margin: 0 auto; padding: 0 20px;">
 ## IN DEVELOPMENT
 
 ![The Forge over white.jpg](/uploads/The%20Forge%20over%20white.jpg)
@@ -50,3 +49,4 @@ A bold, complete, authentic staging of Aristophanes' classic comedy. While moder
 
 ### Our Classical Mission: Philoctetes
 Alongside our feature film development slate, our studio remains dedicated to the ongoing mission of staging all extant Greek plays. Next in our classical pipeline is Sophocles' *Philoctetes*, a profound theatrical exploration of individual growth, isolation, and the arduous journey to develop an unshakeable moral center.
+<div style="max-width: 900px; margin: 0 auto; padding: 0 20px;">
