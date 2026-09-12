@@ -8,10 +8,11 @@ layout: default
   .dev-container img {
     max-width: 100%;
     height: auto;
-    border-radius: 4px; /* Optional: adds a nice, subtle curve to the image corners */
   }
 </style>
-<div class="dev-container" style="max-width: 900px; margin: 0 auto; padding: 0 20px;">
+<div class="dev-container" style="max-width: 900px; margin: 0 auto; padding: 0 20px;" markdown="1">
+
+## IN DEVELOPMENT
 
 ## IN DEVELOPMENT
 
