@@ -81,7 +81,7 @@ Below - Tatiana Galliher enters the secret theater and Morgan Marcum is a Baccha
 
 ![FeatureFilmStill5.jpg](/uploads/FeatureFilmStill5.jpg)
 
-Our latest production is [Cato by Joseph Addison](https://www.macmillanfilms.com/programs/cato). Known as George Washington's favorite play, it chronicles the last days of democracy in ancient Rome. Addison’s masterful blank verse and themes of civic virtue made the tragedy a touchstone for the Founding Fathers. The plot is highly dynamic—propelled by two complex love triangles, a high-stakes abduction, and an unforgettable tragic conclusion. We staged this epic as both a standalone production and immersive research for The Forge—our feature script detailing Washington’s historic 1778 staging of Cato at Valley Forge.
+Our latest production is [Cato by Joseph Addison](https://www.macmillanfilms.com/programs/cato). Known as George Washington's favorite play, it chronicles the last day of democracy in ancient Rome. Addison’s masterful blank verse and themes of civic virtue made the tragedy a touchstone for the Founding Fathers. The plot is highly dynamic—propelled by two complex love triangles, a high-stakes abduction, and an unforgettable tragic conclusion. We staged this epic as both a standalone production and immersive research for The Forge—our feature script detailing Washington’s historic 1778 staging of Cato at Valley Forge.
 
 ![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)
 
