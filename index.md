@@ -6,11 +6,15 @@ layout: page
 
 MACMILLAN FILMS is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use, including all three plays of the [Oresteia](https://www.macmillanfilms.com/programs/the-oresteia/), [The Bacchae](https://www.macmillanfilms.com/programs/the-bacchae/), [Lysistrata], [Oedipus Rex](https://www.macmillanfilms.com/programs/oedipus-rex/) and [Prometheus Bound](https://www.macmillanfilms.com/programs/prometheus-bound/). 
 
-Below - Tatiana Galliher enters the secret theater in True Drama: 
+Candice Janee is Lysistrata in the Feature Film Lysistrata:
+
+![Candice Janee in Lysistrata Productions Still 2026-09-12 at 7.02.45 PM.jpg](/uploads/Candice%20Janee%20in%20Lysistrata%20Productions%20Still%202026-09-12%20at%207.02.45%E2%80%AFPM.jpg)
+
+
+
+Below - Tatiana Galliher enters the secret theater and Morgan Marcum is a Bacchae in the feature True Drama: 
 
 ![FeatureFilmStill_TRUE_DRAMA.jpg](/uploads/FeatureFilmStill_TRUE_DRAMA.jpg)
-
-Below - Morgan Marcum as a Bacchae in the feature True Drama:
 
 ![FeatureFilmStill5.jpg](/uploads/FeatureFilmStill5.jpg)
 
