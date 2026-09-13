@@ -6,6 +6,8 @@ layout: page
 
 MACMILLAN FILMS is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use including all three plays of the [Oresteia](https://www.macmillanfilms.com/programs/the-oresteia/), [The Bacchae](https://www.macmillanfilms.com/programs/the-bacchae/), [Lysistrata], [Oedipus Rex](https://www.macmillanfilms.com/programs/oedipus-rex/) and [Prometheus Bound](https://www.macmillanfilms.com/programs/prometheus-bound/). 
 
+Below - Tatiana Galliher enters the secret theater in True Drama 
+
 ![FeatureFilmStill_TRUE_DRAMA.jpg](/uploads/FeatureFilmStill_TRUE_DRAMA.jpg)
 
 Below - Morgan Marcum as a Bacchae in the feature True Drama:
