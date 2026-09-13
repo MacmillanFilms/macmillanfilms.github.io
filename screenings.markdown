@@ -175,7 +175,8 @@ layout: default
 
   <!-- 13. Oedipus Rex -->
   <div class="screening-item">
-    <img src="/uploads/4_OEDIPUS_REX_OnStageLiveTheater20262.jpg" alt="Oedipus Rex">
+    <img src="/uploads/OedipusRexShepard.jpg" 
+alt="Oedipus Rex">
     <div class="screening-title">Oedipus Rex</div>
     <a class="studio-watch-btn" href="https://macmillanfilms.gumroad.com/l/fwwaz">VIEW ON DEMAND</a>
   </div>
