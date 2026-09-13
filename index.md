@@ -4,11 +4,13 @@ date: 2020-10-02 10:15:00 -04:00
 layout: page
 ---
 
-MACMILLAN FILMS is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use including all three plays of the [Oresteia](https://www.macmillanfilms.com/programs/the-oresteia/), [The Bacchae](https://www.macmillanfilms.com/programs/the-bacchae/), [Lysistrata]
+MACMILLAN FILMS is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use including all three plays of the [Oresteia](https://www.macmillanfilms.com/programs/the-oresteia/), [The Bacchae](https://www.macmillanfilms.com/programs/the-bacchae/), [Lysistrata], [Oedipus Rex](https://www.macmillanfilms.com/programs/oedipus-rex/) and [Prometheus Bound](https://www.macmillanfilms.com/programs/prometheus-bound/). 
 
-![FeatureFilmStill_TRUE_DRAMA.jpg](/uploads/FeatureFilmStill_TRUE_DRAMA.jpg), [Oedipus Rex](https://www.macmillanfilms.com/programs/oedipus-rex/) and [Prometheus Bound](https://www.macmillanfilms.com/programs/prometheus-bound/). Below - Orestes waits for the verdict at the end of the Oresteia:
+![FeatureFilmStill_TRUE_DRAMA.jpg](/uploads/FeatureFilmStill_TRUE_DRAMA.jpg)
 
-![GREEK DRAMA MacMillan Films Scene from the Oresteia - Eumenidies.png](/uploads/GREEK%20DRAMA%20MAcMillna%20Films%20Scene%20from%20the%20Oresteia%20-%20Eumenidies.png)
+Below - Morgan Marcum as a Bacchae in the feature True Drama:
+
+![FeatureFilmStill5.jpg](/uploads/FeatureFilmStill5.jpg)
 
 
 
