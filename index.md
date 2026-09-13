@@ -109,10 +109,9 @@ Our latest production is [Cato by Joseph Addison](https://www.macmillanfilms.com
     <div class="gallery-label">Lysistrata (Feature Film)</div>
   </a>
 
-  <a href="https://www.macmillanfilms.com/programs/oedipus-rex/" class="gallery-item">
+<a href="https://www.macmillanfilms.com/programs/oedipus-rex/" class="gallery-item">
     <div class="image-wrapper">
-      <img src="//uploads/OedipusRexShepard.jpg"
- alt="Oedipus Rex">
+      <img src="/uploads/OedipusRexShepard.jpg" alt="Oedipus Rex">
     </div>
     <div class="gallery-label">Oedipus Rex</div>
   </a>
