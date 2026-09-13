@@ -1,35 +1,18 @@
 ---
 title: HOME
 date: 2020-10-02 10:15:00 -04:00
-layout: page
+layout: default
 ---
 
-MACMILLAN FILMS is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use, including all three plays of the [Oresteia](https://www.macmillanfilms.com/programs/the-oresteia/), [The Bacchae](https://www.macmillanfilms.com/programs/the-bacchae/), [Lysistrata], [Oedipus Rex](https://www.macmillanfilms.com/programs/oedipus-rex/) and [Prometheus Bound](https://www.macmillanfilms.com/programs/prometheus-bound/). 
-
-Candice Janee is Lysistrata in the Feature Film Lysistrata:
-
-![Candice Janee in Lysistrata Productions Still 2026-09-12 at 7.02.45 PM.jpg](/uploads/Candice%20Janee%20in%20Lysistrata%20Productions%20Still%202026-09-12%20at%207.02.45%E2%80%AFPM.jpg)
-
-
-
-Below - Tatiana Galliher enters the secret theater and Morgan Marcum is a Bacchae in the feature True Drama: 
-
-![FeatureFilmStill_TRUE_DRAMA.jpg](/uploads/FeatureFilmStill_TRUE_DRAMA.jpg)
-
-![FeatureFilmStill5.jpg](/uploads/FeatureFilmStill5.jpg)
-
-
-Our latest production is [Cato by Joseph Addison](https://www.macmillanfilms.com/programs/cato). Known as George Washington's favorite play, it chronicles the last days of democracy in ancient Rome. Addison’s masterful blank verse and themes of civic virtue made the tragedy a touchstone for the Founding Fathers. The plot is highly dynamic—propelled by two complex love triangles, a high-stakes abduction, and an unforgettable tragic conclusion. We staged this epic as both a standalone production and immersive research for The Forge—our feature script detailing Washington’s historic 1778 staging of Cato at Valley Forge.
-
-![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)
-
-![7_CATObyAddisonMarionette.jpg](/uploads/7_CATObyAddisonMarionette.jpg)
-
-
-
-
-
 <style>
+  /* General image scaling for the new container */
+  .page-wrapper img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+
+  /* Your custom Production Gallery Styles */
   .production-gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -37,22 +20,20 @@ Our latest production is [Cato by Joseph Addison](https://www.macmillanfilms.com
     margin: 40px 0;
   }
   
-  /* The link now acts as a column holding both the image and the text */
   .gallery-item {
     display: flex;
     flex-direction: column;
-    text-decoration: none; /* Removes the default link underline from your text */
-    color: inherit; /* Inherits the font color of your website theme */
+    text-decoration: none; 
+    color: inherit; 
   }
 
-  /* The wrapper keeps the 16:9 shape and the hover zoom effect */
   .image-wrapper {
     position: relative;
     overflow: hidden;
     aspect-ratio: 16 / 9;
     border-radius: 4px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    margin-bottom: 10px; /* Adds a small space between the picture and the label */
+    margin-bottom: 10px; 
   }
 
   .image-wrapper img {
@@ -66,7 +47,6 @@ Our latest production is [Cato by Joseph Addison](https://www.macmillanfilms.com
     transform: scale(1.08);
   }
 
-  /* The styling for the text label */
   .gallery-label {
     text-align: center;
     font-weight: 600;
@@ -74,7 +54,6 @@ Our latest production is [Cato by Joseph Addison](https://www.macmillanfilms.com
     line-height: 1.2;
   }
   
-  /* Stacks neatly on mobile devices */
   @media (max-width: 768px) {
     .production-gallery {
       grid-template-columns: repeat(2, 1fr);
@@ -86,6 +65,26 @@ Our latest production is [Cato by Joseph Addison](https://www.macmillanfilms.com
     }
   }
 </style>
+
+<div class="page-wrapper" style="max-width: 900px; margin: 0 auto; padding: 0 20px;" markdown="1">
+
+MACMILLAN FILMS is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use, including all three plays of the [Oresteia](https://www.macmillanfilms.com/programs/the-oresteia/), [The Bacchae](https://www.macmillanfilms.com/programs/the-bacchae/), [Lysistrata], [Oedipus Rex](https://www.macmillanfilms.com/programs/oedipus-rex/) and [Prometheus Bound](https://www.macmillanfilms.com/programs/prometheus-bound/). 
+
+Candice Janee is Lysistrata in the Feature Film Lysistrata:
+
+![Candice Janee in Lysistrata Productions Still 2026-09-12 at 7.02.45 PM.jpg](/uploads/Candice%20Janee%20in%20Lysistrata%20Productions%20Still%202026-09-12%20at%207.02.45%E2%80%AFPM.jpg)
+
+Below - Tatiana Galliher enters the secret theater and Morgan Marcum is a Bacchae in the feature True Drama: 
+
+![FeatureFilmStill_TRUE_DRAMA.jpg](/uploads/FeatureFilmStill_TRUE_DRAMA.jpg)
+
+![FeatureFilmStill5.jpg](/uploads/FeatureFilmStill5.jpg)
+
+Our latest production is [Cato by Joseph Addison](https://www.macmillanfilms.com/programs/cato). Known as George Washington's favorite play, it chronicles the last days of democracy in ancient Rome. Addison’s masterful blank verse and themes of civic virtue made the tragedy a touchstone for the Founding Fathers. The plot is highly dynamic—propelled by two complex love triangles, a high-stakes abduction, and an unforgettable tragic conclusion. We staged this epic as both a standalone production and immersive research for The Forge—our feature script detailing Washington’s historic 1778 staging of Cato at Valley Forge.
+
+![Cato by Joseph Addison prouction still6.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png)
+
+![7_CATObyAddisonMarionette.jpg](/uploads/7_CATObyAddisonMarionette.jpg)
 
 <div class="production-gallery">
   <a href="https://www.macmillanfilms.com/programs/the-oresteia/" class="gallery-item">
@@ -152,16 +151,10 @@ Our latest production is [Cato by Joseph Addison](https://www.macmillanfilms.com
   </a>
 </div>
 
-
-
-
-
 We also produce thoughtful art films, including the award-winning feature [True Drama](//TrueDramaMovie.com), which contrasts Greek Drama violence with how violence is deployed in modern cinema.
 
 ![TRUE DRAMA POSTER3.jpg](/uploads/TRUE%20DRAMA%20POSTER3.jpg)
 
-
-
-
 MacMillan Films produces thoughtful educational programming that instructs and inspires. Our mission is to produce programs that showcase democratic values and the benefits of a pluralist society. 
 
+</div>
