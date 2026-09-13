@@ -111,7 +111,8 @@ Our latest production is [Cato by Joseph Addison](https://www.macmillanfilms.com
 
   <a href="https://www.macmillanfilms.com/programs/oedipus-rex/" class="gallery-item">
     <div class="image-wrapper">
-      <img src="/uploads/4_OEDIPUS_REX_OnStageLiveTheater20262.jpg" alt="Oedipus Rex">
+      <img src="//uploads/OedipusRexShepard.jpg"
+ alt="Oedipus Rex">
     </div>
     <div class="gallery-label">Oedipus Rex</div>
   </a>
