@@ -4,16 +4,15 @@ date: 2020-10-02 10:15:00 -04:00
 layout: page
 ---
 
-MACMILLAN FILMS is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use including all three plays of the [Oresteia](https://www.macmillanfilms.com/programs/the-oresteia/), [The Bacchae](https://www.macmillanfilms.com/programs/the-bacchae/), [Lysistrata], [Oedipus Rex](https://www.macmillanfilms.com/programs/oedipus-rex/) and [Prometheus Bound](https://www.macmillanfilms.com/programs/prometheus-bound/). 
+MACMILLAN FILMS is an independent studio that produces films about art, thought and democracy. We have the largest catalog of ancient Greek plays available anywhere - for academic and personal use, including all three plays of the [Oresteia](https://www.macmillanfilms.com/programs/the-oresteia/), [The Bacchae](https://www.macmillanfilms.com/programs/the-bacchae/), [Lysistrata], [Oedipus Rex](https://www.macmillanfilms.com/programs/oedipus-rex/) and [Prometheus Bound](https://www.macmillanfilms.com/programs/prometheus-bound/). 
 
-Below - Tatiana Galliher enters the secret theater in True Drama 
+Below - Tatiana Galliher enters the secret theater in True Drama: 
 
 ![FeatureFilmStill_TRUE_DRAMA.jpg](/uploads/FeatureFilmStill_TRUE_DRAMA.jpg)
 
 Below - Morgan Marcum as a Bacchae in the feature True Drama:
 
 ![FeatureFilmStill5.jpg](/uploads/FeatureFilmStill5.jpg)
-
 
 
 Our latest production is [Cato by Joseph Addison](https://www.macmillanfilms.com/programs/cato). Known as George Washington's favorite play, it chronicles the last days of democracy in ancient Rome. Addison’s masterful blank verse and themes of civic virtue made the tragedy a touchstone for the Founding Fathers. The plot is highly dynamic—propelled by two complex love triangles, a high-stakes abduction, and an unforgettable tragic conclusion. We staged this epic as both a standalone production and immersive research for The Forge—our feature script detailing Washington’s historic 1778 staging of Cato at Valley Forge.
