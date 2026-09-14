@@ -1,6 +1,6 @@
 ---
 title: TRUE DRAMA
-date: 2022-09-16 17:38:00 -04:00
+date: 2026-09-14 11:04:00 -04:00
 tags:
 - democracy
 - drama
