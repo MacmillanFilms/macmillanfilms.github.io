@@ -1,6 +1,6 @@
 ---
 title: The Bacchae
-date: 2026-09-05 18:53:00 -04:00
+date: 2026-09-10 11:12:00 -04:00
 permalink: "/programs/the-bacchae/"
 position: 1
 image: "/assets/images/content/3DBacchaewithRearSm.jpg"
