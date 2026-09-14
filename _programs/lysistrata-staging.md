@@ -4,13 +4,11 @@ date: 2013-08-20 16:43:00 -04:00
 permalink: "/programs/lysistrata-staging/"
 position: 0
 image: "/assets/images/content/2013/08/LYSISTRATAcompSM.jpg"
-sidetxt: 'This is the popular, complete 2006 staging of Aristophanes'' shocking comic
+sidetxt: "This is the popular, complete 2006 staging of Aristophanes' shocking comic
   masterpiece, excerpted in the PBS documentary with Jane Fonda—Lysistrata: Female
-  Power and Democracy. The staging features Iris McQuillan-Grace in the title role
-  and a talented ensemble cast, and shows why sexual politics are timelessly funny.
-  Originally produced in 2006 and remastered in 2016.
-
-'
+  Power and Democracy. \n\nThe staging features Iris McQuillan-Grace in the title
+  role and a talented ensemble cast, and shows why sexual politics are timelessly
+  funny. Originally produced in 2006 and remastered in 2016.\n"
 paypal-id: R5HDRKDH7TNH8
 gum-id: lysistrata-staging
 length: 90
