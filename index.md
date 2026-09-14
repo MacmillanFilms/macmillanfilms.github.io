@@ -157,6 +157,6 @@ We also produce thoughtful art films, including the award-winning feature [True 
 
 ![TRUE DRAMA POSTER3.jpg](/uploads/TRUE%20DRAMA%20POSTER3.jpg)
 
-Our mission: produce films that dive into the enduring river of ideas first sprung when Athens invented drama and democracy. 
+Our Mission: produce films that dive into the enduring river of ideas first sprung when Athens invented drama and democracy. 
 
 </div>
