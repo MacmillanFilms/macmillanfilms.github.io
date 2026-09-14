@@ -17,4 +17,6 @@ isbn: 9781637225837
 
 Join us for a staging of Peter Arnott's translation of Sophocles' Antigone - staged with marionettes.  This production features the remastered audio of Peter Arnott and the voice of Kelly Addyman as Antigone. Peter's translations benefited from years of live performances,  which is why they are regarded so highly as the perfect blend of scholarship and fun.
 
+![ANTIGONE_OnStageLiveTheater2026.jpg](/uploads/ANTIGONE_OnStageLiveTheater2026.jpg)
+
 ![Screen Shot 2022-09-29 at 4.25.17 PM.jpg](/uploads/Screen%20Shot%202022-09-29%20at%204.25.17%20PM.jpg)
