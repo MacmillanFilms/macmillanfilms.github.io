@@ -25,7 +25,8 @@ tags:
 position: 2
 gum-id: ocdnb
 sidetxt: "At a time when faction works to pull us apart, Cato is a reminder of our
-  common democratic cause. \n\nWINNER - Art Film Awards\n"
+  common democratic cause. \n\nWINNER - Art Film Awards, Athens International Art
+  Film Festival, World Film Fest Barcelona\n"
 image: "/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still6.png"
 isbn: 9798886784527
 mpn: BVL282002
