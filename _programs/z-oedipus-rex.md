@@ -1,6 +1,6 @@
 ---
 title: Oedipus Rex
-date: 2021-10-24 14:53:00 -04:00
+date: 2026-09-09 00:15:00 -04:00
 permalink: "/programs/oedipus-rex/"
 tags:
 - Oedipus Rex
