@@ -1,6 +1,6 @@
 ---
 title: 'Antigone: A Marionette Staging'
-date: 2026-09-07 11:04:00 -04:00
+date: 2026-09-08 11:15:00 -04:00
 permalink: "/programs/antigone/"
 position: 10
 image: "/assets/images/content/2014/04/3DAntigone.jpg"
