@@ -1,6 +1,6 @@
 ---
 title: 'Lysistrata Documentary: Female Power & Democracy'
-date: 2026-09-10 09:14:00 -04:00
+date: 2026-09-05 11:20:00 -04:00
 permalink: "/programs/lysistrata-documentary/"
 position: 5
 image: "/assets/images/content/3DLysistrataDocwithRearSm.jpg"
