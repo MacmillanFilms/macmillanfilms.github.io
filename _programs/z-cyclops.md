@@ -1,6 +1,6 @@
 ---
 title: 'Cyclops: A Marionette Staging'
-date: 2014-04-25 15:32:00 -04:00
+date: 2026-09-02 15:32:00 -04:00
 permalink: "/programs/cyclops/"
 categories:
 - greek drama
