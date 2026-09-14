@@ -1,6 +1,6 @@
 ---
 title: Cato
-date: 2026-09-13 10:13:00 -04:00
+date: 2026-09-02 11:02:00 -04:00
 categories:
 - education
 - democracy
