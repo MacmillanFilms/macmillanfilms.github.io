@@ -1,6 +1,6 @@
 ---
 title: Lysistrata Staging
-date: 2013-08-20 16:43:00 -04:00
+date: 2026-09-11 00:16:00 -04:00
 permalink: "/programs/lysistrata-staging/"
 position: 0
 image: "/assets/images/content/2013/08/LYSISTRATAcompSM.jpg"
