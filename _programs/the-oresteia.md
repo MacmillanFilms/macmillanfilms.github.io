@@ -1,6 +1,6 @@
 ---
 title: The Oresteia Trilogy
-date: 2026-09-06 16:06:00 -04:00
+date: 2026-09-09 11:04:00 -04:00
 permalink: "/programs/the-oresteia/"
 tags:
 - Greek Drama
