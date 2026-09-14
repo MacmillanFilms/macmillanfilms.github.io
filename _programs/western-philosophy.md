@@ -1,6 +1,6 @@
 ---
 title: 'Wisdom for Life: A Guide to Western Philosophy'
-date: 2026-09-01 16:58:00 -04:00
+date: 2026-09-14 11:24:00 -04:00
 permalink: "/programs/western-philosophy/"
 position: 6
 image: "/assets/images/content/3DWisdomwithRearSm.jpg"
