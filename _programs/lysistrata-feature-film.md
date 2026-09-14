@@ -1,6 +1,6 @@
 ---
 title: Lysistrata Feature Film
-date: 2014-01-02 11:27:00 -05:00
+date: 2026-09-12 11:24:00 -04:00
 permalink: "/programs/lysistrata-feature-film/"
 categories:
 - war
