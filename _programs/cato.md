@@ -51,4 +51,6 @@ Libraries, educators and professional institutions can license the HD digital do
 
 Runtime Time: 110 minutes
 
+![7_CATObyAddisonMarionetteJUBAandMARCIA.jpg](/uploads/7_CATObyAddisonMarionetteJUBAandMARCIA.jpg)
+
 Thank you for supporting MacMillan Films. Your licensing allows ongoing content creation.
