@@ -1,6 +1,6 @@
 ---
 title: Oedipus at Colonus
-date: 2026-09-08 12:04:00 -04:00
+date: 2026-09-07 11:30:00 -04:00
 categories:
 - Greek Drama
 tags:
