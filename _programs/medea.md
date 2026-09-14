@@ -1,6 +1,6 @@
 ---
 title: Medea
-date: 2016-06-01 15:11:00 -04:00
+date: 2026-09-04 11:04:00 -04:00
 permalink: "/programs/medea/"
 position: 4
 image: "/assets/images/content/3DMedeaFrontandBackcropped.jpg"
