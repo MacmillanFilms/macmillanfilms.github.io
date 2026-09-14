@@ -157,6 +157,6 @@ We also produce thoughtful art films, including the award-winning feature [True 
 
 ![TRUE DRAMA POSTER3.jpg](/uploads/TRUE%20DRAMA%20POSTER3.jpg)
 
-MacMillan Films produces thoughtful educational programming that instructs and inspires. Our mission is to produce programs that showcase democratic values and the benefits of a pluralist society. 
+Our mission: produce films that dive into the enduring river of ideas set in motion in ancient Greece, when drama and democracy first emerged. 
 
 </div>
