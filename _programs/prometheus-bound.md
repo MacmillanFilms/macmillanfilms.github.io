@@ -1,6 +1,6 @@
 ---
 title: Prometheus Bound
-date: 2015-04-18 20:29:00 -04:00
+date: 2026-09-03 11:16:00 -04:00
 permalink: "/programs/prometheus-bound/"
 position: 9
 image: "/assets/images/content/2015/04/Prometheus-Bound-Staging-DVD.jpg"
