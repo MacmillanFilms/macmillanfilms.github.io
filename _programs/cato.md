@@ -34,12 +34,23 @@ mpn: BVL282002
 description: 'Joseph Addison''s Cato: A Complete Theatrical Staging'
 ---
 
-CATO by Joseph Addison - George Washington's favorite play - is about the last day of democracy in Rome - before Rome became an empire. With epic heroes, scheming villains, sword duels, love triangles and thought-provoking dialogue about the nature of democracy -- it's easy to see why CATO was the most popular play in America before the Revolution. George Washington famously staged it at Valley Forge. Benjamin Franklin so admired the work that he practiced writing it down from memory. Come experience the full 5 Acts that inspired the heroes of the Revolution.
+---
+title: "Joseph Addison's Cato: Complete Theatrical Marionette Staging"
+description: "Watch the complete 5-act production of Joseph Addison's Cato, the Neoclassical tragedy famously staged by George Washington at Valley Forge."
+---
 
-![Cato by Joseph Addison prouction still13.png](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still13.png)
+## Watch the Full Production of Joseph Addison's *Cato*
 
-<iframe class="yt" width="560" height="315" src="https://www.youtube.com/embed/H7nBnDidBag?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Cato* by Joseph Addison—George Washington's favorite play—is a tragic masterpiece about the last days of the Roman Republic, right before Rome became an empire. With epic heroes, scheming villains, sword duels, love triangles, and thought-provoking dialogue about the nature of liberty, it's easy to see why *Cato* was the most popular play in America before the Revolution. 
 
-Runtime Time: 110 minutes
+George Washington famously staged this drama during the darkest days at Valley Forge to inspire his troops. Benjamin Franklin so admired the work that he practiced writing it down from memory. Now, MacMillan Films invites you to experience the complete 5-act marionette staging of the play that inspired the heroes of the American Revolution.
 
-![7_CATObyAddisonMarionetteJUBAandMARCIA.jpg](/uploads/7_CATObyAddisonMarionetteJUBAandMARCIA.jpg)
+![Production still of Cato by Joseph Addison showing the marionette staging](/uploads/Cato%20by%20Joseph%20Addison%20prouction%20still13.png)
+
+### Experience the Complete 5-Act Play
+
+<iframe class="yt" width="560" height="315" src="https://www.youtube.com/embed/H7nBnDidBag?rel=0" title="Watch the Complete Staging of Cato by Joseph Addison" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Runtime:** 110 minutes
+
+![Characters Juba and Marcia in Cato by Joseph Addison - Marionette Production](/uploads/7_CATObyAddisonMarionetteJUBAandMARCIA.jpg)
