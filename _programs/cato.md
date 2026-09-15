@@ -35,9 +35,20 @@ description: 'Joseph Addison''s Cato: A Complete Theatrical Staging'
 ---
 
 ---
-Title: "Joseph Addison's Cato: Complete Theatrical Marionette Staging"
+Title: "Joseph Addison's Cato: Complete Theatrical Marionette Staging, lightly modernised for performance"
 Description: "Watch the complete 5-act production of Joseph Addison's Cato, the Neoclassical tragedy famously staged by George Washington at Valley Forge."
 ---
+  <summary style="font-weight: bold; cursor: pointer;">Read the Full Script</summary>
+  <div style="margin-top: 15px; font-family: sans-serif; line-height: 1.6;">
+    
+    <p><em>Cato by Addison as slightly modernized for performance.</em></p>
+    <hr>
+
+    <p>Washington:<br>
+    I WILL PASTE THE WHOLE TEXT HERE...</p>
+    
+  </div>
+</details>
 
 ## Watch the Full Production of Joseph Addison's *Cato*
 
