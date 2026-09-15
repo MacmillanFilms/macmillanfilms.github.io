@@ -63,16 +63,6 @@ George Washington famously staged this drama during the darkest days at Valley F
     <hr>
 
 GEORGE WASHINGTON: (intro by George Washington marionette) I'm general Washington, commander-in-chief of the colonial armies. Welcome to the staging of Cato my favorite play I had it staged at valley forge during the darkest days of the American revolution because Cato is an inspiration to all who know it. Cato tells the story of the last day of Roman democracy when their 500-year republic ended and became an empire. Before the events of this play Caesar crushed the pro-democracy army in Greece in the decisive Battle of Pharsalis. An epic poem called Pharselia details how he triumphed against democracy this drama comes after those events - as the remnant of pro-democracy forces which escaped under the leadership of senator Cato. gather for a last stand. As dawn rises Cato's two sons talk of Caesar's advancing army which threatens to end all their lives and democracy that 
-
-
-
-
-
-
-
-
-
-
 very day. As you listen to the story, you might notice lines made famous during the American revolution. That's because the founding fathers knew this play intimately the sacrifice of the patriots who lived the ideals of this drama to win us the freedoms we enjoy today is why Cato is called 'America's founding drama'.
 
 PORTIUS: The dawn is overcast and morning lowers and heavily in clouds brings on the day, the great the important day big with the fate of Cato and of Rome.
