@@ -35,10 +35,9 @@ description: 'Joseph Addison''s Cato: A Complete Theatrical Staging'
 ---
 
 ---
-Title: "Joseph Addison's Cato: Complete Theatrical Marionette Staging, lightly modernised for performance"
-Description: "Watch the complete 5-act production of Joseph Addison's Cato, the Neoclassical tragedy famously staged by George Washington at Valley Forge."
+title: "Joseph Addison's Cato: Complete Theatrical Marionette Staging, lightly modernised for performance"
+description: "Watch the complete 5-act production of Joseph Addison's Cato, the Neoclassical tragedy famously staged by George Washington at Valley Forge."
 ---
-
 
 ## Watch the Full Production of Joseph Addison's *Cato*
 
@@ -58,22 +57,23 @@ George Washington famously staged this drama during the darkest days at Valley F
 
 <details style="margin-top: 20px; margin-bottom: 20px; padding: 15px; border: 1px solid #ccc; border-radius: 5px;">
   <summary style="font-weight: bold; cursor: pointer;">Read the Full Script</summary>
-  <div style="margin-top: 15px; font-family: sans-serif; line-height: 1.6;">
+  <div style="margin-top: 15px; font-family: sans-serif; line-height: 1.6; white-space: pre-wrap;">
     
     <p><em>Cato by Addison as slightly modernized for performance.</em></p>
     <hr>
 
-    <p>WASHINGTON:<br>
-    [<details style="margin-top: 20px; margin-bottom: 20px; padding: 15px; border: 1px solid #ccc; border-radius: 5px;">
-  <summary style="font-weight: bold; cursor: pointer;">Read the Full Script</summary>
-  <div style="margin-top: 15px; font-family: sans-serif; line-height: 1.6;">
-    
-    <p><em>Cato by Addison as slightly modernized for performance.</em></p>
-    <hr>
+GEORGE WASHINGTON: (intro by George Washington marionette) I'm general Washington, commander-in-chief of the colonial armies. Welcome to the staging of Cato my favorite play I had it staged at valley forge during the darkest days of the American revolution because Cato is an inspiration to all who know it. Cato tells the story of the last day of Roman democracy when their 500-year republic ended and became an empire. Before the events of this play Caesar crushed the pro-democracy army in Greece in the decisive Battle of Pharsalis. An epic poem called Pharselia details how he triumphed against democracy this drama comes after those events - as the remnant of pro-democracy forces which escaped under the leadership of senator Cato. gather for a last stand. As dawn rises Cato's two sons talk of Caesar's advancing army which threatens to end all their lives and democracy that 
 
-    <p>WASHINGTON:<br>
-    [Here is the clean, formatted script:
-GEORGE WASHINGTON: (intro by George Washington marionette) I'm general Washington, commander-in-chief of the colonial armies. Welcome to the staging of Cato my favorite play I had it staged at valley forge during the darkest days of the American revolution because Cato is an inspiration to all who know it. Cato tells the story of the last day of Roman democracy when their 500-year republic ended and became an empire. Before the events of this play Caesar crushed the pro-democracy army in Greece in the decisive Battle of Pharsalis. An epic poem called Pharselia details how he triumphed against democracy this drama comes after those events - as the remnant of pro-democracy forces which escaped under the leadership of senator Cato. gather for a last stand. As dawn rises Cato's two sons talk of Caesar's advancing army which threatens to end all their lives and democracy that very day. As you listen to the story, you might notice lines made famous during the American revolution. That's because the founding fathers knew this play intimately the sacrifice of the patriots who lived the ideals of this drama to win us the freedoms we enjoy today is why Cato is called 'America's founding drama'.
+
+
+
+
+
+
+
+
+
+very day. As you listen to the story, you might notice lines made famous during the American revolution. That's because the founding fathers knew this play intimately the sacrifice of the patriots who lived the ideals of this drama to win us the freedoms we enjoy today is why Cato is called 'America's founding drama'.
 
 PORTIUS: The dawn is overcast and morning lowers and heavily in clouds brings on the day, the great the important day big with the fate of Cato and of Rome.
 
@@ -734,9 +734,6 @@ PORTIUS: These are the triumphs of your exploits Caesar. Now is Rome fallen, ind
 CATO: Portius come near me. Are my friends embarked? Can anything be thought of for their service? Whilst I live let me not live in vain. Oh Lucius are you here. You are too good. Let this our friendship live between our children. Make Portius happy in your daughter Lucia. Alas, poor man, he weeps. Marcia my daughter Oh bend me forward ... Juba loves you Marcia. A senator at Rome well Rome survived would not have matched his daughter with a king that Caesar's arms have thrown down all distinction whoever is brave and virtuous is a Roman I am sick to death oh when shall I get loose of this world the abode of guilt and sorrow and yet I see a beam of light breaking in on my departing soul alas I fear I have been too hasty oh you powers that search the hearts of men and weigh their innermost thoughts if I have done amiss impugn it not, the best of us may air but you are good and (dies)
 
 PORTIUS: There fled the greatest soul that ever warmed a Roman breast oh Cato oh my friend your will shall be rigorously observed but let us bear this awful corpse Caesar and lay it in his sight that it may stand a fence between us and the victor's wrath Cato though dead shall still protect his friends from hence let fierce contending nations know what dire effects from civil discord flow it is this that shakes our country with alarms and gives up Rome a prey to Roman arms produces fraud and cruelty and strife, and robs the guilty world of Cato's life.]</p>
-    
-  </div>
-</details>]</p>
     
   </div>
 </details>
